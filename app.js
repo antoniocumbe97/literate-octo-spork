@@ -53,12 +53,12 @@ function questoes(){
 
 function verficarResposta(resposta){
 	if ((pergunta[num[questaoActual]].answer) == resposta) {
-		certas += 5;
-		vida += 5;
+		certas += 2;
+		vida += 2;
 		contCerto++;
 		myBody[resposta-1].style.backgroundColor = '#28a745';		
 	} else{
-		vida -= 5;
+		vida -= 2;
 		myBody[resposta-1].style.backgroundColor = '#e42d3b';
 		myBody[pergunta[num[questaoActual]].answer-1].style.backgroundColor = '#28a745';
 	}
