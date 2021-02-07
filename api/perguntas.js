@@ -263,6 +263,230 @@ let questions = [{
 	"answer":"1",
 	"category":"Biologia"
 },{
+	"question":"O grupo que contem apenas traqueófitas é…", 
+	"option1":"Algas, musgos e briófitas", 
+	"option2":"Musgos, gimnospérmicas e angiospérmicas", 
+	"option3":"Pteridófitas, angiospérmicas e gimnospérmicas", 
+	"option4":"pteridófitas, briófitas e gimnospérmicas", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"As sementes protegidas por uma “urna”, é aquisição evolutiva de qual grupo vegetal?", 
+	"option1":"Pteridófitas", 
+	"option2":"Briófitas", 
+	"option3":"Angiospermas", 
+	"option4":"Gimnospermas", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"Pinheiros, Ciprestes, cedros e sequoias são gimnospermas que produzem todas as estruturas à seguir, excepto", 
+	"option1":"Raiz", 
+	"option2":"Caule", 
+	"option3":"Frutos", 
+	"option4":"Semente", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"A fotossíntese libera para a atmosfera…", 
+	"option1":"O oxigénio oriundo da agua", 
+	"option2":"O oxigénio proveniente do gás carbónico", 
+	"option3":"O gás carbónico proveniente da respiração", 
+	"option4":"O vapor da agua absorvido pela luz", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Qual é a função do tubo digestório?", 
+	"option1":"Tirar a glicose do lado", 
+	"option2":"Fragmentar o alimento para passar para as células", 
+	"option3":"Produzir o acido clorídrico", 
+	"option4":"Bombear o sangue", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"A picada do mosquito do genero Anopheles é a principal via de transmissão da(o)…", 
+	"option1":"Cólera", 
+	"option2":"Difteria", 
+	"option3":"Malária", 
+	"option4":"Sarampo", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"A tuberculose é uma doença causada por…", 
+	"option1":"Mycobacterium tuberculosis", 
+	"option2":"Corynebacterium diphtheriae", 
+	"option3":"Clostridium tetani", 
+	"option4":"Vidro cholerae", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Qual dos animas realiza a digestão intracelular?", 
+	"option1":"Esponja", 
+	"option2":"Hidra", 
+	"option3":"Planaria", 
+	"option4":"Minhoca", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"As trocas gasosas no pulmão humano, em condições normais ocorrem…", 
+	"option1":"Nos alvéolos", 
+	"option2":"Nos bronquíolos", 
+	"option3":"Nos brônquios", 
+	"option4":"Na traqueia", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"A sequência  correta das estruturas do sistema respiratório humano e…", 
+	"option1":"Boca-fossas nasais-laringe-brônquios-traqueia-faringe", 
+	"option2":"Fossas nasais-faringe-laringe-traqueia-brônquios-pulmões", 
+	"option3":"Boca-faringe-pulmões-coração-traqueia-brônquios", 
+	"option4":"Fossas nasais-faringe-laringe-pulmões-coração-traqueia", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"O reticulo endoplasmático pode ser:", 
+	"option1":"Liso ou rugoso", 
+	"option2":"plano ou liso", 
+	"option3":"Plano ou rugoso", 
+	"option4":"Rugoso ou estreito", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"O nome científico da zebra é…", 
+	"option1":"equus Burchelli", 
+	"option2":"Equus Burchelli", 
+	"option3":"Equus burchelli", 
+	"option4":"equus burchelli", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"O grupo que contem apenas traqueófitas é…", 
+	"option1":"Algas, musgos e briófitas", 
+	"option2":"Musgos, gimnospérmicas e angiospérmicas", 
+	"option3":"Pteridófitas, angiospérmicas e gimnospérmicas", 
+	"option4":"pteridófitas, briófitas e gimnospérmicas", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"Pertecem ao reino plantae os seguintes seres…", 
+	"option1":"Algas azuis, mangueira e polipódio", 
+	"option2":"Cogumelo, mangueira e polipódio", 
+	"option3":"Funaria, mangueira e polipódio", 
+	"option4":"Leveduras, algas castanhas e polipódio", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"São filos do reino plantae…", 
+	"option1":"Cloroficeas, rodoficeas, ciaoficias, briófitas e traqueófitas", 
+	"option2":"Cloroficeas, rodoficeas, briofitas, feoficeas e traqueófitas", 
+	"option3":"Cloroficeas, schizophyta, rodoficeas, briófitas e traqueófitas", 
+	"option4":"Nenhuma das alternativas", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"As primeiras plantas a presentarem vasos condutores são…", 
+	"option1":"Algas", 
+	"option2":"Briófitas", 
+	"option3":"Pteridófitas", 
+	"option4":"Gimnospérmicas", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"Os musgos que crescem em locais húmidos são…", 
+	"option1":"Gametófitos de briófitas", 
+	"option2":"Gametófitos de pteridófitas", 
+	"option3":"Esporófitos de briófitos", 
+	"option4":"Esporófitos de pteridófitas", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Os esporos do polipódio quando germinam dão origem ao…", 
+	"option1":"Protalo", 
+	"option2":"Protonema", 
+	"option3":"Zigoto", 
+	"option4":"bílis", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"A estrutura  produtora de gametas  feminino das angiospérmicas é…", 
+	"option1":"Estame", 
+	"option2":"Antera", 
+	"option3":"Tubo polínico", 
+	"option4":"Ovário", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"O amendoim é uma dicotiledónea por ter…", 
+	"option1":"Folha com nervação paralelinérveas", 
+	"option2":"Raiz fasciculada", 
+	"option3":"Raiz aprumada", 
+	"option4":"Caule Simples", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"A polinização em gimnospérmicas é feita através de…", 
+	"option1":"Agua", 
+	"option2":"Homem", 
+	"option3":"Aves", 
+	"option4":"Vento", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"Quais são os animais que pertencem ao mesmo filo?", 
+	"option1":"Minhoca, Piolho Caranguejo", 
+	"option2":"Estrela do mar, Pepino do mar e Holotúria", 
+	"option3":"Barata, Mosquito e Peixe", 
+	"option4":"Plantaria, Hidra e Lombriga", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Todas características pertencem ao phylum Mollusca, excepto:…", 
+	"option1":"Ausência de celoma", 
+	"option2":"Presença de rádula", 
+	"option3":"Presença de concha externa", 
+	"option4":"Presença do manto", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"O estoma é formado por…", 
+	"option1":"Duas células-guardas e o estiolo", 
+	"option2":"Cristas e lamelas", 
+	"option3":"Três células", 
+	"option4":"Duas células-guardas", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Quais são os tecidos de suporte na planta?", 
+	"option1":"Colênquima e esclerênquima", 
+	"option2":"Floema e colênquima", 
+	"option3":"Colênquima e Xilema", 
+	"option4":"Xilema e Floema", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Hereditariedade é a capacidade que a célula tem de transmitir as informações genéticas as células filhas. Estas informações estão localizadas…", 
+	"option1":"Na Parede celular", 
+	"option2":"Nos Cromossomas localizados no núcleo celular", 
+	"option3":"No reticulo endoplasmático", 
+	"option4":"Nas mitocôndrias", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"O tecido responsável pela condução da água e sais minerais é o", 
+	"option1":"Xilema e Floema", 
+	"option2":"Xilema ou lenho", 
+	"option3":"Floema ou líber", 
+	"option4":"Xilema e líber", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Os Lípidos são classificados de acordo com o seu número de moléculas na sua constituição, são eles…", 
+	"option1":"Monossacarídeos, Dissacarídeos e polissacarídeos", 
+	"option2":"Trimonossacarídeos, Sacarídeos e polissacarídeos", 
+	"option3":"Monossacarídeos, Sacarídeos e polissacarídeos", 
+	"option4":"Sacarídeos, Dissacarídeos e polissacarídeos", 
+	"answer":"1",
+	"category":"Biologia"
+},{
 	"question":"Na frase “O povo manifesta-se contra o custo de vida no país”, a expressão «O povo» é:", 
 	"option1":"Objecto directo", 
 	"option2":"Objecto indirecto", 
@@ -966,6 +1190,126 @@ let questions = [{
 	"option4":"3/5", 
 	"answer":"4",
 	"category":"Matemática"
+},{
+	"question":"A velocidade de propagação das ondas eletromagnéticas no vácuo é…", 
+	"option1":"diferente", 
+	"option2":"igual zero", 
+	"option3":"constante", 
+	"option4":"decrescente", 
+	"answer":"3",
+	"category":"Física"
+},{
+	"question":"O comprimento de onda máxima de radiação de um corpo negro é inversamente proporcional a sua temperatura, isto significa que, com o aumento da temperatura, o comprimento…", 
+	"option1":"É máximo", 
+	"option2":"Mantem-se", 
+	"option3":"É nulo", 
+	"option4":"É mínimo ", 
+	"answer":"4",
+	"category":"Física"
+},{
+	"question":"Entre uma onda eletromagnética e mecânica é valido dizer que…", 
+	"option1":"Possuem a mesma velocidade no vácuo", 
+	"option2":"A eletromagnética propaga-se no vácuo", 
+	"option3":"Ambas podem propagar-se no vácuo", 
+	"option4":"A mecânica propaga-se no vácuo", 
+	"answer":"2",
+	"category":"Física"
+},{
+	"question":"O ramo da física que estuda a troca de calor entre corpos chama-se…", 
+	"option1":"Mecânica", 
+	"option2":"Hidrodinâmica", 
+	"option3":"Calorimetria", 
+	"option4":"Estática", 
+	"answer":"3",
+	"category":"Física"
+},{
+	"question":"Conhecendo a distância de um ponto até ao astro, pode-se estimar o valor da temperatura do astro pela lei de…", 
+	"option1":"Stefan-Boltzmann", 
+	"option2":"Wien", 
+	"option3":"Newton", 
+	"option4":"Arquimedes", 
+	"answer":"2",
+	"category":"Física"
+},{
+	"question":"A água escoa normalmente em um rio. Para a parte mais larga do rio, pode-se dizer que a pressão é…", 
+	"option1":"Menor", 
+	"option2":"Nula", 
+	"option3":"Maior", 
+	"option4":"Constante", 
+	"answer":"1",
+	"category":""
+},{
+	"question":"No ato da rega dos jardim, com uma mangueira, é comum reduzirmos parcialmente a parte da saída da mangueira, para obter…", 
+	"option1":"Maior área", 
+	"option2":"Força de atrito", 
+	"option3":"Força de gravidade", 
+	"option4":"Maior velocidade", 
+	"answer":"4",
+	"category":"Física"
+},{
+	"question":"O princípio de continuidade diz que, o caudal (vazão) de um fluido em regime permanente é…", 
+	"option1":"Variável", 
+	"option2":"Constante", 
+	"option3":"Indeterminado", 
+	"option4":"Desordenado", 
+	"answer":"2",
+	"category":""
+},{
+	"question":"Uma transformação gasosa, diz-se isobárica, quando decorre à…", 
+	"option1":"Pressão constante",
+	"option2":"Volume constante",
+	"option3":"Força constante",
+	"option4":"Temperatura constante",
+	"answer":"1",
+	"category":"Física"
+},{
+	"question":"Durante o movimento de um oscilador, o ponto de elongação máxima chama-se…", 
+	"option1":"Elongação", 
+	"option2":"Período", 
+	"option3":"Amplitude", 
+	"option4":"Frequência", 
+	"answer":"3",
+	"category":"Física"
+},{
+	"question":"Qual é a alternativa que melhor completa a frase seguinte? Quando um gás ideal sofre uma expansão isotérmica…", 
+	"option1":"a energia recebida pelo gás na forma de calor é igual ao trabalho realizado pelo gás.", 
+	"option2":"a energia recebida pelo gás na forma de calor é igual à variação da energia interna do gás.", 
+	"option3":"não troca energia na forma de calor com o meio exterior.", 
+	"option4":"não troca energia na forma de trabalho com o meio exterior.", 
+	"answer":"1",
+	"category":"Física"
+},{
+	"question":"Os raios X são…", 
+	"option1":"ondas electromagnéticas de comprimento de onda muito curto.", 
+	"option2":"ondas electromagnéticas de comprimento de onda muito longo.", 
+	"option3":"radiações formadas por neutrões dotados de grande velocidade.", 
+	"option4":"radiações formadas por protões dotados de grande velocidade.", 
+	"answer":"1",
+	"category":"Física"
+},{
+	"question":"Um corpo oscila de acordo com a seguinte lei v=100cos(πt). A velocidade do corpo em m/s no instante t=1/2s é de…", 
+	"option1":"0", 
+	"option2":"100", 
+	"option3":"200", 
+	"option4":"300", 
+	"answer":"1",
+	"category":"Física"
+},{
+	"question":"O efeito fotoelétrico consiste na (no)…", 
+	"option1":"Emissão de neutrões quando uma onda eletromagnética incide em certas superfícies", 
+	"option2":"Possibilidade de se obter uma foto do campo elétrico quando esse campo interage com a matéria", 
+	"option3":"Emissão de eletrões quando uma onda eletromagnética incide em certas superfícies", 
+	"option4":"Facto de que a corrente elétrica em metais é formada por fotões de determinada energia", 
+	"answer":"3",
+	"category":"Física"
+},{
+	"question":"Quando a radiação eletromagnética incide em uma superfície metálica há a retirada de eletrões desta superfície. Esta ocorrência é denominada…", 
+	"option1":"efeito Joule.", 
+	"option2":"efeito fotoelétrico.", 
+	"option3":"interferência da luz.", 
+	"option4":"dispersão da luz.", 
+	"answer":"2",
+	"category":"Física"
 }];
 
 let pergunta = new Array();
@@ -987,155 +1331,20 @@ for (let index = 0; index < questions.length; index++) {
 	"answer":"1",
 	"category":"Biologia"
 }
-55-As sementes protegidas por uma “urna”, é aquisição evolutiva de qual grupo vegetal?...”C”
-a)Pteridofitas      b) Briofitas        c)   Angiospermas    d)   Gimnospermas
-
-56-Pinheiros, Ciprestes, cedros e sequoias são gimnospermas que produzem todas as estruturas aseguir, excepto...”C”
-c)	Raiz           b) Caule               c) Frutos             d) Semente
-57-A tuberculose é uma doença causada por..”A”
-a)Mycobacterium tuberculosis      c) Corynebacterium diphtheriae
-b)Clostridium tetani                         d)Vidro cholerae
-58-A picada do mosquito do genero Anopheles é a principal via de transmissão da(o)….”C”
-a)Cólera           b) Difteria      c) Malária     d) Sarampo
-
-59-A fotossíntese libera para a atmosfera…”A”
-a)	O oxigénio oriundo da agua                                c) O oxigénio proveniente do gás carbónico
-b)	O gás carbónico proveniente da respiração    d) O vapor da agua absorvido pela luz
-
-61-Qual é a função do tubo digestório?...”C”
-a)Tirar a glicose do lado 	   c)Fragmentar o alimento para passar para as células
-b) Produzir o acido clorídrico     d)Bombear o sangue 
-
-
-63-Qual dos animas realiza a digestão intracelular?....”A”
-a)Esponja           b)Hidra       c) Planaria      d) Minhoca
-64-As trocas gasosas no pulmão humano, em condições normais ocorrem…”A”
-a)Nos alvéolos       b) Nos bronquíolos      c) Nos brônquios      d) Na traqueia
-65-A sequencia correta das estruturas do sistema respiratório humano e…”B”
-a)Boca-fossas nasais-laringe-brônquios-traqueia-faringe
-b)Fossas nasais-faringe-laringe-traqueia-brônquios-pulmões
-c)Boca-faringe-pulmões-coração-traqueia-brônquios
-d)Fossas nasais-faringe-laringe-pulmões-coração-traqueia
-[17:37, 17/09/2020] Belirio: 7-Qual é a data de Nascimento do Antigo presidente de Moçambique, Armando Emílio Guebuza?
-A)19 de Janeiro de 1943
-B) 20 de Janeiro de 1943
-C) 21 de Janeiro de 1943
-D) 22 de Janeiro de 1943
-[17:37, 17/09/2020] Belirio: 8-Quando é celebrado o dia da independência em Moçambique?
-A) 7 de Abril
-B) 3 DE FEVEREIRO
-C) 25 DE SETEMBRO
-D) 4 DE OUTUBRO
-[17:37, 17/09/2020] Belirio: 9-Quantos irmãos tinha Eduardo Mondlane?
-A) 2
-B)12
-C) 8 
-D) 15
-[17:38, 17/09/2020] Belirio: 10-Eduardo Mondlane estudou na África do Sual. O que ele seguiu?
-A) Sociologia
-B)Engenharia Civil
-C) Relações Internacionais e Diplomacia 
-D) Ciências Sociais
-
-
-[12:53, 19/09/2020] Belirio: De quantas maneiras diferentes se podem sentar 3 amigos num banco com tres lugares? 
-A)9 maneiras
- B) 6 maneiras
-C)3 maneiras
-D) 1 maneira
-[12:53, 19/09/2020] Belirio: A(10,6)= ?
-A) 151200
-B) 511200 
-C) 158578
-D) 36285
-
-[12:53, 19/09/2020] Belirio: Se P(A)= 3/7, entao 1-P(A)= 
-A) 0.571428571428571 B)0.428571428571429
-C)0.738378362838486
-D0.7383639376638388
-
-
-[13:14, 19/09/2020] Belirio: A solução da equação long2(X+4)-log2(X-2)=log21+log2X é?
-A) X=4 v X=-1
-B)X=4
-C) X= -1 
-D) X=1
-[13:14, 19/09/2020] Belirio: Ai no log...o 2 sempre é base..
-[13:18, 19/09/2020] Belirio: Se K= Limite X2-9/X+3
-X-> -3
-
-Então: 
-A)k= O
-B)K=oi
-C)k=3
-D) k=-6
-
-[03:35, 06/09/2020] Irene Chanaze: Os nutrientes energéticos têm a função fornecer energia, são nutrientes que fornecem energia: 
-a) carboidratos e proteínas
-b) carboidratos, lipídios e proteínas
-*c) carboidratos e lipídios
-d) proteínas e vitaminas
-[03:38, 06/09/2020] Irene Chanaze: Os nutrientes reguladores são essenciais para o bom funcionamento do organismo, são nutrientes reguladores: 
-a) somente as vitaminas
-*b) vitaminas e minerais
-c) carboidratos, lipídios e proteínas
-d) Água
-
-[03:41, 06/09/2020] Irene Chanaze: Fazem parte dos macronutrientes: 
-a) carboidratos, lipídios e proteínas
-b) carboidratos, sais minerais e vitaminas
-c) lipídios e vitaminas
-d) vitaminas e reguladores
-[03:43, 06/09/2020] Irene Chanaze: Fazem parte dos micronutrientes:  
-a) carboidratos, lipídios e proteínas
-b) proteínas, sais minerais e vitaminas
-c) lipídios e vitaminas
-d) vitaminas e sais minerais
-
-[03:47, 06/09/2020] Irene Chanaze: Os carboidratos podem ser encontrados em: 
-a) carnes, peixes, legumes
-b) arroz, xima, peixes
-*c) arroz, pão, xima
-d) óleos, vegetais, carnes
-[03:51, 06/09/2020] Irene Chanaze: Os lipídios podes ser encontrados em: 
-a) carnes, óleos, arroz
-*b) óleos, manteiga, banha de porco
-c) carne vermelha, manteiga, peixe
-d) pipoca, cenoura, banha de porco
-[03:59, 06/09/2020] Irene Chanaze: Para uma alimentação saudável è necessário que se siga a lei da alimentação, nomeadamente: 
-a) qualidade e quantidade
-b) quantidade, harmonia e satisfação
-c) qualidade, quantidade,  disponibilidade e utilização
-*d) qualidade, quantidade, harmonia e adequação.
-
-[04:06, 06/09/2020] Irene Chanaze: As vitaminas lipossolúveis são: 
-a) somenteA, E e K
-b) A, D, E e K
-c) A e K 
-d) A, B, D e K
-
-[04:08, 06/09/2020] Irene Chanaze: As vitaminas hidrossolúveis são: 
-a) C e do complexo B
-b) A, D, E e K
-c) C e do complexo D
-d) A, E e C
-
-[04:13, 06/09/2020] Irene Chanaze: As vitaminas lipossolúveis são solúveis em: 
-a) Água
-b) Água e minerais
-c) Lipídios
-d) Minerais e lipídios
-    9- O nome cientifico da zebra é…”C”
-a)	equus Burchelli          c) Equus burchelli
-b)	Equus Burchelli         d) equus burchelli
- 
-     11- O reticulo endoplasmatico pode ser: “A”
-a)	Liso ou rugoso        b) plano ou liso          c) Plano ou rugoso          d) Rugoso ou estreito
+,{
+	"question":"", 
+	"option1":"", 
+	"option2":"", 
+	"option3":"", 
+	"option4":"", 
+	"answer":"4",
+	"category":"Matemática"
+}
                                                                                                                        
 
 15-O daltonismo é condicionado por um gene recessivo e ligado ao sexo. Um casal de
 visão normal tem uma criança daltónica. a) Qual é o sexo da criança?...””
-       a)Masculino        b)Feminino           c)Gemeos femoninos        d)Gemeos masculinos
+       a)Masculino        b)Feminino           c)Gémeos femininos        d)Gémeos masculinos
 16-Uma mulher do grupo sanguíneo AB tem uma filha do grupo A, homozigótica. Pode se
 afirmar que o genótipo do pai da menina é:
 a) A. Somente AA                                             C. OO ou AB
@@ -1148,152 +1357,102 @@ A 0%                        B 25%                  C 50%                  D 75%
 
 18-Marque a alternativa incorreta:…”C”
 a)Crustáceos: camarão, tatuzinho de jardim e siri       c) Insetos: barata traça e abelha
-b)Quelicerados: aranha, formiga e escorpiao              d) Diplopodes: piolho-de-cobra e congolo 
-19-O reticulo endoplasmatico tem como funcao:….”C”
-a)	Acelerar o processo da fotosssintese       b)participar no processo de transporte celular
+b)Quelicerados: aranha, formiga e escorpião              d) Diplópodes: piolho-de-cobra e congolo 
+19-O reticulo endoplasmático tem como função:….”C”
+a)	Acelerar o processo da fotossíntese       b)participar no processo de transporte celular
 
-c)Participa no processo de transporte de substancias   D) Não tem funcao nenhuma
+c)Participa no processo de transporte de substâncias D) Não tem função nenhuma
 
-21-O aparelho circulatorio e cosntituido pelo coracao e pelos vasos sanguineos: arterias, veias e…”B”
-a)Ossos             b)Capilares      c) solidos      d) todas opcaoes estao erradas
-22-O coraco é um muscusculo situado na caixa toraxica entre os…”D”
-a)	Olhos                b) vasos sanguines              c) Intestinos          d) pulmoes 
+21-O aparelho circulatório e constituído pelo coração e pelos vasos sanguíneos: artérias, veias e…”B”
+a)Ossos             b)Capilares      c) sólidos      d) todas opções estão erradas
+22-O coração é um músculo situado na caixa torácica entre os…”D”
+a)	Olhos                b) vasos sanguíneas              c) Intestinos          d) pulmões 
    
-23-O tamanho do coraco e semelhante a um punho fechado e pesa, em media, ceraca de….”A’
+23-O tamanho do coração e semelhante a um punho fechado e pesa, em media, cerca de….”A’
 a)	300g                   b)1800g                                     c)876g                   d)35g
-24-O intestino grosso e um orgao do aparelho…”B”
-a)	Urinario               b) Digestivo                         c)Circulatorio                 d)Nervoso
+24-O intestino grosso e um órgão do aparelho…”B”
+a)	Urinário               b) Digestivo                         c)Circulatório                 d)Nervoso
 
-25- A eliminacao de alguamas substancia não absorvidas pelo nosso organismo, chama-se…”A”
-a)	Excressao           b)Expulssao                     c) As duas alineas        d) Todas alineas estao corretas
-26-O aparelho reprodutor feminino esta localizado no intrior da mulher. E contituido por…”B”
-a)	Dois ovarios, duas trompas, dois uteros e uma vagina
-b)	Duas trompas, uma vagina, dois ovarios e um utero.
-c)	Uma trompa, uma vagina, um ovario e um utero.
-d)	Todas alterantivas estao erras.
+25- A eliminação de algumas substancia não absorvidas pelo nosso organismo, chama-se…”A”
+a)	Excreção           b)Expulsão                     c) As duas alíneas        d) Todas alíneas estão corretas
+26-O aparelho reprodutor feminino esta localizado no interior da mulher. E constituído por…”B”
+a)	Dois ovários, duas trompas, dois úteros e uma vagina
+b)	Duas trompas, uma vagina, dois ovários e um útero.
+c)	Uma trompa, uma vagina, um ovário e um útero.
+d)	Todas alternativas estão erras.
 27-Os ovários são dois órgãos que medem cerca de 3cm de diâmetro e tem a forma de pequenas amêndoas. E nestes órgãos que se produzem…”C” 
 a)Os fetos             b)O estimulo sexual         c) Os Óvulos          d) O sangue
-28-As trompas são  canais que estabelecem a ligaco entre….”B”
-a)	Ovulos e utero             b) Ovarios e utero        c) Vagiana e utero      c) Trompas e utero
-29-O movimento aleatorio das particulas suspensa num fluido denomina-se….”A”
-a)	Movimento Browniano b) Movimento escaltorio c)Movimento Simples  d) Movimento composto
-30- O penis e um orgao comum ao aparelho uninario e ao aparelho reprodutor pois excreta a urina mas tambem expulsa o esperma, atraves da….”C”
-a)	Prostata      b)Visicula seminal        c) Uretra             d) Trompa
-31- A senquencia correta das fases do ciclo celular é…”D”
+28-As trompas são  canais que estabelecem a ligação entre….”B”
+a)	Óvulos e útero             b) Ovários e útero        c) Vagina e útero      c) Trompas e útero
+29-O movimento aleatório das partículas suspensas num fluido denomina-se….”A”
+a)	Movimento Browniano b) Movimento escultório c)Movimento Simples  d) Movimento composto
+30- O pénis e um órgão comum ao aparelho urinário e ao aparelho reprodutor pois excreta a urina mas também expulsa o esperma, através da….”C”
+a)	Próstata      b)Vesícula seminal        c) Uretra             d) Trompa
+31- A sequência correta das fases do ciclo celular é…”D”
 a)	B1,S e mitose       b)G1,S2 e G2      c)Mitose, G2 e S2    D)G1
 
 
-33-Os capilares são canais muitos finos, que estabelecem a comunicacao entre as….”A” 
-a)	Arterias e as veias     b) Arterias e pulmoes     c) veias e o figado    d) coracao e arterias
-35-O sangue realiaza dois trajetos circulares no nosso corpo, são eles..”B”
-a)	Circulacao normal e circulacao composta          c) Pequena circulacao e a circula composta
-b)	A pequena circulacao e a grande Circulacao      d) Circulacao sem fim e circulacao com fim
-36- A pele, o intestino grosso e as vias respiratorias são orgaos  excretores..Na nossa pele localizam-se estruturas que frabicam….”D”
-a)	Os pelos             b) Irritacao na pela     c) As borbulhas    d) O suor
+33-Os capilares são canais muitos finos, que estabelecem a comunicação entre as….”A” 
+a)	Artérias e as veias     b) Artérias e pulmões     c) veias e o fígado    d) coração e artérias
+35-O sangue realiza dois trajetos circulares no nosso corpo, são eles.. ”B”
+a)	Circulação normal e circulação composta          c) Pequena circulação e a circula composta
+b)	A pequena circulação e a grande Circulação      d) Circulação sem fim e circulação com fim
+36- A pele, o intestino grosso e as vias respiratórias são órgãos  excretores. Na nossa pele localizam-se estruturas que fabricam….”D”
+a)	Os pelos             b) Irritação na pela     c) As borbulhas    d) O suor
 37- Os ureteres transportam a urina ate a….”C”
 a)	Vagina        b) rede de capilares     c) Bexiga        d) Uretra
-38-A absorccao de agua e sais pela planta deve-se a….”A”
-a)	Difusao, osmose, transporte activo e passivo
-b)	Difucao, osmose, transporte passivo
-c)	Difusao, meiose, transporte activo
-d)	Difusao mitose, transporte não activo
+38-A absorção de agua e sais pela planta deve-se a….”A”
+a)	Difusão, osmose, transporte ativo e passivo
+b)	Difusão, osmose, transporte passivo
+c)	Difusão, meiose, transporte ativo
+d)	Difusão mitose, transporte não ativo
 
 
-40-O grupo que contem apenas traqueofitas é…”C”
-a)	Algas, musgos e briofitas                               c) Pteridofitas, angiospermicas e gemnospermicas
-b)	Musgos, gimnospermicas e angiospermicas     d)pteridofitas,briofitas e gimnospermicas
 
-41-Pertecem ao reino plantae os seguintes seres…”C”
-a)	Algas azuis, mangueira e polipodio   c) Funaria, mangueira e polipodio
-b)	Cogumelo, mengueira e polipodio    d) Leveduras, algas castanhas e polipodio
-42-São filos do reino plantae…’”B”
-a)	Cloroficeas, rodoficeas, ciaoficias, briofitas e traqueofitas
-b)	Cloroficeas, rodoficeas, briofitas, feoficeas e traqueofitas
-c)	Cloroficeas, schizophyta, rodoficeas, briofitas e traquerofitas
-d)	Nenhuma das alternativas
+45-Nos musgos, a divisão meiótica originara…”C”
+a)	Anterozoides          b) Apenas diplontes     c) Haplodiplontes       d) Nenhuma opção
 
-43-As primeiras plantas a presentarem vasos condutores são….”C”
-a)	Algas          b) Briofitas         c) Pteridofitas           d) Gimnospermicas
-44-Os musgos que crescem em locais humidos são…”A”
-a)	Gametofitos de briofitas               c) Esporofitos de briofitos
-b)	Gametofitos de pteridofitas         d) Esporofitos de ptridofitas
-45-Nos musgos, a divisao meiotica originara…”C”
-a)	Anterozoides          b) Apenas diplontes     c) Haplodiplontes       d) Nenhuma opcao
-46-Os esporos do polipodio quando germinam dao origem ao….”A”
-a)	Protalo      b) Protonema      c) Zigoto          d) bilis   
-47- O amendoim ee uma dicotiledónea por ter…”C”
-a)	Folha com nervação paralelinérveas       c)Raiz aprumada
-b)	Raiz fasciculada                                            d) Caule Simples
 
-48-A estrutura  produtora de gametas  feminino das angiospérmicas é…”D”
-a)	Estame             b) Antera          c) Tubo polínico           d) Ovário
+51-O que os platelmintes e moluscos  possuem em comum?...”A”
+a)	O sistema respiratório                         c) O tipo de sustentação
+b)	d) A ocorrência de cefalização          d)A presença de colema
 
-49-A polinização em gimnospérmicas e feita através d….”D”
-a)	Agua          b) Homem        c) Aves          d)Vento
-50-Todas caracteristicas pertecem ao phylum Mollusca, excepto:…”A”
-a)	Ausencia de celoma           c) Presenca de concha externa 
-b)	Presenca de radula            d) Presenca do manto
+52-A principal estrutura responsável pela propulsão dos peixes e…”B”
+a)	Bexiga natatória     b)   Nadadeira caudal     c) Nadadeira dorsal     d)  Nadadeira ventral
 
-51-O que os platelmintos e muluscos  possuem em comum?...”A”
-a)	O sistema respitorio                         c) O tipo de sustentacao
-b)	d) A ocorencia de cefalizacao          d)A prenca de colema
-52-A principal estrura responsavel pela propulsão dos peixes e…”B”
-a)	Bexiga natatoria     b)   Nadadeira caudal     c) Nadadeira dorsal     d)  Nadadeira ventral
-53-Quais são os animais que tertecem ao mesmo filo?..”B”
-a)	Minhoca, piolho carangueijo                                 c) Barata, mosquito e peixe
-b)	Estrela do mar, pepino do mar e holunturia      d) Plantaria, hidra e lombriga
-54-As escamas dos peixes cartilaginosos (tubarao) são homologas….””
-a)	As escamas dos outros peixes          c)  Aos pelos mamiferos
-b)	Aos dentes dos outros cordaos        d)  As escamas dos repteis
 
 67-O conjunto das relações entre as diversas cadeias alimentares num ecossistema forma uma teia alimentar ou uma…””
 a)Rede trófica    b) Rede de teias    c) Rede de Teias    d) Todas opções estão erradas
 
 
-68-A transferência de energia faz-se numa única direção. Indica-se com a captaҫão de energia luminosa pelos produtores e termina pela ação dos…”A”
+68-A transferência de energia faz-se numa única direção. Indica-se com a captação de energia luminosa pelos produtores e termina pela ação dos…”A”
 a)Decompositores        b)Consumidores    c)acumuladores   d) Todas opções estão corretas
-69-……permite  uma melhor distribuição de substancia da célula na forma de solução aquosa. Esta função é do…”B”
-a)	Iao de cálcio        b) Transporte        c) Vacúolo      d)   Solvente
-70- Os Licidos são classificados de acordo com o seu numero de moléculas na sua constituição, são eles…”A”
-a)	Monossacarídeos, Dissacarídeos e polissacarídeos 
-b)	Trimonossacarideos, Sacarídeos e polissacarídeos
-c)	Monossacarídeos, Sacarídeos e polissacarídeos
-d)	Sacarídeos, Dissacarídeos e polissacarídeos
-71-Hereditariedade é a capacidade que a célula tem de transmitir as informações genéticas as células filhas. Estas informações estão localizadas…”A”
-a)	Nos Cromossomas localizados no núcleo celular
-b)	Na Parede celular
-c)	No reticulo endoplasmático
-d)	Nas mitocôndrias
-72-As bactérias são  micro organismos  de pequenas dimensões, a sua dimensão normal oscila entre:...”C”
+
+
+
+72-As bactérias são microrganismos de pequenas dimensões, a sua dimensão normal oscila entre: ”C”
 a)	0.5 aa 6     b) 0.4 a 5       c) 0.5 a 5      d)0.5 a 0.6
-73-Quais são as doenças que as bactérias causam no organismo humano.”B”
+73-Quais são as doenças que as bactérias causam no organismo humano. ”B”
 a)	Cólera, dor de cabeça, vómitos e Malaria
 b)	Cólera, Vómitos, Tétano e diarreia
 c)	Cansaço, Vómitos, Tétano e micose
 d)	Sarampo, vómitos, diarreias e cólera
-74-Quais são os tecidos de suporte na planta?...”A”
-a)	Colênquima e esclerênquima
-b)	Antrorenquima e colênquima
-c)	Colênquima e delinquiama
-d)	Xilema e Floema
-76-O estoma é formado por…”A”
-a)	Duas células-guardas e o estiolo                   c)Cristas e lamelas
-b)	Três células                                                         d)Duas células-guardas
+
 
 77-Os tecidos definitivos da planta são…”A”
-a)	Parenquimatosos , de suporte e vasculares
+a)	Parenquimatosos, de suporte e vasculares
 b)	Parenquimatosos e vasculares
 c)	Vasculares, Floema e Xilema
 d)	Colênquima, parênquima e esclerênquima
-78-O tecido responsável pela condução da agua e sais minerais e o…”B”
-a)	Xilema e Floema    b)Xilema ou lenho     c)Floema ou líber    d)Xilema e líber
 
-79-Os rins são órgãos em forma de feijao,de cor vermelho-escuro, o seu peso e a sua dimensão são: respetivamente:…”A”
+
+79-Os rins são órgãos em forma de feijão, de cor vermelho-escuro, o seu peso e a sua dimensão são: respetivamente:…”A”
 a)	170g e 12cm             b) 125g e 10cm         c)120g e 15cm         d)100g e 20cm
 80-Para um bom funcionamento dos rins devemos…”A”
 a)	Evitar o excesso de sal, Não abusar no consumo da carne 
 b)	Fazer sexo diariamente, não beber muita água
 c)	Não consumir álcool
 d)	Todas opções estão erradas
+
  
 */

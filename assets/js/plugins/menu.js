@@ -11,6 +11,9 @@ let categorias = [{
         "categoria":"matematica",
         "valor":"Matemática"
     },{
+        "categoria":"Física",
+        "valor":"Física"
+    },{
         "categoria":"quimica",
         "valor":"Química"
     },{
