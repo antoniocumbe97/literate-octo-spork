@@ -31,7 +31,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Cultura-Geral"
 },{
-	"question":"A 25 de Setembro de 1964, teve início a luta armada..Onde foi?", 
+	"question":"A 25 de Setembro de 1964, teve início a luta armada. Onde foi?", 
 	"option1":"Gaza, majacazi", 
 	"option2":"Moeda, Cabo Delgado", 
 	"option3":"posto administrativo de Chia", 
@@ -967,6 +967,38 @@ let questions = [{
 	"answer":"3",
 	"category":"História"
 },{
+	"question":"Bronsted- Lowry definem ácido como sendo a…", 
+	"option1":"espécie que cede protão H+ a uma base.", 
+	"option2":"substância que recebe um par de electrões.", 
+	"option3":"substância que em solução aquosa produz iões H+.", 
+	"option4":"espécie que cede um par de electrões.", 
+	"answer":"1",
+	"category":"Química"
+},{
+	"question":"Qual dos seguintes compostos pertence a classe dos ácidos carboxílicos?", 
+	"option1":"C2H4O", 
+	"option2":"C2H4O2", 
+	"option3":"C3H6", 
+	"option4":"C3H6O", 
+	"answer":"2",
+	"category":"Química"
+},{
+	"question":"O produto da reacção entre 3-Cloropenteno-2 e Cloreto de hidrogénio é…", 
+	"option1":"1,2- dicloropentano.", 
+	"option2":"2,2- dicloropentano.", 
+	"option3":"2,3- dicloropentano.", 
+	"option4":"3,3- dicloropentano.", 
+	"answer":"4",
+	"category":"Química"
+},{
+	"question":"A fórmula C3H6O corresponde aos isómeros de função…", 
+	"option1":"álcool e ácido carboxílico.", 
+	"option2":"álcool e cetona.", 
+	"option3":"aldeído e álcool.", 
+	"option4":"aldeído e cetona.", 
+	"answer":"4",
+	"category":"Química"
+},{
 	"question":"Qual é o pH  de uma solução cujo [H+] é igual a 0.3 mol/l?", 
 	"option1":"pH = 11,4", 
 	"option2":"pH = 2,6", 
@@ -1021,6 +1053,14 @@ let questions = [{
 	"option3":"homogénio, constituído por duas fases", 
 	"option4":"homogénio, constituído por três fases", 
 	"answer":"2",
+	"category":"Química"
+},{
+	"question":"O par conjugado de um ácido forte é…", 
+	"option1":"ácido forte", 
+	"option2":"ácido fraco", 
+	"option3":"base forte", 
+	"option4":"base fraca", 
+	"answer":"4",
 	"category":"Química"
 },{
 	"question":"O par conjugado de uma base forte é…", 
@@ -1167,7 +1207,7 @@ let questions = [{
 	"answer":"4",
 	"category":"Matemática"
 },{
-	"question":"Se f'(x) é positiva em ]a;b[, então:", 
+	"question":"Se f ′(x) é positiva em ]a;b[, então:", 
 	"option1":"f(x) é positiva em ]a;b[.", 
 	"option2":"f(x) é negativa em ]a;b[.", 
 	"option3":"f(x) é crescente em ]a;b[.", 
@@ -1175,7 +1215,7 @@ let questions = [{
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Se f'(x) é negativa em ]a;b[, então:", 
+	"question":"Se f ′(x) é negativa em ]a;b[, então:", 
 	"option1":"f(x) é positiva em ]a;b[.", 
 	"option2":"f(x) é negativa em ]a;b[.", 
 	"option3":"f(x) é crescente em ]a;b[.", 
@@ -1189,6 +1229,814 @@ let questions = [{
 	"option3":"2/5", 
 	"option4":"3/5", 
 	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Qual é a alternativa NÃO correcta?", 
+	"option1":"N ∪ Z = Z", 
+	"option2":"R \ Z = N", 
+	"option3":"R ∪ N = R", 
+	"option4":"N ∩ Z = N", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Qual é o valor de m na equação log₂m = log₂8 + log₂2?", 
+	"option1":"10", 
+	"option2":"4", 
+	"option3":"16", 
+	"option4":"64", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Considere a inequação −|x| ≤ 0. Qual é a solução?", 
+	"option1":"{ }", 
+	"option2":"] − ∞; 0[", 
+	"option3":"]0; +∞[", 
+	"option4":"R", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Qual é a soma das raízes da equação |3 + x| = 2 ?", 
+	"option1":"−6", 
+	"option2":"−5", 
+	"option3":"−4", 
+	"option4":"−1", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é a abcissa do vértice do gráfico de uma função do 2◦ grau, cujos zeros são −7 e −1?", 
+	"option1":"−4", 
+	"option2":"−2", 
+	"option3":"2", 
+	"option4":"4", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Maria decompôs o número 20 em duas parcelas x e y. Quais são essas parcelas se o seu produto é máximo?", 
+	"option1":"x = 0 e y = 20", 
+	"option2":"x = 10 e y = 10", 
+	"option3":"x = 8 e y = 12", 
+	"option4":"x = 4 e y = 16", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Se M = {x ∈ R : 2 < x < 5} e N = {x ∈ R : 3 ≤ x < 8}. Qual das afirmações é verdadeira?", 
+	"option1":"M ∩ N = [3; 5[", 
+	"option2":"M ∪ N = [3; 5]", 
+	"option3":"M ∩ N = [3; 5]", 
+	"option4":"M ∪ N = [3; 5[", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é a equação da recta paralela à recta de equação y = x + 2?", 
+	"option1":"y = −x + 2", 
+	"option2":"y = x + 4", 
+	"option3":"y = 2x − 3", 
+	"option4":"y = 2x + 1", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"De quantas maneiras diferentes três amigas podem se posicionar numa fila para tirar uma fotografia?", 
+	"option1":"3", 
+	"option2":"6", 
+	"option3":"9", 
+	"option4":"12", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Qual é o termo geral da sucessão 1; −5; −11; −23; ... ?", 
+	"option1":"an = 6n − 5", 
+	"option2":"an = 7 − 6n", 
+	"option3":"an = 6n + 75", 
+	"option4":"an = −6n", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Qual é a ordem do termo 4 na sucessão dada por an = 2n − 6?", 
+	"option1":"2", 
+	"option2":"3", 
+	"option3":"5", 
+	"option4":"6", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é o termo de ordem 4 na sucessão dada por an = 2n − 6?", 
+	"option1":"2", 
+	"option2":"3", 
+	"option3":"5", 
+	"option4":"6", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Na função f(x) = ax + b sabe-se que f(−2) = 8 e f(−1) = 2. Quais são os valores de a e b?", 
+	"option1":"a = −4; b = −6", 
+	"option2":"a = −6; b = −4", 
+	"option3":"a = 6; b = 4", 
+	"option4":"a = 4; b = 6", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Qual é o contradomínio da função f(x) = (x − 1)(x − 5) definida sobre o domínio D = {1; 2; 3; 4; 5}?", 
+	"option1":"CD = {−4; −3; 0}", 
+	"option2":"CD = {−4; 0; 3}", 
+	"option3":"CD = {0; 3; 4}", 
+	"option4":"CD = {4; 3; 0}", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é a equação geral da recta que passa pelo ponto P(−3; 2) e tem coeficiente angular igual a 2?", 
+	"option1":"2x + y + 6 = 0", 
+	"option2":"x + 2y + 2 = 0", 
+	"option3":"2x − y + 8 = 0", 
+	"option4":"x − 2y + 6 = 0", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é o contradomínio da função f(x) = cos(x) − 3?", 
+	"option1":"[−4; −2]", 
+	"option2":"[−3; 3]", 
+	"option3":"[−1; 1]", 
+	"option4":"[2; 4]", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é a classificação da função f(x) = 1/x quanto à paridade?", 
+	"option1":"Par", 
+	"option2":"Ímpar", 
+	"option3":"Não par nem ímpar", 
+	"option4":"Par e ímpar", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Marque a alternativa incorreta", 
+	"option1":"Se f(−x) = f(x), então f(x) é par.", 
+	"option2":"Se f(−x) = −f(x), então f(x) é ímpar.", 
+	"option3":"Uma função pode ser não par e não ímpar.", 
+	"option4":"Uma função pode ser par e ímpar.", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Seja f(x) uma função cujo gráfico tem um ponto máximo de abcissa x = 2. Qual das características abaixo poderá representar a sua primeira derivada?", 
+	"option1":"f′(x) < 0; ∀x ∈]−∞;2]", 
+	"option2":"f′(x) < 0; ∀x ∈]−∞;2[", 
+	"option3":"f′(x) > 0; ∀x ∈]−∞;2[", 
+	"option4":"f′(x) > 0; ∀x ∈]−∞;2]", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Dados os conjuntos N, Z, Q e R, qual é a afirmação NÃO correcta?", 
+	"option1":"Z ∪ N = Z", 
+	"option2":"Z ∩ Q = Z", 
+	"option3":"N ⊃ R", 
+	"option4":"Q ⊂ R", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é a solução de [(n − 1)!/(n − 2)!] = 24?", 
+	"option1":"10", 
+	"option2":"15", 
+	"option3":"20", 
+	"option4":"25", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Qual é o complementar, em R, do conjunto M=]−3;5[?", 
+	"option1":"]−∞;−3]∪[5;+∞[", 
+	"option2":"]−∞;−3]∪]5;+∞[", 
+	"option3":"]−∞;−3[∪[5;+∞[", 
+	"option4":"]−∞;−3[∪]5;+∞[", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Dados os conjuntos M={2; 4; 6} e N={1; 2; 3; 6}. Qual é o cardinal de M∪N?", 
+	"option1":"2", 
+	"option2":"3", 
+	"option3":"4", 
+	"option4":"5", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"A soma de quaisquer dois números naturais é sempre maior do que zero. Qual é a quantificação correcta?", 
+	"option1":"∃x; y ∈ N : x + y > 0", 
+	"option2":"∃x; y ∈ N : x + y ≥ 0", 
+	"option3":"∀x; y ∈ N : x + y ≥ 0", 
+	"option4":"∀x; y ∈ N : x + y > 0", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Considere a função f(x) = cos(x) + 3. Qual é o contradomínio da função?", 
+	"option1":"[−3; 3]", 
+	"option2":"[−1; 1]", 
+	"option3":"[0; 3]", 
+	"option4":"[2; 4]", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Qual das seguintes funções tem como período p=4π e contradomínio I=[−2; 6]?", 
+	"option1":"f(x) = 2 + 3sen(x/2)", 
+	"option2":"f(x) = 2 - 4cos(x/2)", 
+	"option3":"f(x) = 2 + 4tg(x/4)", 
+	"option4":"f(x) = -1 - 2cotg(x/4)", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Um corpo move-se ao longo de um eixo horizontal orientado positivamente da esquerda para direita de acordo com a equação e(t) = −t3 − 9t2 + 24t + 1. Qual é a aceleração no instante t = 1s ?", 
+	"option1":"−24m/s2", 
+	"option2":"−12m/s2", 
+	"option3":"−10m/s2", 
+	"option4":"−9m/s2", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Se M={1; 3; 7; 19}, N={x ∈ N : x − 5 = 2} e P={x ∈ R : 5 < x < 8}. A que é igual (M∩P)∩N?", 
+	"option1":"{7}", 
+	"option2":"{3; 7}", 
+	"option3":"{6; 7}", 
+	"option4":"{3; 5; 7}", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Numa loja onde vendem óleo e batata entram em média diária 300 clientes dos quais 120 compram batata, 150 óleo e 80 compram as duas coisas. Quantos clientes entram na loja e não compram nada?", 
+	"option1":"100", 
+	"option2":"110", 
+	"option3":"120", 
+	"option4":"130", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"A distância entre os pontos P(2; −2) e Q(−1; y) é de cinco unidades. Qual é o valor de y?", 
+	"option1":"4", 
+	"option2":"3", 
+	"option3":"2", 
+	"option4":"1", 
+	"answer":"3",
+	"category":"Matemática"
+} ,{
+	"question":"A recta −x + 2y + 3 = 0 é perpendicular à recta y = mx; m ∈ R. Qual é o valor de m?", 
+	"option1":"0,5", 
+	"option2":"−0,5", 
+	"option3":"−1", 
+	"option4":"−2", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Qual é a distância do ponto P(2; 5) à recta de equação 3x − 4y = 6?", 
+	"option1":"0", 
+	"option2":"1", 
+	"option3":"3", 
+	"option4":"4", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Sabendo que o valor do produto escalar entre os vectores  a=(2; k) e b=(1; 4) é igual a 18, qual é o valor de k?", 
+	"option1":"1", 
+	"option2":"2", 
+	"option3":"3", 
+	"option4":"4", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Quais são as coordenadas do ponto médio do segmento cujas extremidades são (2; 7) e (8; 5)?", 
+	"option1":"(2; 3)", 
+	"option2":"(3; 4)", 
+	"option3":"(5; 6)", 
+	"option4":"(6; 5)", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é o período da função m(x) = sen(x/2) ?", 
+	"option1":"π", 
+	"option2":"2π", 
+	"option3":"3π", 
+	"option4":"4π", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Se o ponto (2; 4) pertence ao gráfico da função y=f(x), quais são as coordenadas de um ponto do gráfico da função g(x) = 2f(x − 3) + 1?", 
+	"option1":"(2; 6)", 
+	"option2":"(3; 7)", 
+	"option3":"(4; 8)", 
+	"option4":"(5; 9)", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Na função f(x) = [(2x + 2)/(x + 3)] qual é a equação da assímptota horizontal?", 
+	"option1":"y = 2", 
+	"option2":"y = 3", 
+	"option3":"x = 2", 
+	"option4":"x = 3", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Seja f(x) = x2 uma função definida no intervalo [−2; 2]. Qual é o contradomínio da função g(x) = 2f(x) + 3?", 
+	"option1":"[−1; 7]", 
+	"option2":"[−4; 6]", 
+	"option3":"[3; 11]", 
+	"option4":"]3; 11[", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Numa turma de 50 alunos, 25 gostam de Matemática e 27 de Física. Se 8 alunos gostam das duas disciplinas, quantos NÃo gostam de nenhuma das disciplinas acima referidas?", 
+	"option1":"19", 
+	"option2":"6", 
+	"option3":"17", 
+	"option4":"2", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Se o Aldeir corre na primeira semana 5km, qual será a distância percorrida até a décima semana se por semana aumenta 3km?", 
+	"option1":"32km", 
+	"option2":"35km", 
+	"option3":"175km", 
+	"option4":"185km", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Numa progressão geométrica com a1 = 3 e q = 2. Qual é a ordem do termo 192?", 
+	"option1":"7", 
+	"option2":"6", 
+	"option3":"5", 
+	"option4":"4", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é o valor do limx→0[(sen5x)/(2x)]?", 
+	"option1":"2/5", 
+	"option2":"2", 
+	"option3":"5/2", 
+	"option4":"5", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é o declive da recta tangente ao gráfico da função g(x) = x^2 − 2x no ponto de abcissa x = 2?", 
+	"option1":"0", 
+	"option2":"1", 
+	"option3":"2", 
+	"option4":"3", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Em qual dos intervalos a função f(x) = x^3 − 3x é decrescente?", 
+	"option1":"]−1; 1[", 
+	"option2":"]−∞; −1[", 
+	"option3":"]−1; 2[", 
+	"option4":"]1; +∞[", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é a alternativa correcta?", 
+	"option1":"O conjunto Z é subconjunto de N", 
+	"option2":"Se B ⊂ N, então B ⊂ Z+", 
+	"option3":"Se A ⊂ N, então A ⊂ Z", 
+	"option4":"Se A ⊂ Z e N ⊂ Z, então A = N", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Numa caixa contendo 20 pacotes de bolachas enumerados de um a vinte, extraiu-se um ao acaso. Qual é a probabilidade de o número do pacote extraído ser um divisor de 20?", 
+	"option1":"0,1", 
+	"option2":"0,2", 
+	"option3":"0,3", 
+	"option4":"0,4", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é o coeficiente angular da recta que passa pelos pontos A(1; 4) e B(0; 1)?", 
+	"option1":"−3", 
+	"option2":"3", 
+	"option3":"1/4", 
+	"option4":"4", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Qual das fracções é equivalente a expressão (a − a^2)/(a^3 − 1) ?", 
+	"option1":"−a/(a − 1)", 
+	"option2":"a/(a^2 + a + 1)", 
+	"option3":"−a/(a^2 + a + 1)", 
+	"option4":"−a/(a^2 + 1)", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é o domínio da função f(x) = −8/(x^2 − 4) ?", 
+	"option1":"Df = R \ {2}", 
+	"option2":"Df = R \ {±4}", 
+	"option3":"Df = R \ {4}", 
+	"option4":"Df = R \ {±2}", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Se f e g são funções reais de variável real dadas por f(x) = 3x + 4 e g(x) = log3 x, qual é o valor de (go f )(−1)?", 
+	"option1":"2", 
+	"option2":"1", 
+	"option3":"0", 
+	"option4":"−1", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Uma função y = f(x) é par, ∀x ∈ R se...", 
+	"option1":"f(x) = f(x2)", 
+	"option2":"f(x) = f′(x)", 
+	"option3":"f(x) = −f(x)", 
+	"option4":"f(x) = f(−x)", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Uma função y = f(x) é ímpar, ∀x ∈ R se...", 
+	"option1":"f(x) = f(x2)", 
+	"option2":"f(x) = f′(x)", 
+	"option3":"f(x) = −f(x)", 
+	"option4":"f(x) = f(−x)", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Na sucessão de números ímpares a que é igual o termo de ordem 135?", 
+	"option1":"269", 
+	"option2":"260", 
+	"option3":"169", 
+	"option4":"135", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é o valor de limx→5[log2(2x + 6)]?", 
+	"option1":"4", 
+	"option2":"10", 
+	"option3":"16", 
+	"option4":"216", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é o valor de limx→3[(x2 − 5x + 6)/(x − 3)] ?", 
+	"option1":"−2", 
+	"option2":"0", 
+	"option3":"1", 
+	"option4":"2", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é o valor de limx→2[(√(x + 2) − 2)/(x − 2)] ?", 
+	"option1":"0", 
+	"option2":"1/4", 
+	"option3":"1", 
+	"option4":"√2", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Qual é a equação da assípmtota vertical do gráfico da função g(x) = x + 2/x ?", 
+	"option1":"x = 2", 
+	"option2":"x = 0", 
+	"option3":"x = −2", 
+	"option4":"Não tem assímptota", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Para qua a função f(x) = { 2(x − 1), se x < 1 e kx, se x ≥ 1 } seja contínua no ponto x = 1, qual deve ser o valor de k?", 
+	"option1":"−1", 
+	"option2":"1", 
+	"option3":"0", 
+	"option4":"2", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é a equação da assímptota horizontal do gráfico da função h(x) = [(x − 1)/(x^2 − 4x + 3)] ?", 
+	"option1":"y = 0", 
+	"option2":"y = 2", 
+	"option3":"y = 3", 
+	"option4":"Não tem assímptota", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Sendo h(x) = 1/x3 , qual é o valor de h′(1) ?", 
+	"option1":"1", 
+	"option2":"1/3", 
+	"option3":"−3", 
+	"option4":"−4", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é a derivada da função y = sen(2x − 3)?", 
+	"option1":"y′= 2sen(2x − 3)", 
+	"option2":"y′= −sen(2x − 3)", 
+	"option3":"y′= (2x − 3)cos(2x − 3)", 
+	"option4":"y′= 2cos(2x − 3)", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Qual é a derivada da função f(x) = (3x + 5)/(x − 1) ?", 
+	"option1":"8/(x − 1)2", 
+	"option2":"2/(x − 1)2", 
+	"option3":"(6x − 8)/(x − 1)2", 
+	"option4":"(6x + 2)/(x − 1)2", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Quais são as raízes de x^3 − x^2 − 6x?", 
+	"option1":"−2, 0 e 3", 
+	"option2":"−2, 1 e 3", 
+	"option3":"0, 2 e 3", 
+	"option4":"1, 2 e 3", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é o comprimento do vector a = (3; 4)?", 
+	"option1":"3", 
+	"option2":"5", 
+	"option3":"4", 
+	"option4":"7", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Qual é o nome que se dá a expressão (a + bx + cx^2 + dx^3 + ex^4 + · · · )?", 
+	"option1":"Equação", 
+	"option2":"Polinómio", 
+	"option3":"Identidade", 
+	"option4":"Variável", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"A intersecção entre dois conjuntos disjuntos resulta no conjunto...", 
+	"option1":"complementar", 
+	"option2":"singular", 
+	"option3":"universal", 
+	"option4":"vazio", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Qual é a inversa da função f(x) = [(x + 5)/(x − 2)] ?", 
+	"option1":"(x − 2)/(x + 5)", 
+	"option2":"(x − 2)/(x + 5)", 
+	"option3":"(2x + 5)/(x − 2)", 
+	"option4":"(2x + 5)/(x − 1)", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Qual é o domínio da função inversa de f(x) = [(x + 5)/(x − 2)], x ∈ R?", 
+	"option1":"x ∈ R / {-2}", 
+	"option2":"x ∈ R / {1}", 
+	"option3":"x ∈ R / {-1}", 
+	"option4":"x ∈ R / {2}", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"As declarações abaixo foram deduzidas por um estudante para a expressão g(x) = 3 + 5sen(2x − 4). { I. O domínio de g é ] − ∞; +∞[  II. O contradomínio de g é [−2; 8] III. O período de g é π/2;  IV. g(2) = 3 }. Quais das afirmações são correctas?", 
+	"option1":"I, II e III", 
+	"option2":"I, II e IV", 
+	"option3":"I, III e IV", 
+	"option4":"II, III e IV", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Qual é o valor de limx→0[(sen(x))/(x)]?", 
+	"option1":"−1", 
+	"option2":"−1/2", 
+	"option3":"1/2", 
+	"option4":"1", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Qual é a derivada da função y = [(x + 1)(x + 2)]?", 
+	"option1":"2x + 3", 
+	"option2":"2x + 4", 
+	"option3":"3x + 2", 
+	"option4":"3x + 40", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é a derivada da função y = ln(x^2 − 3)?", 
+	"option1":"2/(x^2 − 3)", 
+	"option2":"1/[(2)(x^2 − 3)]", 
+	"option3":"2x/(x^2 − 3)", 
+	"option4":"1/(x^2 − 3)", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é a ordenada do ponto onde a função y = x^3 − 3x atinge o extremo máximo?", 
+	"option1":"−2", 
+	"option2":"−1", 
+	"option3":"1", 
+	"option4":"2", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"O valor de k de modo que a média dos valores 2; 4; 5; 8; k; 13 seja 8 é:", 
+	"option1":"4", 
+	"option2":"8", 
+	"option3":"16", 
+	"option4":"32", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"O contradomínio da função f(x) = 3sen(2x) é:", 
+	"option1":"[−3, 3]", 
+	"option2":"[−2, 3]", 
+	"option3":"{−2, 3}", 
+	"option4":"{−3, 3}", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"A solução da equação |x − 1| − 2 = 0 é:", 
+	"option1":"{−2; 2}", 
+	"option2":"[−1; 3]", 
+	"option3":"{−1; 3}", 
+	"option4":"[−2; 2]", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Se f e g são funções reais dadas por f(x) = x^2 e g(x) = log₂ x, então (go f )(−1) é:", 
+	"option1":"−1", 
+	"option2":"0", 
+	"option3":"1", 
+	"option4":"2", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Quanto à paridade a função f(x) = x^2 + 4 é...", 
+	"option1":"ímpar", 
+	"option2":"par", 
+	"option3":"ímpar e par", 
+	"option4":"nem ímpar nem par", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Os gráficos de funções inversas uma da outra são simétricos em relação...", 
+	"option1":"à origem", 
+	"option2":"ao eixo das ordenadas", 
+	"option3":"ao eixo das abcissas", 
+	"option4":"à recta de equação y = x", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Numa progressão aritmética finita o primeiro e o último termos são respectivamente 2 e 20. Se a soma dos seus termos é 110, quantos termos tem a sucessão?", 
+	"option1":"5", 
+	"option2":"10", 
+	"option3":"15", 
+	"option4":"20", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Dada a progressão geométrica {1; 1/2; 1/4; 1/8; · · · } a soma dos seus infinitos termos é:", 
+	"option1":"2", 
+	"option2":"4", 
+	"option3":"6", 
+	"option4":"8", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"O valor do limx→7[(x − 7)/(x^2 − 49)] é:", 
+	"option1":"1/7", 
+	"option2":"1/14", 
+	"option3":"1/28", 
+	"option4":"1/56", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"O limn→∞[(1 − (2/n))^n] é igual a:", 
+	"option1":"e^−1", 
+	"option2":"e^−2", 
+	"option3":"e^−3", 
+	"option4":"e^−4", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Considere a função f(x) = { 2x − 1, se x ≤ 3 e x^2 + 5, se x > 3 }. O lim x→3+[f(x)] é igual a:", 
+	"option1":"5", 
+	"option2":"8", 
+	"option3":"11", 
+	"option4":"14", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Dada a função f(x) = 2e^x, a sua derivada é:", 
+	"option1":"e^x", 
+	"option2":"2e^x", 
+	"option3":"3e^x", 
+	"option4":"4e^x", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Se g(x) = [a(x^2) − (a^2)x] com a diferente de 0, então g′(a) é igual a:", 
+	"option1":"a", 
+	"option2":"a^2", 
+	"option3":"a^3", 
+	"option4":"a^4", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"A derivada da função y = cos(1 − x^2) é:", 
+	"option1":"y′= 2sen(1 − x^2)", 
+	"option2":"y′= −sen(1 − x^2)", 
+	"option3":"y′= 2xsen(1 − x^2)", 
+	"option4":"y′= 2cos(1 − x^2)sen(1 − x^2)", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"[(n + 2)!/n!] é igual a:", 
+	"option1":"−n^2 + 3n + 2", 
+	"option2":"n^2 − 3n + 2", 
+	"option3":"n^2 + 3n + 2", 
+	"option4":"−n^2 − 3n − 2", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é a solução da equação log4 [log2(x − 1)] = 1?", 
+	"option1":"x = 15", 
+	"option2":"x = 17", 
+	"option3":"x = 18", 
+	"option4":"x = 19", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Se os números { 6; 4x; 6x + 4; ...} estão em progressão aritmética, qual é a soma dos oito primeiros termos?", 
+	"option1":"410", 
+	"option2":"420", 
+	"option3":"430", 
+	"option4":"440", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"A sucessão cujo termo geral é an = [1/(2n + 1)] pode ser classificada em...", 
+	"option1":"convergente e infinitamente pequena", 
+	"option2":"convergente e infinitamente grande", 
+	"option3":"divergente e infinitamente pequena", 
+	"option4":"divergente e infinitamente grande", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é o valor de limx→∞[((2x+1)^2)/(x+1)]/[(2x^3)] ?", 
+	"option1":"1", 
+	"option2":"2", 
+	"option3":"3", 
+	"option4":"4", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Dada a função f(x) = { x − 1, se x ≤ 3 e 2x − 4, se x > 3 }, qual é a derivada da função f(x) à direita de 3?", 
+	"option1":"−2", 
+	"option2":"−1", 
+	"option3":"1", 
+	"option4":"2", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Qual é a derivada da função f(x) = 2x^3 − x + 5 no ponto de abcissa x = 1?", 
+	"option1":"5", 
+	"option2":"6", 
+	"option3":"7", 
+	"option4":"8", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Qual é a equação da recta tangente à curva da função f(x) = e^x no ponto de abcissa x = 0?", 
+	"option1":"y = −x + 1", 
+	"option2":"y = x + 1", 
+	"option3":"y = −x − 1", 
+	"option4":"y = x − 1", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Se as rectas y = kx + b e y = mx + n são perpendiculares entre si então...", 
+	"option1":"1 − km = 0", 
+	"option2":"2 − km = 0", 
+	"option3":"1 + km = 0", 
+	"option4":"2 + km = 0", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Sendo f(x) = 2x e g(x) = 1/(x + 1), o domínio de (go f )(x) é...", 
+	"option1":"R \ {−12 e 12}", 
+	"option2":"R \ {−1}", 
+	"option3":"R \ {1}", 
+	"option4":"R \ {1/2}", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Se ∀(x1; x2) ∈ Df com x1 > x2 tivermos f(x1) > f(x2) diz-se que a função y = f(x) é...", 
+	"option1":"bijectiva.", 
+	"option2":"crescente.", 
+	"option3":"decrescente.", 
+	"option4":"sobrejectiva.", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"O gráfico de uma função par é simétrico em relação...", 
+	"option1":"à bissetriz do 1◦ e 3◦ quadrantes.", 
+	"option2":"à bissetriz do 2◦ e 4◦ quadrantes.", 
+	"option3":"ao eixo das ordenadas.", 
+	"option4":"ao eixo das abcissas.", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Qual é a derivada da função h(x) = 2^x·x^2?", 
+	"option1":"(2^x)·x(ln2+2)", 
+	"option2":"(2^x)·x(xln2+2)", 
+	"option3":"(2^x)·x(xlnx+2)", 
+	"option4":"(2^x)·x(lnx+2)", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"O ângulo formado entre a recta de equação x−y+4=0 e o sentido positivo do eixo das abcissas mede...", 
+	"option1":"30◦", 
+	"option2":"45◦", 
+	"option3":"60◦", 
+	"option4":"90◦", 
+	"answer":"2",
 	"category":"Matemática"
 },{
 	"question":"A velocidade de propagação das ondas eletromagnéticas no vácuo é…", 
@@ -1237,7 +2085,7 @@ let questions = [{
 	"option3":"Maior", 
 	"option4":"Constante", 
 	"answer":"1",
-	"category":""
+	"category":"Física"
 },{
 	"question":"No ato da rega dos jardim, com uma mangueira, é comum reduzirmos parcialmente a parte da saída da mangueira, para obter…", 
 	"option1":"Maior área", 
@@ -1253,7 +2101,7 @@ let questions = [{
 	"option3":"Indeterminado", 
 	"option4":"Desordenado", 
 	"answer":"2",
-	"category":""
+	"category":"Física"
 },{
 	"question":"Uma transformação gasosa, diz-se isobárica, quando decorre à…", 
 	"option1":"Pressão constante",
@@ -1310,6 +2158,30 @@ let questions = [{
 	"option4":"dispersão da luz.", 
 	"answer":"2",
 	"category":"Física"
+},{
+	"question":"Ao atravessar os corpos, as ondas eletromagnéticas provocam aumento da (do)…", 
+	"option1":"Temperatura", 
+	"option2":"Pressão", 
+	"option3":"Força", 
+	"option4":"Trabalho", 
+	"answer":"1",
+	"category":"Física"
+},{
+	"question":"A propriedade das ondas eletromagnéticas de atravessar obstáculo diz-se…", 
+	"option1":"Reflexão", 
+	"option2":"Interferência", 
+	"option3":"Refração", 
+	"option4":"Dispersão", 
+	"answer":"3",
+	"category":"Física"
+},{
+	"question":"Aquecendo-se um gás num recipiente fechado e indeformável, ele…", 
+	"option1":"Aumenta de volume e de pressão", 
+	"option2":"Conserva o volume e a pressão", 
+	"option3":"Conserva o volume e aumenta a pressão", 
+	"option4":"Aumenta o volume e diminui a pressão", 
+	"answer":"3",
+	"category":"Física"
 }];
 
 let pergunta = new Array();
@@ -1330,17 +2202,63 @@ for (let index = 0; index < questions.length; index++) {
 	"option4":"Fase esporofitica predominante", 
 	"answer":"1",
 	"category":"Biologia"
-}
-,{
+},{
 	"question":"", 
 	"option1":"", 
 	"option2":"", 
 	"option3":"", 
 	"option4":"", 
-	"answer":"4",
+	"answer":"1",
+	"category":"Biologia"
+}
+
+Quais das funcões f(x) = x^2 + 5 e g(x) = 2x^3 − x são par ou ímpar?
+A. f(x) é par e g(x) é par
+B. f(x) é ímpar e g(x) é par
+C. f(x) é par e g(x) é ímpar
+D. f(x) é ímpar e g(x) é ímpar
+
+Qual das funções é bijectiva?
+Função coseno
+Função quadrática
+*Função exponencial de base 2
+Função cúbica
+
+,{
+	"question":"Qual das funções é bijectiva?", 
+	"option1":"Função tangente", 
+	"option2":"Função logarítmica de base 10", 
+	"option3":"Função exponencial de base 2", 
+	"option4":"Função quadrática", 
+	"answer":"2",
 	"category":"Matemática"
 }
-                                                                                                                       
+
+Marque a alternativa incorreta:
+Se f ′(a) = 0 e f ′(x) passa em x = a de negativa a positiva, a função f (x) tem para x = a um mínimo extremo.
+Se f ′(a) = 0 e f ′(x) passa em x = a de positiva a negativa, a função f (x) tem para x = a um máximo extremo.
+g(x) > f (x) significa o intervalo de x em que o gráfico da função y = g(x) está em cima do gráfico da função y = f (x).
+Se o gráfico de uma função y = f (x) passa pelo ponto, então y1 = f (x1).
+O declive da equação da recta tangente ao gráfico de uma função y = f (x) em x = a é igual a f ′(a).
+Se h é a posição de um ponto P que se move verticamente na hora t e apresentada por h = f (t), então a velocidade v e aceleração a do ponto P na hora t são dadas por v = f ′(t) e a = f ′′(t), respectivamente.
+Uma função é derivável num ponto x = a se e só se é derivável à esquerda e à direita do mesmo ponto e as derivadas laterais são iguais: f ′(a+) = f ′(a−)
+f ′(a−) é igual ao declive da reta da esquerda do ponto x = 0.
+f ′(a+) é igual ao declive da reta da direita do ponto x = 0.
+Ao símbolo ∀ dá-se o nome de quantificador universar e lê-se «qual quer que seja».
+Ao símbolo ∃ dá-se o nome de quantificador existencial e lê-se «existe pelo menos um».
+⋆Se nenhuma recta horizontal corta o gráfico de f em mais um ponto, então f é injectiva.
+⋆Se toda recta horizontal corta o gráfico de f , então f é sobrejectiva.
+⋆Se toda recta corta o gráfico de f em um sóponto, então f é bijectiva.
+(Se uma função f é simultaneamente injectiva e sobrejectiva, f é bijectiva.)
+O declive da recta y = ax + b é a.
+Se duas rectas y = ax + b e y = a₂x + b₂ são perpendiculares entre si, então o produto dos seus declives é igual a −1, isto é, a·a₂ = −1.
+Uma sucessão an é convergente se lim n→∞ an = α ∈ R.
+⋆Uma sucessão é divergente se não é convergente.
+⋆Uma sucessão an é infinitamente pequena se lim n→∞ an = 0.
+(Uma sucessão infinitamente pequena é convergente.)
+⋆Uma sucessão an é infinitamente grande se lim n→∞ an = ∞.
+( Uma sucessão infinitamente grande é divergente)
+
 
 15-O daltonismo é condicionado por um gene recessivo e ligado ao sexo. Um casal de
 visão normal tem uma criança daltónica. a) Qual é o sexo da criança?...””
