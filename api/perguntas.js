@@ -1767,7 +1767,7 @@ let questions = [{
 	"answer":"4",
 	"category":"Matemática"
 },{
-	"question":"Qual é o domínio da função inversa de f(x) = [(x + 5)/(x − 2)], x ∈ R?", 
+	"question":"Qual é o domínio da função inversa de f(x)=[(x + 5)/(x − 2)], x ∈ R?", 
 	"option1":"x ∈ R / {-2}", 
 	"option2":"x ∈ R / {1}", 
 	"option3":"x ∈ R / {-1}", 
@@ -2039,6 +2039,94 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
+	"question":"A primitiva da função f(x) = 2senx é:", 
+	"option1":"F(x) = 2cosx + C", 
+	"option2":"F(x) = 2senx + C", 
+	"option3":"F(x) = -2cosx + C", 
+	"option4":"F(x) = -2senx + C", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"A segunda derivada da função g(x) = sen2x - cos3x :", 
+	"option1":"g′′(x) = 4sen2x - 9cos3x", 
+	"option2":"g′′(x) = 2cos2x + 3sen3x", 
+	"option3":"g′′(x) = 2cos2x - 3sen3x", 
+	"option4":"g′′(x) = 9cos3x - 4sen2x", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Sejam definidas as funções f(x)=3x-11 e g(x)=3x-11. Então os seus gráficos:", 
+	"option1":"Intersectam-se no ponto (0, 11)", 
+	"option2":"são rectas paralelas", 
+	"option3":"são rectas coincidentes", 
+	"option4":"são rectas perpendiculares", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Sendo f(x)=e^2, em que “e” é o número de Neper, o yalor de f′(1) é:", 
+	"option1":"2e", 
+	"option2":"0", 
+	"option3":"e^2", 
+	"option4":"1", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Com 5 homens e 5 mulheres, de quantos modos se pode formar um casal ?", 
+	"option1":"5", 
+	"option2":"10", 
+	"option3":"20", 
+	"option4":"25", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"O domínio de existência da função f(x)=ln(|x-1|-4) é:", 
+	"option1":"∀x ∈ R", 
+	"option2":"x∈ ]−3;+∞[", 
+	"option3":"x∈ R\{-3;5}", 
+	"option4":"x∈]−∞; −3[U]5;+∞[", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Qual das proposições propostas é solução da equação |x-3|=-3 :", 
+	"option1":"x = {0}", 
+	"option2":"x = {6}", 
+	"option3":"x = {-3}", 
+	"option4":"x = {}", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Sabendo que sen75°≈0.97, o valor do cos15°≈ ?", 
+	"option1":"1", 
+	"option2":"0.97", 
+	"option3":"0.03", 
+	"option4":"0.5", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"A negação da proposição ∀x∈R,|x|>1 é:", 
+	"option1":"∀x∈R,|x|≤1", 
+	"option2":"∀x∈R,|x|<1", 
+	"option3":"∀x∈R,|x|≠1", 
+	"option4":"∃x∈R,|x|≤1", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"O declive da recta tangente à uma curva da função f(x) num ponto (a, f(a)) é igual à 1,5 . Então neste ponto a função dada:", 
+	"option1":"Tem um mínimo", 
+	"option2":"Tem um máximo", 
+	"option3":"É crescente", 
+	"option4":"Nenhuma das alternativas anteriores", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"O gráfico de uma função par definida num intervalo fechado [-a,a] de um sistema de coordenadas cartesianas é:", 
+	"option1":"simétrico em relação ao eixo das abcissas", 
+	"option2":"simétrico em relação ao eixo das ordenadas", 
+	"option3":"simétrico em relação a uma recta diferente do eixo das ordenadas", 
+	"option4":"simétrico em relação á origem do sistema de coordenadas", 
+	"answer":"2",
+	"category":"Matemática"
+},{
 	"question":"A velocidade de propagação das ondas eletromagnéticas no vácuo é…", 
 	"option1":"diferente", 
 	"option2":"igual zero", 
@@ -2210,9 +2298,63 @@ for (let index = 0; index < questions.length; index++) {
 	"option4":"", 
 	"answer":"1",
 	"category":"Biologia"
+},{
+	"question":"", 
+	"option1":"", 
+	"option2":"", 
+	"option3":"", 
+	"option4":"", 
+	"answer":"1",
+	"category":"Matemática"
 }
 
-Quais das funcões f(x) = x^2 + 5 e g(x) = 2x^3 − x são par ou ímpar?
+
+Sejam D(x) um polinómio de grau 3 e P(x) um polinómio de grau 5. Sejam Q(x) e R(x) dois polinómios
+tais que P(x) = D(x) x Q(x) + R(x) . Qual das seguintes afirmações é necessariamente verdadeira?
+a) Q(x) e R(x) são ambos de grau 1.
+b) Q(x) é um polinómio de grau 2 e R(x) é um polinómio de grau 1.
+c) Q(x) é um polinómio de grau 2 e R(x) é um polinómio de grau inferior a 3.
+d) Q(x) é um polinómio de grau 1 e R(x) é um polinómio nulo.
+
+
+A taxa de imposto sobre vendas de roupas em certa Cidade d de 6,75%. O preço total de uma camisa inciuindo
+o imposto nesta Cidade d de i4,93 euros. Quai é o preço (arredondado para duas casas decimais) da camisa
+excluindo o imposto?
+a) 8,91 b) 12,93 c) 13,99 d) 15,94
+
+Os vetores u =(2,0,-4) 6 v = (6,-4,a} são perpendiculares. Qual é o valor de a?
+a)3 b)2 c)-2 d) -3
+
+O valor de n que torna a sequencia 2+3n, -5n, 1-4n uma Progressão Aritmética pertence ao intervalo:
+[-2;-1]
+[-1;0]
+[0;1]
+[2;3]
+
+Num relógio digital, que marca de 0:00 até 23:59, o número de vezes, por dia, que o
+mostrador apresenta todos os algarismos iguais é:
+A) l0; B) 8; C) 6; D) 7.
+
+Hâ 18 anos Hélio tinha precisamente três vezes a idade de seu filho. Agora tem o dobro
+da idade desse filho. Hélio e seu filho têm agora, respectivamente:
+A) 7}anos e 36 anos; C) 40 anos e 20 anos;
+B) 36 anos e 18 anos; D) 50 anos e 25 anos.
+
+A quantidade de os números inteiros de 2 algarismos que são iguais ao dobro do
+produto de seus algarismos é:
+A) 0; B) 1; C) 2; D) 3.
+
+Em um ano, o número máximo de meses, que têm cinco domingos é:
+A) 3; B) 4; C) 5; D) 6.
+
+A solução da inequação log₂(x+5)-log₂(x+2)≥1 é:
+x∈]−∞; −5[U[-2;+∞[
+x∈]−∞; −2]
+x∈[−2; 1]
+x∈]−2; +∞]
+
+
+Quais das funções f(x) = x^2 + 5 e g(x) = 2x^3 − x são par ou ímpar?
 A. f(x) é par e g(x) é par
 B. f(x) é ímpar e g(x) é par
 C. f(x) é par e g(x) é ímpar
@@ -2234,6 +2376,7 @@ Função cúbica
 	"category":"Matemática"
 }
 
+≥ ≠ ≤ “ ” « »
 Marque a alternativa incorreta:
 Se f ′(a) = 0 e f ′(x) passa em x = a de negativa a positiva, a função f (x) tem para x = a um mínimo extremo.
 Se f ′(a) = 0 e f ′(x) passa em x = a de positiva a negativa, a função f (x) tem para x = a um máximo extremo.
