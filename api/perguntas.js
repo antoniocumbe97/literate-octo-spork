@@ -87,6 +87,470 @@ let questions = [{
 	"answer":"3",
 	"category":"Cultura-Geral"
 },{
+	"question":"O processo de união entre o núcleo do óvulo com o do espermatozóide é designado por:", 
+	"option1":"Nidação", 
+	"option2":"Fecundação", 
+	"option3":"Segmentação", 
+	"option4":"Permutação", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"“Uma falta de paciência gigantesca” significa", 
+	"option1":"Falta de paciência com gigantes", 
+	"option2":"Falta de paciência dos gigantes", 
+	"option3":"Muita falta de paciência", 
+	"option4":"Muitos gigantes sem paciência", 
+	"answer":"3",
+	"category":"Cultura-Geral"
+},{
+	"question":"O Primeiro-ministro do governo de transição em Moçambique, após o Acordo de Lusaka, foi:", 
+	"option1":"Pascoal Mocumbi", 
+	"option2":"Joaquim Chissano", 
+	"option3":"Armando Guebuza", 
+	"option4":"Mário Machungo", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"Depois de um período de destruição e de terror devido a guerra interna, chegava a possibilidade de paz em Moçambique. As conversações entre o Governo e a RENAMO foram mediadas pela:", 
+	"option1":"SADC", 
+	"option2":"NEPAD", 
+	"option3":"Comunidade de Santo Egídio", 
+	"option4":"Comunidade Islâmica", 
+	"answer":"3",
+	"category":"Cultura-Geral"
+},{
+	"question":"Qual das seguintes afirmações é INCORRECTA em relação à fotossíntese?", 
+	"option1":"A fotossíntese decorre em duas etapas de reacções: fotoquímicas e químicas", 
+	"option2":"Durante o processo da fotossíntese, é produzido o oxigénio", 
+	"option3":"Durante o processo da fotossíntese é formada a glicose", 
+	"option4":"O produto final da fotossíntese é uma proteína", 
+	"answer":"4",
+	"category":"Cultura-Geral"
+},{
+	"question":"“... o calendário é uma coisa muito democrática” significa que:", 
+	"option1":"É igual para todos", 
+	"option2":"Que todos têm um",
+	"option3":"É algo muito popular", 
+	"option4":"É algo escolhido pelo povo", 
+	"answer":"1", 
+	"category":"Cultura-Geral"
+},{
+	"question":"Dizemos que um solo é rico para o desenvolvimento das plantas quando:", 
+	"option1":"possui uma grande quantidade de areia", 
+	"option2":"pode fornecer todos os minerais e a água que a planta necessita", 
+	"option3":"tem apenas macronutrientes", 
+	"option4":"possui grande quantidade de argila", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"O coração é um músculo situado na caixa torácica entre os…", 
+	"option1":"Olhos", 
+	"option2":"Vasos sanguíneas", 
+	"option3":"Intestinos", 
+	"option4":"Pulmões", 
+	"answer":"4",
+	"category":"Cultura-Geral"
+},{
+	"question":"O aparelho circulatório é constituído pelo coração e pelos vasos sanguíneos: artérias, veias e…", 
+	"option1":"Ossos", 
+	"option2":"Capilares", 
+	"option3":"Sólidos", 
+	"option4":"Todas opções estão erradas", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"A eliminação de algumas substâncias não absorvidas pelo nosso organismo, chama-se…", 
+	"option1":"Excreção", 
+	"option2":"Expulsão", 
+	"option3":"As duas alíneas", 
+	"option4":"Todas alíneas estão erradas", 
+	"answer":"1",
+	"category":"Cultura-Geral"
+},{
+	"question":"Quando é celebrado o dia da Independência de Moçambique?", 
+	"option1":"25 DE SETEMBRO", 
+	"option2":"25 DE JULHO", 
+	"option3":"25 DE JUNHO", 
+	"option4":"25 DE DEZEMBRO", 
+	"answer":"3",
+	"category":"Cultura-Geral"
+},{
+	"question":"3 de Fevereiro é o dia dos Heróis Moçambicanos, neste dia morreu …", 
+	"option1":"Samora Machel", 
+	"option2":"Josina Machel", 
+	"option3":"Carlos Cardozo", 
+	"option4":"Eduardo Mondlane", 
+	"answer":"4",
+	"category":"Cultura-Geral"
+},{
+	"question":"A teia alimentar é…", 
+	"option1":"É um conjuntos de teias que as aranhas produzem para fazer sua casa", 
+	"option2":"É a interligação natural de cadeias alimentares", 
+	"option3":"É a ligação entre as teias das aranhas e os alimentos", 
+	"option4":"Todas opções estão erradas", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"Quais são as doenças que as bactérias causam no organismo humano.", 
+	"option1":"Cólera, dor de cabeça, vómitos e Malária", 
+	"option2":"Cólera, Vómitos, Tétano e diarreia", 
+	"option3":"Cansaço, Vómitos, Tétano e micose", 
+	"option4":"Sarampo, vómitos, diarreias e cólera", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"O sangue realiza dois trajetos circulares no nosso corpo, são eles", 
+	"option1":"Circulação normal e circulação composta", 
+	"option2":"A pequena circulação e a grande Circulação", 
+	"option3":"Pequena circulação e a circula composta", 
+	"option4":"Circulação sem fim e circulação com fim", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"Os capilares são canais muitos finos, que estabelecem a comunicação entre as…", 
+	"option1":"Artérias e as veias", 
+	"option2":"Artérias e pulmões", 
+	"option3":"veias e o fígado", 
+	"option4":"coração e artérias", 
+	"answer":"1",
+	"category":"Cultura-Geral"
+},{
+	"question":"Qual das afirmações abaixo relacionadas com as regras de nomenclatura biológica é INCORRECTA?", 
+	"option1":"A designação dos grupos superiores à espécie é binominal", 
+	"option2":"O nome científico de uma subespécie é trinominal", 
+	"option3":"Para atribuir o nome à espécie é utilizada a nomenclatura binominal", 
+	"option4":"A designação dos grupos superiores à espécie é uninominal", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Assinale, nas alternativas apresentadas, o organelo que exerce a função de controlo de todo o metabolismo celular e armazenamento do material genético.", 
+	"option1":"Ribossoma", 
+	"option2":"Núcleo", 
+	"option3":"Parede celular", 
+	"option4":"Aparelho de Golgi", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Das categorias taxonómicas em baixo apresentadas, indique a que enquadra organismos que têm um maior grau de semelhança entre si.", 
+	"option1":"Ordem", 
+	"option2":"Família", 
+	"option3":"Género", 
+	"option4":"Espécie", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"A equação C6 H12 O 6+ O2 = 6 CO2 + 6H2O representa um processo vital nos seres vivos. Indique qual.", 
+	"option1":"Fermentação láctica", 
+	"option2":"Fotossíntese", 
+	"option3":"Fermentação alcoólica", 
+	"option4":"Respiração aeróbia", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"Para distinguir ao microscópio uma célula vegetal de uma animal qual das seguintes estruturas deve estar presente?", 
+	"option1":"Aparelho de Golgi", 
+	"option2":"Cloroplasto", 
+	"option3":"Ribossoma", 
+	"option4":"Mitocôndria", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Das afirmações que seguem, escolha a que caracteriza uma célula eucarióta.", 
+	"option1":"Célula de organização bastante simples sem estruturas membranares no citoplasma", 
+	"option2":"Célula que não apresenta ribossomas nem núcleo", 
+	"option3":"Célula de organização complexa sem estruturas membranares no citoplasma", 
+	"option4":"Célula de organização complexa com organelos bem delimitados por membranas", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Qual dos organismos apresentados abaixo é classificado como sendo procariota?", 
+	"option1":"minhoca", 
+	"option2":"bactéria", 
+	"option3":"amêijoa", 
+	"option4":"cajueiro", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Nas plantas angiospérmicas, qual a função principal do líber?", 
+	"option1":"fotossíntese", 
+	"option2":"condução de açúcares", 
+	"option3":"reserva", 
+	"option4":"transpiração", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Que característica(s) distingue(m) os Artrópodes dos restantes invertebrados?", 
+	"option1":"Os apêndices articulados e o revestimento externo resistente e impermeável (exoesqueleto)", 
+	"option2":"A ausência de um sistema respiratório", 
+	"option3":"A ausência de sistema reprodutivo", 
+	"option4":"A ausência de um sistema nervoso", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Durante a formação da urina a etapa da filtração ocorre ao nível do (a) :", 
+	"option1":"Tubo urinífero", 
+	"option2":"Tubo colector", 
+	"option3":"Glândula suprarenal", 
+	"option4":"Corpúsculo renal ou glomérulo Malpighi", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"Nos seres humanos, as células sensoriais envolvidas tanto na audição como no equilíbrio são conhecidas por:", 
+	"option1":"Células de Corti", 
+	"option2":"Células ciliadas", 
+	"option3":"Corpúsculo de Pacini", 
+	"option4":"Otólitos", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"O glicogénio é o principal polissacarídeo de reserva das células:", 
+	"option1":"vegetais", 
+	"option2":"animais", 
+	"option3":"das algas", 
+	"option4":"dos fungos", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Que processo é mais provável de ocorrer num órgão cujo epitélio apresenta muitas microvilosidades?", 
+	"option1":"distorção", 
+	"option2":"absorção", 
+	"option3":"conjugação", 
+	"option4":"espermatogénese", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"A capacidade dos leucócitos atravessarem as paredes dos capilares sanguíneos é a:", 
+	"option1":"Fagocitose", 
+	"option2":"Intercinese", 
+	"option3":"Diapedese", 
+	"option4":"Diapausa", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"O ponto da retina do olho humano onde as fibras nervosas se reúnem é chamado de:", 
+	"option1":"Bastonetes", 
+	"option2":"Disco óptico", 
+	"option3":"Coróide", 
+	"option4":"Cristalino", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Indique o que pode encontrar tanto nas mitocôndrias como nos cloroplastos.", 
+	"option1":"ADN", 
+	"option2":"Cílios", 
+	"option3":"Flagelos", 
+	"option4":"Nucléolos", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Apenas uma das seguintes razões permite enquadrar as bactérias no grupo dos seres procarióticos. Indique qual.", 
+	"option1":"O facto de possuirem estruturas locomotoras denominadas pseudópodes", 
+	"option2":"O facto de não possuirem membrana nuclear que permite separar o núcleo do citoplasma", 
+	"option3":"O facto de possuirem estruturas locomotoras denominadas flagelos", 
+	"option4":"O facto de reproduzirem-se sexuadamente por conjugação", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Qual dos órgãos humanos abaixo citados não produz enzimas digestivas?", 
+	"option1":"glândulas salivares", 
+	"option2":"estômago", 
+	"option3":"vesícula biliar", 
+	"option4":"apêndice cecal", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"Envolvendo uma planta com um saco plástico verifica-se que, após algum tempo, a parede interna do saco plástico fica coberta de gotículas de água. Esta água foi perdida pela planta no processo denominado:", 
+	"option1":"Respiração", 
+	"option2":"Embebição", 
+	"option3":"Gutação", 
+	"option4":"Evaporação", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"Os estômas presentes na superfície das folhas das plantas são fundamentalmente responsáveis:", 
+	"option1":"pelo crescimento das folhas", 
+	"option2":"pelas trocas gasosas e respiração", 
+	"option3":"pela produção de novas folhas", 
+	"option4":"pela nutrição mineral", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Quando uma planta atinge o ponto de compensação, pode-se afirmar que:", 
+	"option1":"A taxa da respiração é igual a taxa da fotossíntese", 
+	"option2":"A planta pára de respirar em virtude de ter atingido o equilíbrio energético", 
+	"option3":"A planta pára de realizar fotossíntese para compensar a diminuta taxa de reprodução", 
+	"option4":"A planta cessa todo o seu metabolismo", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"A que grupo pertencem as plantas que produzem estróbilos?", 
+	"option1":"Filicíneas", 
+	"option2":"Gimnospérmicas", 
+	"option3":"Pteridófitas", 
+	"option4":"Briófitas", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Indique uma característica relacionada com o sucesso das angiospérmicas no ambiente terrestre.", 
+	"option1":"Apresentam flores cuja polinização pode ser feita com a ajuda de animais", 
+	"option2":"Possuem sistema radicular que não permite uma boa captação de água.", 
+	"option3":"Apresentam ramos pouco desenvolvidos", 
+	"option4":"Apresentam caules pouco desenvolvidos", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Indique a nível de qual dos seguintes órgãos as duas enzimas, pepsina e lipase, actuam durante o processo da digestão.", 
+	"option1":"faringe", 
+	"option2":"estômago", 
+	"option3":"esófago", 
+	"option4":"fígado", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Que processo permite a ingestão de substâncias sólidas em algumas células animais?", 
+	"option1":"Hidrólise", 
+	"option2":"Filtração", 
+	"option3":"Fagocitose", 
+	"option4":"Selecção", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"Nos seres humanos, o fígado tem, fundamentalmente, a função de:", 
+	"option1":"produzir mucina, substância que lubrifica e protege as mucosas", 
+	"option2":"produzir suco gástrico", 
+	"option3":"produzir sais biliares que actuam na emulsificação das gorduras", 
+	"option4":"produzir ácido clorídrico para activação do pespinogénio", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"O escorbuto resulta da falta de:", 
+	"option1":"vitamina A", 
+	"option2":"vitamina C", 
+	"option3":"vitamina K", 
+	"option4":"vitamina B", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Que vitamina está relacionada com a síntese de protrombina, exercendo a função anti-hemorrágica?", 
+	"option1":"Tiamina", 
+	"option2":"Vitamina B", 
+	"option3":"Vitamina K", 
+	"option4":"Vitamina C", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"A diferença fundamental entre os processos digestivos dos animais carnívoros e dos ruminantes é a existência, nos ruminantes, de um processo específico de digestão de:", 
+	"option1":"celulose", 
+	"option2":"gordura", 
+	"option3":"proteína", 
+	"option4":"ácidos", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Em qual dos animais em baixo indicados a hemoglobina está presente?", 
+	"option1":"Lagosta", 
+	"option2":"Minhoca", 
+	"option3":"Rato", 
+	"option4":"Gafanhoto", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"As proteínas ingeridas pelos mamíferos produzem compostos nitrogenados tóxicos que devem passar por um determinado ciclo bioquímico que os trasnforma em compostos menos tóxicos. Esse ciclo ocorre:", 
+	"option1":"no estômago", 
+	"option2":"no rim", 
+	"option3":"no fígado", 
+	"option4":"no pâncreas", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Alguns cogumelos são comestíveis. Em que classe de fungos pertencem os cogumelos?", 
+	"option1":"Ascomycetes", 
+	"option2":"Zygomycetes", 
+	"option3":"Deuteromycetes", 
+	"option4":"Basidiomycetes", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"A hormona responsável pelo completo desenvolvimento dos caracteres sexuais masculinos é:", 
+	"option1":"Adrenalina", 
+	"option2":"Progesterona", 
+	"option3":"Estrogénio", 
+	"option4":"Testosterona", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"Qual das seguintes características ou funções NÃO pertence aos elementos figurados do sangue humano?", 
+	"option1":"Transporte de oxigénio", 
+	"option2":"Defesa fagocitária", 
+	"option3":"Filtração do sangue", 
+	"option4":"Defesa imunitária", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"Indique a opção que apresenta dois tipos de reprodução assexuada:", 
+	"option1":"Fragmentação, gemiparidade e esporulação", 
+	"option2":"Conjugação e partenogénese", 
+	"option3":"Metagénese e fertilização", 
+	"option4":"Esporulação e conjugação", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Das características abaixo indicadas, indique aquela que não é comum a todos os organismos do Filo Chordata (Cordados)", 
+	"option1":"Cefalização acentuada", 
+	"option2":"Simetria bilateral", 
+	"option3":"Tubo digestivo completo", 
+	"option4":"Respiração pulmonar", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"A elefantíase é uma doença causada por nemátodos e que afecta os seres humanos. A doença é transmitida por:", 
+	"option1":"consumo de alimentos contaminados", 
+	"option2":"picadas da mosca tsé-tsé", 
+	"option3":"picadas de mosquitos", 
+	"option4":"consumo de água contaminada", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"Tendo como base o número de folhetos que apresentam durante o desenvolvimento embrionário, em qual dos seguintes grupos são colocados (em conjunto) os seres humanos, as ténias, as aranhas, os polvos e as estrelas-do-mar?", 
+	"option1":"Vertebrados", 
+	"option2":"Diblásticos", 
+	"option3":"Triblásticos", 
+	"option4":"Acelomados", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"Qual das afirmações seguintes é INCORRECTA?", 
+	"option1":"Durante a organogénese, a mesoderme dá origem ao sistema excretor", 
+	"option2":"Durante a organogénese, a mesoderme dá origem ao sistema reprodutor", 
+	"option3":"Durante a organogénese, a mesoderme dá origem ao sistema nervoso", 
+	"option4":"Durante a organogénese, a mesoderme dá origem ao sistema circulatório", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"A absorção de água e sais pela planta deve-se a…", 
+	"option1":"Difusão, osmose, transporte ativo e passivo", 
+	"option2":"Difusão, osmose, transporte passivo", 
+	"option3":"Difusão, meiose, transporte ativo", 
+	"option4":"Difusão mitose, transporte não ativo", 
+	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Nos musgos, a divisão meiótica originara…", 
+	"option1":"Anterozoides", 
+	"option2":"Apenas diplontes", 
+	"option3":"Haplodiplontes", 
+	"option4":"Nenhuma opção", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"O movimento aleatório das partículas suspensas num fluido denomina-se…", 
+	"option1":"Movimento Browniano", 
+	"option2":"Movimento escultório", 
+	"option3":"Movimento Simples", 
+	"option4":"Movimento composto", 
+	"answer":"1",
+	"category":"Biologia"
+},{
 	"question":"O fungo que causa bolor negro do pão é uma das espécies mais comuns da classe…", 
 	"option1":"Zigomicetes", 
 	"option2":"Basidiomicetes", 
@@ -117,14 +581,6 @@ let questions = [{
 	"option3":"Algumas células terão com 46 cromossomas e outras com 23 cromossomas", 
 	"option4":"Algumas células terão com 92 cromossomas", 
 	"answer":"1",
-	"category":"Biologia"
-},{
-	"question":"A teia alimentar é…", 
-	"option1":"É um conjuntos de teias que as aranhas produzem para fazer sua casa", 
-	"option2":"É a interligação natural de cadeias alimentares", 
-	"option3":"É a ligação entre as teias das aranhas e os alimentos", 
-	"option4":"Todas opções estão erradas", 
-	"answer":"2",
 	"category":"Biologia"
 },{
 	"question":"Qual destes organismos possui sistema digestivo completo:", 
@@ -255,15 +711,16 @@ let questions = [{
 	"answer":"2",
 	"category":"Biologia"
 },{
-	"question":"O que são lipidos?", 
-	"option1":"São moleculas organicas constituidas por carbono (C),(H) e (O₂).", 
-	"option2":"São são oleos e gorduras simpels que constituem ergeticos dos animais.", 
-	"option3":"São moleculas organicas constituidas por aminioacidos ligados por ligacao peptitica.", 
-	"option4":"São macromoleculas formados por glicose.", 
-	"answer":"1",
-	"category":"Biologia"
+	"question":"O que são lípidos?", 
+    "option1":"São moléculas orgânicas constituídas por carbono  (C),(H) e (O₂).", 
+    "option2":"São oleos e gorduras simpels que constituem ergeticos dos animais.", 
+    "option3":"São moléculas orgânicas constituidas por aminioacidos ligados por ligação peptitica.", 
+    "option4":"São macromoléculas formados por glicose.", 
+    "answer":"1",
+    "category":"Biologia"
+
 },{
-	"question":"O grupo que contem apenas traqueófitas é…", 
+	"question":"O grupo que contém apenas traqueófitas é…", 
 	"option1":"Algas, musgos e briófitas", 
 	"option2":"Musgos, gimnospérmicas e angiospérmicas", 
 	"option3":"Pteridófitas, angiospérmicas e gimnospérmicas", 
@@ -288,7 +745,7 @@ let questions = [{
 	"category":"Biologia"
 },{
 	"question":"A fotossíntese libera para a atmosfera…", 
-	"option1":"O oxigénio oriundo da agua", 
+	"option1":"O oxigénio oriundo da água", 
 	"option2":"O oxigénio proveniente do gás carbónico", 
 	"option3":"O gás carbónico proveniente da respiração", 
 	"option4":"O vapor da agua absorvido pela luz", 
@@ -357,14 +814,6 @@ let questions = [{
 	"option3":"Equus burchelli", 
 	"option4":"equus burchelli", 
 	"answer":"3",
-	"category":"Biologia"
-},{
-	"question":"O grupo que contem apenas traqueófitas é…", 
-	"option1":"Algas, musgos e briófitas", 
-	"option2":"Musgos, gimnospérmicas e angiospérmicas", 
-	"option3":"Pteridófitas, angiospérmicas e gimnospérmicas", 
-	"option4":"pteridófitas, briófitas e gimnospérmicas", 
-	"answer":"4",
 	"category":"Biologia"
 },{
 	"question":"Pertecem ao reino plantae os seguintes seres…", 
@@ -895,6 +1344,238 @@ let questions = [{
 	"answer":"1",
 	"category":"Português"
 },{
+	"question":"Na frase “Compro pão todos os dias”, a expressão «pão» é:", 
+	"option1":"sujeito", 
+	"option2":"oblíquo", 
+	"option3":"objecto indirecto", 
+	"option4":"objecto directo", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"Na frase “Muitos ladrões actuam de madrugada nos bairros periféricos”, a expressão «de madrugada» é:", 
+	"option1":"objecto directo", 
+	"option2":"oblíquo", 
+	"option3":"objecto indirecto", 
+	"option4":"adjunto", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"Na frase “«As estrelas foram chamadas e disseram: aqui estamos» (António Vieira)”, a figura de estilo presente é:", 
+	"option1":"Personificação", 
+	"option2":"Anástrofe", 
+	"option3":"Metáfora", 
+	"option4":"Hipérbole", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"A obra «No reino dos abutres» é da autoria de:", 
+	"option1":"José Craveirinha", 
+	"option2":"Ungulane Ba Ka Khossa", 
+	"option3":"Marcelo Panguana", 
+	"option4":"Mia Couto", 
+	"answer":"2",
+	"category":"Português"
+},{
+	"question":"A obra «A legítima dor da Dona Sebastião» é da autoria de:", 
+	"option1":"José Craveirinha", 
+	"option2":"Marcelo Panguana", 
+	"option3":"Lucílio Manjate", 
+	"option4":"Mia Couto", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"“As capulanas são símbolos da riqueza que uma mulher possui.” O antónimo de riqueza é:", 
+	"option1":"fausto", 
+	"option2":"opulência", 
+	"option3":"pobreza", 
+	"option4":"grandeza", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"“…as capulanas são o símbolo da riqueza que uma mulher possui”. O recurso estilístico na presente na frase é:", 
+	"option1":"comparação", 
+	"option2":"metáfora", 
+	"option3":"personificação", 
+	"option4":"metonímia", 
+	"answer":"2",
+	"category":"Português"
+},{
+	"question":"Qual das seguintes frases não é gramaticalmente correcta?", 
+	"option1":"estudamos bastante neste semestre.", 
+	"option2":"contamos contigo para tudo.", 
+	"option3":"nos diz a verdade.", 
+	"option4":"ninguém te escondeu a verdade.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Carranquinha de Aguilar é pseudónimo usado por:", 
+	"option1":"Rui de Noronha", 
+	"option2":"Orlando Mendes", 
+	"option3":"Marcelino dos Santos", 
+	"option4":"Noémia de Sousa", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"Indique a palavra cujo contraste de género masculino/feminino é feito por composição.", 
+	"option1":"Águia", 
+	"option2":"Égua", 
+	"option3":"Gato", 
+	"option4":"Cavalo", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"As falhas que ______ havido são por causa dos desentendimentos entre os agricultores.", 
+	"option1":"tem", 
+	"option2":"têm", 
+	"option3":"hão", 
+	"option4":"nenhuma", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"O verbo estar na frase “Milhões de crianças estão desnutridas.” é:", 
+	"option1":"transitivo directo", 
+	"option2":"intransitivo", 
+	"option3":"irregular", 
+	"option4":"copulativo ou de ligação", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"Nas festas, geralmente, prefiro coca-cola ___ fanta.", 
+	"option1":"Que", 
+	"option2":"Do que", 
+	"option3":"da", 
+	"option4":"a", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"Eça de Queirós e Antero de Quental são autores representativos…", 
+	"option1":"do Realismo português", 
+	"option2":"do Modernismo português", 
+	"option3":"do Romantismo português", 
+	"option4":"do Classicismo português", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"Uma das diferenças entre a síntese e o resumo é:", 
+	"option1":"O número de palavras é indicado na síntese enquanto no resumo não.", 
+	"option2":"Há tolerância do número de palavras no resumo (10%) enquanto na síntese não.", 
+	"option3":"A síntese é sempre redigida na terceira pessoa gramatical enquanto o resumo não.", 
+	"option4":"Há correcção formal e sintáctica no resumo enquanto na síntese não.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Qual a expressão que não pode substituir, com o mesmo sentido, ou seja?", 
+	"option1":"Por outras palavras", 
+	"option2":"Dito de outro modo", 
+	"option3":"Além disso", 
+	"option4":"Quer dizer", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"O plural de «palavra-chave» é:", 
+	"option1":"Palavras-chaves", 
+	"option2":"Palavras-chave", 
+	"option3":"Palavra-chaves", 
+	"option4":"As palavra-chaves", 
+	"answer":"2",
+	"category":"Português"
+},{
+	"question":"Qual o par que liga correctamente a obra e o seu autor?", 
+	"option1":"Cronincando, Calane da Silva", 
+	"option2":"País de mim, Eduardo White", 
+	"option3":"Terra sonâmbula, Marcelino dos Santos", 
+	"option4":"Os Lusiádas, Eça de Queirós", 
+	"answer":"2",
+	"category":"Português"
+},{
+	"question":"Paulina Chiziane escreveu as obras:", 
+	"option1":"Portagem, Os ventos do apocalipse e Niketche;", 
+	"option2":"Baladas de amor ao vento, Xigubo e As andorinhas;", 
+	"option3":"Niketche, Vozes Anoitecidas e Baladas de amor ao vento;", 
+	"option4":"Os ventos de apocalipse, Sétimo Juramento e As andorinhas.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"No caso de vocês _____ até aqui, tragam o material de estudos.", 
+	"option1":"Virem", 
+	"option2":"vierem", 
+	"option3":"vier", 
+	"option4":"verem", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"Qual das opções relaciona o autor à obra?", 
+	"option1":"Paulina Chiziane - Nós, os de Macurungo", 
+	"option2":"Calane da Silva - Dos meninos da Malanga", 
+	"option3":"Mia Couto - Os ventos de apocalipse", 
+	"option4":"Ungulane Ba Ka Khosa - Uma história de poligamia", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"“Os camponeses querem trabalhar a terra”. Está frase é…", 
+	"option1":"simples", 
+	"option2":"complexa por subordinação", 
+	"option3":"complexa por coordenação", 
+	"option4":"subordinada completiva", 
+	"answer":"2",
+	"category":"Português"
+},{
+	"question":"Na frase “Os cientistas _____ o aquecimento global há anos”, a forma verbal correcta que preenche adequadamente o espaço em branco é:", 
+	"option1":"anteveram", 
+	"option2":"anteverão", 
+	"option3":"anteviram", 
+	"option4":"antevinham", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Na frase “Ontem ________ com o director sobre várias matérias”, a forma verbal que preenche adequadamente o espaço em branco é:", 
+	"option1":"falamos", 
+	"option2":"falámos", 
+	"option3":"falaremos", 
+	"option4":"falarás", 
+	"answer":"2",
+	"category":"Português"
+},{
+	"question":"Qual das opções está correctamente constituída?", 
+	"option1":"Os camponeses a cujo líder escrevi acabam de telefonar", 
+	"option2":"Os camponeses cujo o líder escrevi acabam de telefonar.", 
+	"option3":"Os camponeses cujo líder escrevi acabam de telefonar.", 
+	"option4":"Os camponeses que o líder escrevi acabam de telefonar.", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"Qual das seguintes frases é gramaticalmente correcta?", 
+	"option1":"Os agricultores parece que estão contentes.", 
+	"option2":"Os agricultores parecem que estão contentes.", 
+	"option3":"Os agricultores parecem estarem contentes.", 
+	"option4":"Os agricultores parecem eles estão contentes.", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"Qual das seguintes frases não é gramaticalmente correcta?", 
+	"option1":"Há pessoas que opõem-se ao plano quinquenal do governo.", 
+	"option2":"Há munícipes que se sentem satisfeitos com o trabalho do governo.", 
+	"option3":"Os agricultores parece que estão contentes.", 
+	"option4":"Ninguém te falou do projecto de construção de casas para jovens.", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"“...todas lhe vão parecer canja.” Nesta frase temos uma", 
+	"option1":"metonímia", 
+	"option2":"comparação", 
+	"option3":"hipérbole", 
+	"option4":"metáfora", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"A actividade poética produzida no quadro da luta armada desenvolve-se no sentido de:", 
+	"option1":"Afirmação da ideologia da libertação nacional e distanciamento dos brancos.", 
+	"option2":"Afirmação da ideologia da libertação nacional e distanciamento do poder colonial.", 
+	"option3":"Afirmação de militância política e união do povo.", 
+	"option4":"Nenhuma das opções está correcta.", 
+	"answer":"2",
+	"category":"Português"
+},{
 	"question":"Em que ano foi fundada a união nacional para Moçambique independente?", 
 	"option1":"2003", 
 	"option2":"1975", 
@@ -965,6 +1646,150 @@ let questions = [{
 	"option3":"Falta de unidade entre os povos africanos", 
 	"option4":"Superioridade das armas dos africanos", 
 	"answer":"3",
+	"category":"História"
+},{
+	"question":"A abertura oficial do canal de Suez foi em:", 
+	"option1":"Novembro de 1842", 
+	"option2":"Novembro de 1869", 
+	"option3":"Novembro de 1902", 
+	"option4":"Novembro de 1918", 
+	"answer":"2",
+	"category":"História"
+},{
+	"question":"A Conferência em Berlim, que levou à ocupação efectiva do continente africano, realizou-se de:", 
+	"option1":"Setembro de 1874 a Março de 1884", 
+	"option2":"Agosto de 1884 a Abril de 1886", 
+	"option3":"Novembro de 1884 a Fevereiro de 1885", 
+	"option4":"Janeiro de 1884 a Dezembro de 1885", 
+	"answer":"3",
+	"category":"História"
+},{
+	"question":"O ANC foi um dos movimentos políticos sul -africanos que lutou contra o regime do apartheid. O ANC foi fundado em:", 
+	"option1":"1910", 
+	"option2":"1912", 
+	"option3":"1913", 
+	"option4":"1914", 
+	"answer":"2",
+	"category":"História"
+},{
+	"question":"Como consequência da I Guerra Mundial, a Alemanha perdeu as suas colónias em África. Neste contexto, deixou de ser colonizador dos seguintes territórios:", 
+	"option1":"Egipto, Costa do Marfim, Sudão e Gana", 
+	"option2":"Mali, África do Sul, Líbia e Egipto", 
+	"option3":"Líbia, Senegal, Marrocos e São Tomé e Príncipe", 
+	"option4":"Togo, Sudoeste Africano, Tanganhica e Camarões", 
+	"answer":"4",
+	"category":"História"
+},{
+	"question":"Em 1893 rebentou um conflito entre Lobengula, o chefe dos shonas, e os ingleses. Esta rebelião aconteceu no/a actual:", 
+	"option1":"Sudão", 
+	"option2":"Uganda", 
+	"option3":"Quénia", 
+	"option4":"Zimbabwe", 
+	"answer":"4",
+	"category":"História"
+},{
+	"question":"Agostinho Neto foi o primeiro presidente de Angola (1975 -1979). Ele era o líder da seguinte organização:", 
+	"option1":"Frente Nacional para a Libertação de Angola (FNLA)", 
+	"option2":"Movimento Popular da Libertação de Angola (MPLA)", 
+	"option3":"União Nacional para a Independência de Angola (UNITA)", 
+	"option4":"Frente de Libertação do Enclave de Cabinda (FLEC)", 
+	"answer":"2",
+	"category":"História"
+},{
+	"question":"O país africano que proclamou a independência em 1957 foi:", 
+	"option1":"Gana", 
+	"option2":"Guiné Equatorial", 
+	"option3":"Guiné Conakry", 
+	"option4":"Guiné-Bissau", 
+	"answer":"1",
+	"category":"História"
+},{
+	"question":"O país africano que se tornou independente no século XXI foi:", 
+	"option1":"Sudão do Sul", 
+	"option2":"Maurícias", 
+	"option3":"Namíbia", 
+	"option4":"Eritreia", 
+	"answer":"1",
+	"category":"História"
+},{
+	"question":"O primeiro período da história de Moçambique, designado por período do povoamento Bantu à penetração mercantil portuguesa, situa-se entre os:", 
+	"option1":"Séculos III/IV e XVI", 
+	"option2":"Séculos XVII e XX", 
+	"option3":"Séculos XVII e XIX", 
+	"option4":"Séculos XVII/XVIII e XXI", 
+	"answer":"1",
+	"category":"História"
+},{
+	"question":"No Estado dos Monomotapa os produtos constituintes da curva eram:", 
+	"option1":"Bens de prestígio, regra geral panos e missangas", 
+	"option2":"Principalmente ouro e marfim", 
+	"option3":"Peles de animais e cornos de rinoceronte", 
+	"option4":"Bebidas alcoólicas e exóticas", 
+	"answer":"1",
+	"category":"História"
+},{
+	"question":"No Estado dos Monomotapas os responsáveis pela produção eram:", 
+	"option1":"Os Muri", 
+	"option2":"As Bele", 
+	"option3":"As Mushas", 
+	"option4":"Os Mutumes", 
+	"answer":"3",
+	"category":"História"
+},{
+	"question":"Manyikene, um dos centros comerciais regionais do Grande Zimbabwe, localiza-se na província de:", 
+	"option1":"Sofala", 
+	"option2":"Manica", 
+	"option3":"Zambézia", 
+	"option4":"Inhambane", 
+	"answer":"4",
+	"category":"História"
+},{
+	"question":"Os fundadores do Estado do Monomotapa foram:", 
+	"option1":"Mzilikazi e Bárué", 
+	"option2":"Bárue e Dombo", 
+	"option3":"Mazoe e Dingane", 
+	"option4":"Mutota e Matope", 
+	"answer":"4",
+	"category":"História"
+},{
+	"question":"Na organização político-administrativa do Estado de Monomotapa, os chefes provinciais eram:", 
+	"option1":"Muenemusha ou Mukuru", 
+	"option2":"Fumo ou Encosse", 
+	"option3":"Mambo ou Muri", 
+	"option4":"Mwenemutapa", 
+	"answer":"2",
+	"category":"História"
+},{
+	"question":"O Estado de Gaza resultou da conquista ao sul de Moçambique por exércitos Nguni no período de M’fecane liderado por:", 
+	"option1":"Ngungunhane", 
+	"option2":"Soshangane", 
+	"option3":"Maguiguane", 
+	"option4":"Mzilikazi", 
+	"answer":"2",
+	"category":"História"
+},{
+	"question":"O ano de 1972 é muito importante na história da Luta Armada de Libertação Nacional de Moçambique. Com efeito, nesse ano:", 
+	"option1":"O exército colonial iniciou o recrutamento de soldados negros", 
+	"option2":"A FRELIMO abriu a frente de Manica e Sofala", 
+	"option3":"A FRELIMO realizou o primeiro ataque a um centro urbano (Cidade de Pemba)", 
+	"option4":"O primeiro grupo de guerrilheiros da FRELIMO atravessou o rio Zambeze", 
+	"answer":"2",
+	"category":"História"
+},{
+	"question":"A tomada da Bastilha a 14 de Julho de 1789 marcou:", 
+	"option1":"O estabelecimento do Consulado", 
+	"option2":"O estabelecimento do Directório", 
+	"option3":"O início da revolução francesa", 
+	"option4":"O fim da revolução francesa", 
+	"answer":"3",
+	"category":"História"
+},{
+	"question":"Como resultado de políticas expansionistas do fascismo, a Itália invadiu, em 1935:", 
+	"option1":"O Burundi", 
+	"option2":"A Etiópia", 
+	"option3":"A Nigéria", 
+	"option4":"O Mali", 
+	"answer":"2",
 	"category":"História"
 },{
 	"question":"Bronsted- Lowry definem ácido como sendo a…", 
@@ -1263,7 +2088,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Qual é a abcissa do vértice do gráfico de uma função do 2◦ grau, cujos zeros são −7 e −1?", 
+	"question":"Qual é a abcissa do vértice do gráfico de uma função do 2° grau, cujos zeros são −7 e −1?", 
 	"option1":"−4", 
 	"option2":"−2", 
 	"option3":"2", 
@@ -1439,7 +2264,7 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Um corpo move-se ao longo de um eixo horizontal orientado positivamente da esquerda para direita de acordo com a equação e(t) = −t3 − 9t2 + 24t + 1. Qual é a aceleração no instante t = 1s ?", 
+	"question":"Um corpo move-se ao longo de um eixo horizontal orientado positivamente da esquerda para direita de acordo com a equação r(t) = −t^3 − 9t^2 + 24t + 1. Qual é a aceleração no instante t = 1s ?", 
 	"option1":"−24m/s2", 
 	"option2":"−12m/s2", 
 	"option3":"−10m/s2", 
@@ -1527,7 +2352,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Seja f(x) = x2 uma função definida no intervalo [−2; 2]. Qual é o contradomínio da função g(x) = 2f(x) + 3?", 
+	"question":"Seja f(x) = x^2 uma função definida no intervalo [−2; 2]. Qual é o contradomínio da função g(x) = 2f(x) + 3?", 
 	"option1":"[−1; 7]", 
 	"option2":"[−4; 6]", 
 	"option3":"[3; 11]", 
@@ -1623,7 +2448,7 @@ let questions = [{
 	"answer":"4",
 	"category":"Matemática"
 },{
-	"question":"Se f e g são funções reais de variável real dadas por f(x) = 3x + 4 e g(x) = log3 x, qual é o valor de (go f )(−1)?", 
+	"question":"Se f e g são funções reais de variável real dadas por f(x)=3x+4 e g(x)=log3 x, qual é o valor de (go f )(−1)?", 
 	"option1":"2", 
 	"option2":"1", 
 	"option3":"0", 
@@ -1632,7 +2457,7 @@ let questions = [{
 	"category":"Matemática"
 },{
 	"question":"Uma função y = f(x) é par, ∀x ∈ R se...", 
-	"option1":"f(x) = f(x2)", 
+	"option1":"f(x) = f(x^2)", 
 	"option2":"f(x) = f′(x)", 
 	"option3":"f(x) = −f(x)", 
 	"option4":"f(x) = f(−x)", 
@@ -1640,7 +2465,7 @@ let questions = [{
 	"category":"Matemática"
 },{
 	"question":"Uma função y = f(x) é ímpar, ∀x ∈ R se...", 
-	"option1":"f(x) = f(x2)", 
+	"option1":"f(x) = f(x^2)", 
 	"option2":"f(x) = f′(x)", 
 	"option3":"f(x) = −f(x)", 
 	"option4":"f(x) = f(−x)", 
@@ -1663,7 +2488,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Qual é o valor de limx→3[(x2 − 5x + 6)/(x − 3)] ?", 
+	"question":"Qual é o valor de limx→3[(x^2 − 5x + 6)/(x − 3)] ?", 
 	"option1":"−2", 
 	"option2":"0", 
 	"option3":"1", 
@@ -1687,7 +2512,7 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Para qua a função f(x) = { 2(x − 1), se x < 1 e kx, se x ≥ 1 } seja contínua no ponto x = 1, qual deve ser o valor de k?", 
+	"question":"Para qua a função f(x)={ 2(x − 1), se x < 1 e kx, se x ≥ 1 } seja contínua no ponto x = 1, qual deve ser o valor de k?", 
 	"option1":"−1", 
 	"option2":"1", 
 	"option3":"0", 
@@ -1711,7 +2536,7 @@ let questions = [{
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Qual é a derivada da função y = sen(2x − 3)?", 
+	"question":"Qual é a derivada da função y=sen(2x − 3)?", 
 	"option1":"y′= 2sen(2x − 3)", 
 	"option2":"y′= −sen(2x − 3)", 
 	"option3":"y′= (2x − 3)cos(2x − 3)", 
@@ -1775,7 +2600,7 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"As declarações abaixo foram deduzidas por um estudante para a expressão g(x) = 3 + 5sen(2x − 4). { I. O domínio de g é ] − ∞; +∞[  II. O contradomínio de g é [−2; 8] III. O período de g é π/2;  IV. g(2) = 3 }. Quais das afirmações são correctas?", 
+	"question":"As declarações abaixo foram deduzidas por um estudante para a expressão g(x)=3+5sen(2x − 4). { I. O domínio de g é ]−∞; +∞[  II. O contradomínio de g é [−2; 8] III. O período de g é π/2;  IV. g(2) = 3 }. Quais das afirmações são correctas?", 
 	"option1":"I, II e III", 
 	"option2":"I, II e IV", 
 	"option3":"I, III e IV", 
@@ -1911,7 +2736,7 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Se g(x) = [a(x^2) − (a^2)x] com a diferente de 0, então g′(a) é igual a:", 
+	"question":"Se g(x) = [a(x^2) − (a^2)x] com a≠0, então g′(a) é igual a:", 
 	"option1":"a", 
 	"option2":"a^2", 
 	"option3":"a^3", 
@@ -1959,12 +2784,12 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Qual é o valor de limx→∞[((2x+1)^2)/(x+1)]/[(2x^3)] ?", 
+	"question":"Qual é o valor de limx→∞[((2x+1)^2)*(x+1)]/[(2x^3)] ?", 
 	"option1":"1", 
 	"option2":"2", 
 	"option3":"3", 
 	"option4":"4", 
-	"answer":"2",
+	"answer":"1",
 	"category":"Matemática"
 },{
 	"question":"Dada a função f(x) = { x − 1, se x ≤ 3 e 2x − 4, se x > 3 }, qual é a derivada da função f(x) à direita de 3?", 
@@ -2004,7 +2829,7 @@ let questions = [{
 	"option2":"R \ {−1}", 
 	"option3":"R \ {1}", 
 	"option4":"R \ {1/2}", 
-	"answer":"1",
+	"answer":"4",
 	"category":"Matemática"
 },{
 	"question":"Se ∀(x1; x2) ∈ Df com x1 > x2 tivermos f(x1) > f(x2) diz-se que a função y = f(x) é...", 
@@ -2016,8 +2841,8 @@ let questions = [{
 	"category":"Matemática"
 },{
 	"question":"O gráfico de uma função par é simétrico em relação...", 
-	"option1":"à bissetriz do 1◦ e 3◦ quadrantes.", 
-	"option2":"à bissetriz do 2◦ e 4◦ quadrantes.", 
+	"option1":"à bissetriz do 1° e 3° quadrantes.", 
+	"option2":"à bissetriz do 2° e 4° quadrantes.", 
 	"option3":"ao eixo das ordenadas.", 
 	"option4":"ao eixo das abcissas.", 
 	"answer":"3",
@@ -2032,10 +2857,10 @@ let questions = [{
 	"category":"Matemática"
 },{
 	"question":"O ângulo formado entre a recta de equação x−y+4=0 e o sentido positivo do eixo das abcissas mede...", 
-	"option1":"30◦", 
-	"option2":"45◦", 
-	"option3":"60◦", 
-	"option4":"90◦", 
+	"option1":"30°", 
+	"option2":"45°", 
+	"option3":"60°", 
+	"option4":"90°", 
 	"answer":"2",
 	"category":"Matemática"
 },{
@@ -2091,7 +2916,7 @@ let questions = [{
 	"option1":"x = {0}", 
 	"option2":"x = {6}", 
 	"option3":"x = {-3}", 
-	"option4":"x = {}", 
+	"option4":"x = { }", 
 	"answer":"4",
 	"category":"Matemática"
 },{
@@ -2297,7 +3122,7 @@ for (let index = 0; index < questions.length; index++) {
 	"option3":"", 
 	"option4":"", 
 	"answer":"1",
-	"category":"Biologia"
+	"category":"Português"
 },{
 	"question":"", 
 	"option1":"", 
@@ -2306,8 +3131,31 @@ for (let index = 0; index < questions.length; index++) {
 	"option4":"", 
 	"answer":"1",
 	"category":"Matemática"
+},{
+	"question":"", 
+	"option1":"", 
+	"option2":"", 
+	"option3":"", 
+	"option4":"", 
+	"answer":"1",
+	"category":"História"
 }
 
+
+≥ ≠ ≤ “ ” « » °
+Qual dos adjectivos é uniforme?
+A. Andaluz
+B. Bom
+C. Espanhol
+D. Audaz
+E. Fosco
+
+Na frase “O João deu um presente à namorada”, a expressão sublinhada é:
+A*. objecto indirecto B. objecto directo C. sujeito D. adjunto E. oblíquo
+
+“Atualmente «existem» cerca de 7 mil milhões de pessoas no mundo.” Como se classifica o verbo desta frase?
+A. Impessoal B. Transitivo indirecto C. Copulativo
+D. Intransitivo E. Transitivo directo
 
 Sejam D(x) um polinómio de grau 3 e P(x) um polinómio de grau 5. Sejam Q(x) e R(x) dois polinómios
 tais que P(x) = D(x) x Q(x) + R(x) . Qual das seguintes afirmações é necessariamente verdadeira?
@@ -2315,7 +3163,6 @@ a) Q(x) e R(x) são ambos de grau 1.
 b) Q(x) é um polinómio de grau 2 e R(x) é um polinómio de grau 1.
 c) Q(x) é um polinómio de grau 2 e R(x) é um polinómio de grau inferior a 3.
 d) Q(x) é um polinómio de grau 1 e R(x) é um polinómio nulo.
-
 
 A taxa de imposto sobre vendas de roupas em certa Cidade d de 6,75%. O preço total de uma camisa inciuindo
 o imposto nesta Cidade d de i4,93 euros. Quai é o preço (arredondado para duas casas decimais) da camisa
@@ -2353,7 +3200,6 @@ x∈]−∞; −2]
 x∈[−2; 1]
 x∈]−2; +∞]
 
-
 Quais das funções f(x) = x^2 + 5 e g(x) = 2x^3 − x são par ou ímpar?
 A. f(x) é par e g(x) é par
 B. f(x) é ímpar e g(x) é par
@@ -2376,7 +3222,6 @@ Função cúbica
 	"category":"Matemática"
 }
 
-≥ ≠ ≤ “ ” « »
 Marque a alternativa incorreta:
 Se f ′(a) = 0 e f ′(x) passa em x = a de negativa a positiva, a função f (x) tem para x = a um mínimo extremo.
 Se f ′(a) = 0 e f ′(x) passa em x = a de positiva a negativa, a função f (x) tem para x = a um máximo extremo.
@@ -2403,11 +3248,13 @@ Uma sucessão an é convergente se lim n→∞ an = α ∈ R.
 ( Uma sucessão infinitamente grande é divergente)
 
 
-15-O daltonismo é condicionado por um gene recessivo e ligado ao sexo. Um casal de
-visão normal tem uma criança daltónica. a) Qual é o sexo da criança?...””
-       a)Masculino        b)Feminino           c)Gémeos femininos        d)Gémeos masculinos
-16-Uma mulher do grupo sanguíneo AB tem uma filha do grupo A, homozigótica. Pode se
-afirmar que o genótipo do pai da menina é:
+31- A sequência correta das fases do ciclo celular é…”D”
+a)	B1,S e mitose       b)G1,S2 e G2      c)Mitose, G2 e S2    D)G1
+
+15-O daltonismo é condicionado por um gene recessivo e ligado ao sexo. Um casal de visão normal tem uma criança daltónica. a) Qual é o sexo da criança?...””
+a)Masculino        b)Feminino           c)Gémeos femininos        d)Gémeos masculinos
+
+16-Uma mulher do grupo sanguíneo AB tem uma filha do grupo A, homozigótica. Pode se afirmar que o genótipo do pai da menina é:
 a) A. Somente AA                                             C. OO ou AB
 B. Somente AO                                                D. AA, AB ou AO
 
@@ -2419,60 +3266,38 @@ A 0%                        B 25%                  C 50%                  D 75%
 18-Marque a alternativa incorreta:…”C”
 a)Crustáceos: camarão, tatuzinho de jardim e siri       c) Insetos: barata traça e abelha
 b)Quelicerados: aranha, formiga e escorpião              d) Diplópodes: piolho-de-cobra e congolo 
+
 19-O reticulo endoplasmático tem como função:….”C”
 a)	Acelerar o processo da fotossíntese       b)participar no processo de transporte celular
 
 c)Participa no processo de transporte de substâncias D) Não tem função nenhuma
-
-21-O aparelho circulatório e constituído pelo coração e pelos vasos sanguíneos: artérias, veias e…”B”
-a)Ossos             b)Capilares      c) sólidos      d) todas opções estão erradas
-22-O coração é um músculo situado na caixa torácica entre os…”D”
-a)	Olhos                b) vasos sanguíneas              c) Intestinos          d) pulmões 
    
 23-O tamanho do coração e semelhante a um punho fechado e pesa, em media, cerca de….”A’
 a)	300g                   b)1800g                                     c)876g                   d)35g
+
 24-O intestino grosso e um órgão do aparelho…”B”
 a)	Urinário               b) Digestivo                         c)Circulatório                 d)Nervoso
 
-25- A eliminação de algumas substancia não absorvidas pelo nosso organismo, chama-se…”A”
-a)	Excreção           b)Expulsão                     c) As duas alíneas        d) Todas alíneas estão corretas
 26-O aparelho reprodutor feminino esta localizado no interior da mulher. E constituído por…”B”
 a)	Dois ovários, duas trompas, dois úteros e uma vagina
 b)	Duas trompas, uma vagina, dois ovários e um útero.
 c)	Uma trompa, uma vagina, um ovário e um útero.
 d)	Todas alternativas estão erras.
+
 27-Os ovários são dois órgãos que medem cerca de 3cm de diâmetro e tem a forma de pequenas amêndoas. E nestes órgãos que se produzem…”C” 
 a)Os fetos             b)O estimulo sexual         c) Os Óvulos          d) O sangue
+
 28-As trompas são  canais que estabelecem a ligação entre….”B”
 a)	Óvulos e útero             b) Ovários e útero        c) Vagina e útero      c) Trompas e útero
-29-O movimento aleatório das partículas suspensas num fluido denomina-se….”A”
-a)	Movimento Browniano b) Movimento escultório c)Movimento Simples  d) Movimento composto
+
 30- O pénis e um órgão comum ao aparelho urinário e ao aparelho reprodutor pois excreta a urina mas também expulsa o esperma, através da….”C”
 a)	Próstata      b)Vesícula seminal        c) Uretra             d) Trompa
-31- A sequência correta das fases do ciclo celular é…”D”
-a)	B1,S e mitose       b)G1,S2 e G2      c)Mitose, G2 e S2    D)G1
 
-
-33-Os capilares são canais muitos finos, que estabelecem a comunicação entre as….”A” 
-a)	Artérias e as veias     b) Artérias e pulmões     c) veias e o fígado    d) coração e artérias
-35-O sangue realiza dois trajetos circulares no nosso corpo, são eles.. ”B”
-a)	Circulação normal e circulação composta          c) Pequena circulação e a circula composta
-b)	A pequena circulação e a grande Circulação      d) Circulação sem fim e circulação com fim
 36- A pele, o intestino grosso e as vias respiratórias são órgãos  excretores. Na nossa pele localizam-se estruturas que fabricam….”D”
 a)	Os pelos             b) Irritação na pela     c) As borbulhas    d) O suor
+
 37- Os ureteres transportam a urina ate a….”C”
 a)	Vagina        b) rede de capilares     c) Bexiga        d) Uretra
-38-A absorção de agua e sais pela planta deve-se a….”A”
-a)	Difusão, osmose, transporte ativo e passivo
-b)	Difusão, osmose, transporte passivo
-c)	Difusão, meiose, transporte ativo
-d)	Difusão mitose, transporte não ativo
-
-
-
-45-Nos musgos, a divisão meiótica originara…”C”
-a)	Anterozoides          b) Apenas diplontes     c) Haplodiplontes       d) Nenhuma opção
-
 
 51-O que os platelmintes e moluscos  possuem em comum?...”A”
 a)	O sistema respiratório                         c) O tipo de sustentação
@@ -2481,24 +3306,11 @@ b)	d) A ocorrência de cefalização          d)A presença de colema
 52-A principal estrutura responsável pela propulsão dos peixes e…”B”
 a)	Bexiga natatória     b)   Nadadeira caudal     c) Nadadeira dorsal     d)  Nadadeira ventral
 
-
 67-O conjunto das relações entre as diversas cadeias alimentares num ecossistema forma uma teia alimentar ou uma…””
 a)Rede trófica    b) Rede de teias    c) Rede de Teias    d) Todas opções estão erradas
 
-
-68-A transferência de energia faz-se numa única direção. Indica-se com a captação de energia luminosa pelos produtores e termina pela ação dos…”A”
-a)Decompositores        b)Consumidores    c)acumuladores   d) Todas opções estão corretas
-
-
-
 72-As bactérias são microrganismos de pequenas dimensões, a sua dimensão normal oscila entre: ”C”
 a)	0.5 aa 6     b) 0.4 a 5       c) 0.5 a 5      d)0.5 a 0.6
-73-Quais são as doenças que as bactérias causam no organismo humano. ”B”
-a)	Cólera, dor de cabeça, vómitos e Malaria
-b)	Cólera, Vómitos, Tétano e diarreia
-c)	Cansaço, Vómitos, Tétano e micose
-d)	Sarampo, vómitos, diarreias e cólera
-
 
 77-Os tecidos definitivos da planta são…”A”
 a)	Parenquimatosos, de suporte e vasculares
@@ -2506,14 +3318,12 @@ b)	Parenquimatosos e vasculares
 c)	Vasculares, Floema e Xilema
 d)	Colênquima, parênquima e esclerênquima
 
-
 79-Os rins são órgãos em forma de feijão, de cor vermelho-escuro, o seu peso e a sua dimensão são: respetivamente:…”A”
 a)	170g e 12cm             b) 125g e 10cm         c)120g e 15cm         d)100g e 20cm
+
 80-Para um bom funcionamento dos rins devemos…”A”
 a)	Evitar o excesso de sal, Não abusar no consumo da carne 
 b)	Fazer sexo diariamente, não beber muita água
 c)	Não consumir álcool
-d)	Todas opções estão erradas
-
- 
+d)	Todas opções estão erradas 
 */
