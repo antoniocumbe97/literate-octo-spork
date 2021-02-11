@@ -215,6 +215,46 @@ let questions = [{
 	"answer":"1",
 	"category":"Cultura-Geral"
 },{
+	"question":"O PIB é um dos mais importantes indicadores macroeconômicos e tem por objetivo mensurar a atividade econômica de uma região.Considere um Moçambicano que a trabalhar em Portugal. ele pertence:", 
+	"option1":"PIB de Portugal e PIB de Moçambique", 
+	"option2":"PIB de Portugal", 
+	"option3":"PIB de Moçambique", 
+	"option4":"Todas opções estão erradas", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"Um paciente da língua Inglesa relata ao telefone uma temperatura de 104° F. Relembrando a física elementar, o médico Moçambicano registra em suas anotações uma temperatura e ° C de:", 
+	"option1":"-169", 
+	"option2":"377", 
+	"option3":"40", 
+	"option4":"-40", 
+	"answer":"3",
+	"category":"Cultura-Geral"
+},{
+	"question":"A diferença entre Tempo e Clima reside:", 
+	"option1":"Na escala temporal relativa da sua descrição", 
+	"option2":"Na região de sua ocorrência", 
+	"option3":"No tipo de elementos meteorológicos que lhes caracteriza", 
+	"option4":"Nenhuma das alternativas", 
+	"answer":"1",
+	"category":"Cultura-Geral"
+},{
+	"question":"O gás com maior concentração na atmosfera é:", 
+	"option1":"O₂", 
+	"option2":"CO₂", 
+	"option3":"N₂", 
+	"option4":"CO", 
+	"answer":"3",
+	"category":"Cultura-Geral"
+},{
+	"question":"Os mais importantes gases da atmosfera na absorção de radiação emitida pela Terra são:", 
+	"option1":"Azoto e vapor de água", 
+	"option2":"Gases raros", 
+	"option3":"Azoto e dióxido de carbono", 
+	"option4":"Metano, dióxido de carbono e vapor de água", 
+	"answer":"4",
+	"category":"Cultura-Geral"
+},{
 	"question":"Qual das afirmações abaixo relacionadas com as regras de nomenclatura biológica é INCORRECTA?", 
 	"option1":"A designação dos grupos superiores à espécie é binominal", 
 	"option2":"O nome científico de uma subespécie é trinominal", 
@@ -3095,6 +3135,38 @@ let questions = [{
 	"option4":"Aumenta o volume e diminui a pressão", 
 	"answer":"3",
 	"category":"Física"
+},{
+	"question":"Dependendo do corpo sólido, liquido ou gasoso, e mesmo na ausência de um corpo, a propagação do calor se faz por:", 
+	"option1":"Convecção, Irradiação e Reflexão.", 
+	"option2":"Condução, Convecção e Reflexão.", 
+	"option3":"Condução, Convecção e Irradiação.", 
+	"option4":"Condução, Irradiação e Reflexão.", 
+	"answer":"3",
+	"category":"Física"
+},{
+	"question":"Qual das afirmações é verdadeira?", 
+	"option1":"A Irradiação é um processo de propagação de calor típico de corpos sólidos, em que as moléculas permanecem (em média) em seus devidos lugares, porém vão passando a agitação de uma para outra.", 
+	"option2":"A Condução é um processo de propagação do calor típico dos corpos fluidos, em que as moléculas se movimentam com facilidade.", 
+	"option3":"A Convecção é um processo de propagação de calor que não precisa de matéria para ocorrer.", 
+	"option4":"Quando nos aproximamos de uma fogueira, sentimos o calor. Esse calor não nos atinge por condução (o ar é mau condutor de calor) nem por convecção (o ar quente sobe), mas por irradiação.", 
+	"answer":"4",
+	"category":"Física"
+},{
+	"question":"O critério usado para divisão das camadas atmosféricas é:", 
+	"option1":"Estrutura térmica", 
+	"option2":"Variação da pressão com a altitude", 
+	"option3":"Variação da densidade do ar com a altitude", 
+	"option4":"Nenhuma das alternativas", 
+	"answer":"1",
+	"category":"Física"
+},{
+	"question":"A radiação solar recebida na superfície da Terra, sem nuvens é menor que recebida no topo da atmosfera:", 
+	"option1":"E a diferença diminui do equador para os polos", 
+	"option2":"Devido a absorção, reflexão e espalhamento", 
+	"option3":"E metade da radiação é refletida de volta o que constitui o albedo planetário", 
+	"option4":"E a fração da radiação que atinge a superfície da Terra chama-se constante solar", 
+	"answer":"2",
+	"category":"Física"
 }];
 
 let pergunta = new Array();
@@ -3131,18 +3203,13 @@ for (let index = 0; index < questions.length; index++) {
 	"option4":"", 
 	"answer":"1",
 	"category":"Matemática"
-},{
-	"question":"", 
-	"option1":"", 
-	"option2":"", 
-	"option3":"", 
-	"option4":"", 
-	"answer":"1",
-	"category":"História"
 }
+≥ ≠ ≤ “ ” « » ° º
 
 
-≥ ≠ ≤ “ ” « » °
+7. (FATEC–SP) Três corpos encostados entre si estão em equilíbrio térmico. Portanto: 
+a) Os corpos apresentam-se no estado físico; b) A temperatura dos três corpos é a mesma; c) O calor contido em cada um deles é o mesmo; d) O corpo de maior massa tem mais calor que os outros dois;
+
 Qual dos adjectivos é uniforme?
 A. Andaluz
 B. Bom
@@ -3247,83 +3314,17 @@ Uma sucessão an é convergente se lim n→∞ an = α ∈ R.
 ⋆Uma sucessão an é infinitamente grande se lim n→∞ an = ∞.
 ( Uma sucessão infinitamente grande é divergente)
 
-
-31- A sequência correta das fases do ciclo celular é…”D”
-a)	B1,S e mitose       b)G1,S2 e G2      c)Mitose, G2 e S2    D)G1
-
-15-O daltonismo é condicionado por um gene recessivo e ligado ao sexo. Um casal de visão normal tem uma criança daltónica. a) Qual é o sexo da criança?...””
-a)Masculino        b)Feminino           c)Gémeos femininos        d)Gémeos masculinos
-
-16-Uma mulher do grupo sanguíneo AB tem uma filha do grupo A, homozigótica. Pode se afirmar que o genótipo do pai da menina é:
-a) A. Somente AA                                             C. OO ou AB
-B. Somente AO                                                D. AA, AB ou AO
-
-17-Suponha que um homem normal tenha casado com uma mulher hemofílica. Qual é a
-probabilidade das filhas deste homem serem hemofílicas, sabendo que o gene está
-localizado no cromossoma X?....”A”
-A 0%                        B 25%                  C 50%                  D 75%
-
-18-Marque a alternativa incorreta:…”C”
-a)Crustáceos: camarão, tatuzinho de jardim e siri       c) Insetos: barata traça e abelha
-b)Quelicerados: aranha, formiga e escorpião              d) Diplópodes: piolho-de-cobra e congolo 
-
 19-O reticulo endoplasmático tem como função:….”C”
 a)	Acelerar o processo da fotossíntese       b)participar no processo de transporte celular
 
 c)Participa no processo de transporte de substâncias D) Não tem função nenhuma
-   
-23-O tamanho do coração e semelhante a um punho fechado e pesa, em media, cerca de….”A’
-a)	300g                   b)1800g                                     c)876g                   d)35g
 
 24-O intestino grosso e um órgão do aparelho…”B”
 a)	Urinário               b) Digestivo                         c)Circulatório                 d)Nervoso
-
-26-O aparelho reprodutor feminino esta localizado no interior da mulher. E constituído por…”B”
-a)	Dois ovários, duas trompas, dois úteros e uma vagina
-b)	Duas trompas, uma vagina, dois ovários e um útero.
-c)	Uma trompa, uma vagina, um ovário e um útero.
-d)	Todas alternativas estão erras.
-
-27-Os ovários são dois órgãos que medem cerca de 3cm de diâmetro e tem a forma de pequenas amêndoas. E nestes órgãos que se produzem…”C” 
-a)Os fetos             b)O estimulo sexual         c) Os Óvulos          d) O sangue
-
-28-As trompas são  canais que estabelecem a ligação entre….”B”
-a)	Óvulos e útero             b) Ovários e útero        c) Vagina e útero      c) Trompas e útero
-
-30- O pénis e um órgão comum ao aparelho urinário e ao aparelho reprodutor pois excreta a urina mas também expulsa o esperma, através da….”C”
-a)	Próstata      b)Vesícula seminal        c) Uretra             d) Trompa
-
-36- A pele, o intestino grosso e as vias respiratórias são órgãos  excretores. Na nossa pele localizam-se estruturas que fabricam….”D”
-a)	Os pelos             b) Irritação na pela     c) As borbulhas    d) O suor
-
-37- Os ureteres transportam a urina ate a….”C”
-a)	Vagina        b) rede de capilares     c) Bexiga        d) Uretra
-
-51-O que os platelmintes e moluscos  possuem em comum?...”A”
-a)	O sistema respiratório                         c) O tipo de sustentação
-b)	d) A ocorrência de cefalização          d)A presença de colema
-
-52-A principal estrutura responsável pela propulsão dos peixes e…”B”
-a)	Bexiga natatória     b)   Nadadeira caudal     c) Nadadeira dorsal     d)  Nadadeira ventral
-
-67-O conjunto das relações entre as diversas cadeias alimentares num ecossistema forma uma teia alimentar ou uma…””
-a)Rede trófica    b) Rede de teias    c) Rede de Teias    d) Todas opções estão erradas
-
-72-As bactérias são microrganismos de pequenas dimensões, a sua dimensão normal oscila entre: ”C”
-a)	0.5 aa 6     b) 0.4 a 5       c) 0.5 a 5      d)0.5 a 0.6
 
 77-Os tecidos definitivos da planta são…”A”
 a)	Parenquimatosos, de suporte e vasculares
 b)	Parenquimatosos e vasculares
 c)	Vasculares, Floema e Xilema
 d)	Colênquima, parênquima e esclerênquima
-
-79-Os rins são órgãos em forma de feijão, de cor vermelho-escuro, o seu peso e a sua dimensão são: respetivamente:…”A”
-a)	170g e 12cm             b) 125g e 10cm         c)120g e 15cm         d)100g e 20cm
-
-80-Para um bom funcionamento dos rins devemos…”A”
-a)	Evitar o excesso de sal, Não abusar no consumo da carne 
-b)	Fazer sexo diariamente, não beber muita água
-c)	Não consumir álcool
-d)	Todas opções estão erradas 
 */
