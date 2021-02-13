@@ -29,7 +29,7 @@ function perguntaAleatoria(){
 			i--; //o índice é decrementado para que haja um novo teste
 		}
 	} // fim do laço que percorre todo o vetor
-	console.log(num);
+	//console.log(num);
 	questoes();
 	setInterval(timeCounter,1000);
 }
@@ -48,10 +48,18 @@ function questoes(){
 		myBody[1].style.backgroundColor = '#0c4b33';
 		myBody[2].style.backgroundColor = '#0c4b33';
 		myBody[3].style.backgroundColor = '#0c4b33';
+		myBody[0].onclick = function(){verficarResposta('1');}
+		myBody[1].onclick = function(){verficarResposta('2');}
+		myBody[2].onclick = function(){verficarResposta('3');}
+		myBody[3].onclick = function(){verficarResposta('4');}
 	}
 }
 
 function verficarResposta(resposta){
+	myBody[0].onclick = function(){}
+	myBody[1].onclick = function(){}
+	myBody[2].onclick = function(){}
+	myBody[3].onclick = function(){}
 	if ((pergunta[num[questaoActual]].answer) == resposta) {
 		certas += 2;
 		vida += 2;
@@ -63,8 +71,8 @@ function verficarResposta(resposta){
 		myBody[pergunta[num[questaoActual]].answer-1].style.backgroundColor = '#28a745';
 	}
 	total++;
-	setTimeout(questoes, 1000);
-	setTimeout(proximaPergunta, 1000);
+	setTimeout(questoes, 1500);
+	setTimeout(proximaPergunta, 1500);
 }
 
 function status(){
@@ -114,6 +122,7 @@ function timeCounter(){
 		segundos++;
 	}	
 }
+
 function endGame(option){
     if(option === 'restart'){
 		window.location.href = "../views/game.html";

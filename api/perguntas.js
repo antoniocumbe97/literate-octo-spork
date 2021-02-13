@@ -255,6 +255,70 @@ let questions = [{
 	"answer":"4",
 	"category":"Cultura-Geral"
 },{
+	"question":"Num relógio digital, que marca de 0:00 até 23:59, o número de vezes, por dia, que o mostrador apresenta todos os algarismos iguais é:", 
+	"option1":"l0", 
+	"option2":"8", 
+	"option3":"6", 
+	"option4":"7", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"A quantidade de os números inteiros de 2 algarismos que são iguais ao dobro do produto de seus algarismos é:", 
+	"option1":"0", 
+	"option2":"1", 
+	"option3":"2", 
+	"option4":"3", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"Em um ano, o número máximo de meses, que têm cinco domingos é:", 
+	"option1":"3", 
+	"option2":"4", 
+	"option3":"5", 
+	"option4":"6", 
+	"answer":"3",
+	"category":"Cultura-Geral"
+},{
+	"question":"Uma parte retirada da população para analisa-la denomina-se:", 
+	"option1":"Universo", 
+	"option2":"Parte", 
+	"option3":"Amostra", 
+	"option4":"Dados brutos", 
+	"answer":"3",
+	"category":"Cultura-Geral"
+},{
+	"question":"A parte da estatística que se preocupa somente com a descrição de determinadas características de um grupo, sem tirar conclusões sobre um grupo maior denomina-se:", 
+	"option1":"Estatística de População ", 
+	"option2":"Estatística da Amostra", 
+	"option3":"Estatística Inferencial ", 
+	"option4":"Estatística Descritiva", 
+	"answer":"4",
+	"category":"Cultura-Geral"
+},{
+	"question":"Em estatística, a população ou universo é:", 
+	"option1":"Um conjunto de pessoas de um mesmo município, estado ou país.", 
+	"option2":"Um conjunto de pessoas com pelo menos uma característica em comum", 
+	"option3":"Um conjunto de elementos com pelo menos uma característica em comum", 
+	"option4":"Um conjunto finito de elementos retirados da amostra para fins de pesquisa", 
+	"answer":"3",
+	"category":"Cultura-Geral"
+},{
+	"question":"Águas paradas, problemas de saneamento do meio propiciam a proliferação de agentes transmissores de várias doenças como é o caso da…", 
+	"option1":"Difteria", 
+	"option2":"Malária", 
+	"option3":"Tuberculose", 
+	"option4":"Sida", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"Qual das seguintes doenças que entra no organismo por lesões da pele e tem como um dos principais sintomas a contração muscular extremamente dolorosa?", 
+	"option1":"Cólera", 
+	"option2":"Difteria", 
+	"option3":"Sarampo", 
+	"option4":"Tétano", 
+	"answer":"4",
+	"category":"Cultura-Geral"
+},{
 	"question":"Qual das afirmações abaixo relacionadas com as regras de nomenclatura biológica é INCORRECTA?", 
 	"option1":"A designação dos grupos superiores à espécie é binominal", 
 	"option2":"O nome científico de uma subespécie é trinominal", 
@@ -279,7 +343,7 @@ let questions = [{
 	"answer":"4",
 	"category":"Biologia"
 },{
-	"question":"A equação C6 H12 O 6+ O2 = 6 CO2 + 6H2O representa um processo vital nos seres vivos. Indique qual.", 
+	"question":"A equação C₆H₁₂O₆ + O₂ = 6CO₂ + 6H₂O representa um processo vital nos seres vivos. Indique qual.", 
 	"option1":"Fermentação láctica", 
 	"option2":"Fotossíntese", 
 	"option3":"Fermentação alcoólica", 
@@ -681,9 +745,9 @@ let questions = [{
 },{
 	"question":"Na fotossíntese, as plantas produzem…", 
 	"option1":"Amido e luz", 
-	"option2":"Matéria orgânica e O2", 
-	"option3":"Matéria orgânica e CO2", 
-	"option4":"O2 e clorofila", 
+	"option2":"Matéria orgânica e O₂", 
+	"option3":"Matéria orgânica e CO₂", 
+	"option4":"O₂ e clorofila", 
 	"answer":"2",
 	"category":"Biologia"
 },{
@@ -974,6 +1038,54 @@ let questions = [{
 	"option3":"Monossacarídeos, Sacarídeos e polissacarídeos", 
 	"option4":"Sacarídeos, Dissacarídeos e polissacarídeos", 
 	"answer":"1",
+	"category":"Biologia"
+},{
+	"question":"Pertencem ao reino plantae os seguintes seres vivos:", 
+	"option1":"Leveduras, Algas castanhas e Milho", 
+	"option2":"Algas verdes, Mangueira e limoeiro", 
+	"option3":"Algas vermelhas, Milho e Cogumelo", 
+	"option4":"Bolor do pão, Mangueira e Polipódio", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"São filos do reino plantae:", 
+	"option1":"Cloroficea, Schizophyta e Rodoficeas", 
+	"option2":"Cloroficea, Schizophyta e Feoficeas", 
+	"option3":"Cloroficea, Cianoficeas e Rodoficeas", 
+	"option4":"Cloroficea, Rodoficeas e Feoficeas", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"A malária em Moçambique é uma das doenças responsáveis pela alta mortalidade. O parasita causador desta doença é…", 
+	"option1":"O mosquito", 
+	"option2":"O Homem", 
+	"option3":"O plasmódio", 
+	"option4":"A Bactéria", 
+	"answer":"3",
+	"category":"Biologia"
+},{
+	"question":"Todos fungos são", 
+	"option1":"Autotróficos ", 
+	"option2":"Heterotróficos", 
+	"option3":"Unicelulares", 
+	"option4":"Pluricelulares", 
+	"answer":"2",
+	"category":"Biologia"
+},{
+	"question":"Das doenças abaixo, a que não é causada por fungos é:", 
+	"option1":"Candidíase", 
+	"option2":"Micose", 
+	"option3":"Tinha", 
+	"option4":"Varíola", 
+	"answer":"4",
+	"category":"Biologia"
+},{
+	"question":"Uma briófita e uma pteridófita apresentam em comum apenas…", 
+	"option1":"Presença de tecidos de condução", 
+	"option2":"Dependência de água para fecundação", 
+	"option3":"Presença de raízes verdadeiras", 
+	"option4":"Fase esporofitica predominante", 
+	"answer":"2",
 	"category":"Biologia"
 },{
 	"question":"Na frase “O povo manifesta-se contra o custo de vida no país”, a expressão «O povo» é:", 
@@ -1841,10 +1953,10 @@ let questions = [{
 	"category":"Química"
 },{
 	"question":"Qual dos seguintes compostos pertence a classe dos ácidos carboxílicos?", 
-	"option1":"C2H4O", 
-	"option2":"C2H4O2", 
-	"option3":"C3H6", 
-	"option4":"C3H6O", 
+	"option1":"C₂H₄O", 
+	"option2":"C₂H₄O₂", 
+	"option3":"C₃H₆", 
+	"option4":"C₃H₆O", 
 	"answer":"2",
 	"category":"Química"
 },{
@@ -1856,7 +1968,7 @@ let questions = [{
 	"answer":"4",
 	"category":"Química"
 },{
-	"question":"A fórmula C3H6O corresponde aos isómeros de função…", 
+	"question":"A fórmula C₃H₆O corresponde aos isómeros de função…", 
 	"option1":"álcool e ácido carboxílico.", 
 	"option2":"álcool e cetona.", 
 	"option3":"aldeído e álcool.", 
@@ -1872,11 +1984,11 @@ let questions = [{
 	"answer":"4",
 	"category":"Química"
 },{
-	"question":"O ácido HCOOH é mais forte que o CH3COOH. qual é  a conclusão que se tira sobre a força relativa das suas bases conjugadas HCOO e CH3COO?", 
+	"question":"O ácido HCOOH é mais forte que o CH₃COOH. qual é  a conclusão que se tira sobre a força relativa das suas bases conjugadas HCOO e CH₃COO?", 
 	"option1":"HCOO base forte", 
 	"option2":"HCOO base fraca", 
-	"option3":"CH3C00 ácido fraco", 
-	"option4":"CH3COO base fraca", 
+	"option3":"CH₃C00 ácido fraco", 
+	"option4":"CH₃COO base fraca", 
 	"answer":"2",
 	"category":"Química"
 },{
@@ -2024,7 +2136,7 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Lanca-se uma moeda ao ar. Qual é a probabilidade de aparecer a face coroa", 
+	"question":"Lança-se uma moeda ao ar. Qual é a probabilidade de aparecer a face coroa", 
 	"option1":"0.5", 
 	"option2":"1", 
 	"option3":"0", 
@@ -2098,8 +2210,8 @@ let questions = [{
 },{
 	"question":"Qual é a alternativa NÃO correcta?", 
 	"option1":"N ∪ Z = Z", 
-	"option2":"R \ Z = N", 
-	"option3":"R ∪ N = R", 
+	"option2":"IR \\ Z = N", 
+	"option3":"IR ∪ N = R", 
 	"option4":"N ∩ Z = N", 
 	"answer":"2",
 	"category":"Matemática"
@@ -2116,7 +2228,7 @@ let questions = [{
 	"option1":"{ }", 
 	"option2":"] − ∞; 0[", 
 	"option3":"]0; +∞[", 
-	"option4":"R", 
+	"option4":"IR", 
 	"answer":"4",
 	"category":"Matemática"
 },{
@@ -2144,7 +2256,7 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Se M = {x ∈ R : 2 < x < 5} e N = {x ∈ R : 3 ≤ x < 8}. Qual das afirmações é verdadeira?", 
+	"question":"Se M = {x ∈ IR: 2 < x < 5} e N = {x ∈ IR: 3 ≤ x < 8}. Qual das afirmações é verdadeira?", 
 	"option1":"M ∩ N = [3; 5[", 
 	"option2":"M ∪ N = [3; 5]", 
 	"option3":"M ∩ N = [3; 5]", 
@@ -2264,7 +2376,7 @@ let questions = [{
 	"answer":"4",
 	"category":"Matemática"
 },{
-	"question":"Qual é o complementar, em R, do conjunto M=]−3;5[?", 
+	"question":"Qual é o complementar, em IR, do conjunto M=]−3;5[?", 
 	"option1":"]−∞;−3]∪[5;+∞[", 
 	"option2":"]−∞;−3]∪]5;+∞[", 
 	"option3":"]−∞;−3[∪[5;+∞[", 
@@ -2281,10 +2393,10 @@ let questions = [{
 	"category":"Matemática"
 },{
 	"question":"A soma de quaisquer dois números naturais é sempre maior do que zero. Qual é a quantificação correcta?", 
-	"option1":"∃x; y ∈ N : x + y > 0", 
-	"option2":"∃x; y ∈ N : x + y ≥ 0", 
-	"option3":"∀x; y ∈ N : x + y ≥ 0", 
-	"option4":"∀x; y ∈ N : x + y > 0", 
+	"option1":"∃(x;y) ∈ IN : x + y > 0", 
+	"option2":"∃(x;y) ∈ IN : x + y ≥ 0", 
+	"option3":"∀(x;y) ∈ IN : x + y ≥ 0", 
+	"option4":"∀(x;y) ∈ IN : x + y > 0", 
 	"answer":"4",
 	"category":"Matemática"
 },{
@@ -2304,7 +2416,7 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Um corpo move-se ao longo de um eixo horizontal orientado positivamente da esquerda para direita de acordo com a equação r(t) = −t^3 − 9t^2 + 24t + 1. Qual é a aceleração no instante t = 1s ?", 
+	"question":"Um corpo move-se ao longo de um eixo horizontal orientado positivamente da esquerda para direita de acordo com a equação r(t) = −t³ − 9t² + 24t + 1. Qual é a aceleração no instante t = 1s ?", 
 	"option1":"−24m/s2", 
 	"option2":"−12m/s2", 
 	"option3":"−10m/s2", 
@@ -2312,7 +2424,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Se M={1; 3; 7; 19}, N={x ∈ N : x − 5 = 2} e P={x ∈ R : 5 < x < 8}. A que é igual (M∩P)∩N?", 
+	"question":"Se M={1; 3; 7; 19}, N={x ∈ N : x − 5 = 2} e P={x ∈ IR: 5 < x < 8}. A que é igual (M∩P)∩N?", 
 	"option1":"{7}", 
 	"option2":"{3; 7}", 
 	"option3":"{6; 7}", 
@@ -2392,7 +2504,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Seja f(x) = x^2 uma função definida no intervalo [−2; 2]. Qual é o contradomínio da função g(x) = 2f(x) + 3?", 
+	"question":"Seja f(x) = x² uma função definida no intervalo [−2; 2]. Qual é o contradomínio da função g(x) = 2f(x) + 3?", 
 	"option1":"[−1; 7]", 
 	"option2":"[−4; 6]", 
 	"option3":"[3; 11]", 
@@ -2416,7 +2528,7 @@ let questions = [{
 	"answer":"4",
 	"category":"Matemática"
 },{
-	"question":"Numa progressão geométrica com a1 = 3 e q = 2. Qual é a ordem do termo 192?", 
+	"question":"Numa progressão geométrica com a₁ = 3 e q = 2. Qual é a ordem do termo 192?", 
 	"option1":"7", 
 	"option2":"6", 
 	"option3":"5", 
@@ -2432,7 +2544,7 @@ let questions = [{
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Qual é o declive da recta tangente ao gráfico da função g(x) = x^2 − 2x no ponto de abcissa x = 2?", 
+	"question":"Qual é o declive da recta tangente ao gráfico da função g(x) = x² − 2x no ponto de abcissa x = 2?", 
 	"option1":"0", 
 	"option2":"1", 
 	"option3":"2", 
@@ -2440,7 +2552,7 @@ let questions = [{
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Em qual dos intervalos a função f(x) = x^3 − 3x é decrescente?", 
+	"question":"Em qual dos intervalos a função f(x) = x³ − 3x é decrescente?", 
 	"option1":"]−1; 1[", 
 	"option2":"]−∞; −1[", 
 	"option3":"]−1; 2[", 
@@ -2472,23 +2584,23 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Qual das fracções é equivalente a expressão (a − a^2)/(a^3 − 1) ?", 
+	"question":"Qual das fracções é equivalente a expressão (a−a²)/(a³−1) ?", 
 	"option1":"−a/(a − 1)", 
-	"option2":"a/(a^2 + a + 1)", 
-	"option3":"−a/(a^2 + a + 1)", 
-	"option4":"−a/(a^2 + 1)", 
+	"option2":"a/(a² + a + 1)", 
+	"option3":"−a/(a² + a + 1)", 
+	"option4":"−a/(a² + 1)", 
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Qual é o domínio da função f(x) = −8/(x^2 − 4) ?", 
-	"option1":"Df = R \ {2}", 
-	"option2":"Df = R \ {±4}", 
-	"option3":"Df = R \ {4}", 
-	"option4":"Df = R \ {±2}", 
+	"question":"Qual é o domínio da função f(x) = −8/(x²−4) ?", 
+	"option1":"Df = IR\\{2}", 
+	"option2":"Df = IR\\{±4}", 
+	"option3":"Df = IR\\{4}", 
+	"option4":"Df = IR\\{±2}", 
 	"answer":"4",
 	"category":"Matemática"
 },{
-	"question":"Se f e g são funções reais de variável real dadas por f(x)=3x+4 e g(x)=log3 x, qual é o valor de (go f )(−1)?", 
+	"question":"Se f e g são funções reais de variável real dadas por f(x)=3x+4 e g(x)=log₃x, qual é o valor de (go f )(−1)?", 
 	"option1":"2", 
 	"option2":"1", 
 	"option3":"0", 
@@ -2496,16 +2608,16 @@ let questions = [{
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Uma função y = f(x) é par, ∀x ∈ R se...", 
-	"option1":"f(x) = f(x^2)", 
+	"question":"Uma função y = f(x) é par, ∀x ∈ IR se...", 
+	"option1":"f(x) = f(x²)", 
 	"option2":"f(x) = f′(x)", 
 	"option3":"f(x) = −f(x)", 
 	"option4":"f(x) = f(−x)", 
 	"answer":"4",
 	"category":"Matemática"
 },{
-	"question":"Uma função y = f(x) é ímpar, ∀x ∈ R se...", 
-	"option1":"f(x) = f(x^2)", 
+	"question":"Uma função y = f(x) é ímpar, ∀x ∈ IR se...", 
+	"option1":"f(x) = f(x²)", 
 	"option2":"f(x) = f′(x)", 
 	"option3":"f(x) = −f(x)", 
 	"option4":"f(x) = f(−x)", 
@@ -2520,7 +2632,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Qual é o valor de limx→5[log2(2x + 6)]?", 
+	"question":"Qual é o valor de limx→5[log₂(2x + 6)]?", 
 	"option1":"4", 
 	"option2":"10", 
 	"option3":"16", 
@@ -2528,7 +2640,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Qual é o valor de limx→3[(x^2 − 5x + 6)/(x − 3)] ?", 
+	"question":"Qual é o valor de limx→3[(x² − 5x + 6)/(x − 3)] ?", 
 	"option1":"−2", 
 	"option2":"0", 
 	"option3":"1", 
@@ -2560,7 +2672,7 @@ let questions = [{
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Qual é a equação da assímptota horizontal do gráfico da função h(x) = [(x − 1)/(x^2 − 4x + 3)] ?", 
+	"question":"Qual é a equação da assímptota horizontal do gráfico da função h(x) = [(x − 1)/(x² − 4x + 3)] ?", 
 	"option1":"y = 0", 
 	"option2":"y = 2", 
 	"option3":"y = 3", 
@@ -2592,7 +2704,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Quais são as raízes de x^3 − x^2 − 6x?", 
+	"question":"Quais são as raízes de x³ − x² − 6x?", 
 	"option1":"−2, 0 e 3", 
 	"option2":"−2, 1 e 3", 
 	"option3":"0, 2 e 3", 
@@ -2608,7 +2720,7 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Qual é o nome que se dá a expressão (a + bx + cx^2 + dx^3 + ex^4 + · · · )?", 
+	"question":"Qual é o nome que se dá a expressão (a + bx + cx² + dx³ + ex⁴ + · · · )?", 
 	"option1":"Equação", 
 	"option2":"Polinómio", 
 	"option3":"Identidade", 
@@ -2633,10 +2745,10 @@ let questions = [{
 	"category":"Matemática"
 },{
 	"question":"Qual é o domínio da função inversa de f(x)=[(x + 5)/(x − 2)], x ∈ R?", 
-	"option1":"x ∈ R / {-2}", 
-	"option2":"x ∈ R / {1}", 
-	"option3":"x ∈ R / {-1}", 
-	"option4":"x ∈ R / {2}", 
+	"option1":"x ∈ IR/{-2}", 
+	"option2":"x ∈ IR/{1}", 
+	"option3":"x ∈ IR/{-1}", 
+	"option4":"x ∈ IR/{2}", 
 	"answer":"2",
 	"category":"Matemática"
 },{
@@ -2664,15 +2776,15 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Qual é a derivada da função y = ln(x^2 − 3)?", 
-	"option1":"2/(x^2 − 3)", 
-	"option2":"1/[(2)(x^2 − 3)]", 
-	"option3":"2x/(x^2 − 3)", 
-	"option4":"1/(x^2 − 3)", 
+	"question":"Qual é a derivada da função y = ln(x² − 3)?", 
+	"option1":"2/(x² − 3)", 
+	"option2":"1/[(2)(x² − 3)]", 
+	"option3":"2x/(x² − 3)", 
+	"option4":"1/(x² − 3)", 
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Qual é a ordenada do ponto onde a função y = x^3 − 3x atinge o extremo máximo?", 
+	"question":"Qual é a ordenada do ponto onde a função y = x³ − 3x atinge o extremo máximo?", 
 	"option1":"−2", 
 	"option2":"−1", 
 	"option3":"1", 
@@ -2704,7 +2816,7 @@ let questions = [{
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Se f e g são funções reais dadas por f(x) = x^2 e g(x) = log₂ x, então (go f )(−1) é:", 
+	"question":"Se f e g são funções reais dadas por f(x) = x² e g(x) = log₂ x, então (go f )(−1) é:", 
 	"option1":"−1", 
 	"option2":"0", 
 	"option3":"1", 
@@ -2712,7 +2824,7 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Quanto à paridade a função f(x) = x^2 + 4 é...", 
+	"question":"Quanto à paridade a função f(x) = x² + 4 é...", 
 	"option1":"ímpar", 
 	"option2":"par", 
 	"option3":"ímpar e par", 
@@ -2744,7 +2856,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"O valor do limx→7[(x − 7)/(x^2 − 49)] é:", 
+	"question":"O valor do limx→7[(x − 7)/(x² − 49)] é:", 
 	"option1":"1/7", 
 	"option2":"1/14", 
 	"option3":"1/28", 
@@ -2752,15 +2864,15 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"O limn→∞[(1 − (2/n))^n] é igual a:", 
-	"option1":"e^−1", 
-	"option2":"e^−2", 
-	"option3":"e^−3", 
-	"option4":"e^−4", 
+	"question":"O limn→∞[(1 − (2/n))ⁿ] é igual a:", 
+	"option1":"e⁻¹", 
+	"option2":"e⁻²", 
+	"option3":"e⁻³", 
+	"option4":"e⁻⁴", 
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Considere a função f(x) = { 2x − 1, se x ≤ 3 e x^2 + 5, se x > 3 }. O lim x→3+[f(x)] é igual a:", 
+	"question":"Considere a função f(x) = { 2x − 1, se x ≤ 3 e x² + 5, se x > 3 }. O lim x→3+[f(x)] é igual a:", 
 	"option1":"5", 
 	"option2":"8", 
 	"option3":"11", 
@@ -2768,39 +2880,39 @@ let questions = [{
 	"answer":"4",
 	"category":"Matemática"
 },{
-	"question":"Dada a função f(x) = 2e^x, a sua derivada é:", 
-	"option1":"e^x", 
-	"option2":"2e^x", 
-	"option3":"3e^x", 
-	"option4":"4e^x", 
+	"question":"Dada a função f(x) = 2eˣ, a sua derivada é:", 
+	"option1":"eˣ", 
+	"option2":"2eˣ", 
+	"option3":"3eˣ", 
+	"option4":"4eˣ", 
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Se g(x) = [a(x^2) − (a^2)x] com a≠0, então g′(a) é igual a:", 
+	"question":"Se g(x) = ax²−a²x com a≠0, então g′(a) é igual a:", 
 	"option1":"a", 
-	"option2":"a^2", 
-	"option3":"a^3", 
-	"option4":"a^4", 
+	"option2":"a²", 
+	"option3":"a³", 
+	"option4":"a⁴", 
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"A derivada da função y = cos(1 − x^2) é:", 
-	"option1":"y′= 2sen(1 − x^2)", 
-	"option2":"y′= −sen(1 − x^2)", 
-	"option3":"y′= 2xsen(1 − x^2)", 
-	"option4":"y′= 2cos(1 − x^2)sen(1 − x^2)", 
+	"question":"A derivada da função y = cos(1 − x²) é:", 
+	"option1":"y′= 2sen(1 − x²)", 
+	"option2":"y′= −sen(1 − x²)", 
+	"option3":"y′= 2xsen(1 − x²)", 
+	"option4":"y′= 2cos(1 − x²)sen(1 − x²)", 
 	"answer":"3",
 	"category":"Matemática"
 },{
 	"question":"[(n + 2)!/n!] é igual a:", 
-	"option1":"−n^2 + 3n + 2", 
-	"option2":"n^2 − 3n + 2", 
-	"option3":"n^2 + 3n + 2", 
-	"option4":"−n^2 − 3n − 2", 
+	"option1":"−n² + 3n + 2", 
+	"option2":"n² − 3n + 2", 
+	"option3":"n² + 3n + 2", 
+	"option4":"−n² − 3n − 2", 
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Qual é a solução da equação log4 [log2(x − 1)] = 1?", 
+	"question":"Qual é a solução da equação log₄ [log₂(x − 1)] = 1?", 
 	"option1":"x = 15", 
 	"option2":"x = 17", 
 	"option3":"x = 18", 
@@ -2824,7 +2936,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Qual é o valor de limx→∞[((2x+1)^2)*(x+1)]/[(2x^3)] ?", 
+	"question":"Qual é o valor de limx→∞[((2x+1)²)*(x+1)]/[(2x³)] ?", 
 	"option1":"1", 
 	"option2":"2", 
 	"option3":"3", 
@@ -2840,7 +2952,7 @@ let questions = [{
 	"answer":"4",
 	"category":"Matemática"
 },{
-	"question":"Qual é a derivada da função f(x) = 2x^3 − x + 5 no ponto de abcissa x = 1?", 
+	"question":"Qual é a derivada da função f(x) = 2x³ − x + 5 no ponto de abcissa x = 1?", 
 	"option1":"5", 
 	"option2":"6", 
 	"option3":"7", 
@@ -2848,7 +2960,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Matemática"
 },{
-	"question":"Qual é a equação da recta tangente à curva da função f(x) = e^x no ponto de abcissa x = 0?", 
+	"question":"Qual é a equação da recta tangente à curva da função f(x) = eˣ no ponto de abcissa x = 0?", 
 	"option1":"y = −x + 1", 
 	"option2":"y = x + 1", 
 	"option3":"y = −x − 1", 
@@ -2864,15 +2976,15 @@ let questions = [{
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Sendo f(x) = 2x e g(x) = 1/(x + 1), o domínio de (go f )(x) é...", 
-	"option1":"R \ {−12 e 12}", 
-	"option2":"R \ {−1}", 
-	"option3":"R \ {1}", 
-	"option4":"R \ {1/2}", 
+	"question":"Sendo f(x) = 2x e g(x) = 1/(x + 1), o domínio de (gof)(x) é...", 
+	"option1":"IR \\ {−12 e 12}", 
+	"option2":"IR \\ {−1}", 
+	"option3":"IR \\ {1}", 
+	"option4":"IR \\ {1/2}", 
 	"answer":"4",
 	"category":"Matemática"
 },{
-	"question":"Se ∀(x1; x2) ∈ Df com x1 > x2 tivermos f(x1) > f(x2) diz-se que a função y = f(x) é...", 
+	"question":"Se ∀(x₁; x₂) ∈ Df com x₂>x₁ tivermos f(x₂)>f(x₁) diz-se que a função y = f(x) é...", 
 	"option1":"bijectiva.", 
 	"option2":"crescente.", 
 	"option3":"decrescente.", 
@@ -2888,11 +3000,11 @@ let questions = [{
 	"answer":"3",
 	"category":"Matemática"
 },{
-	"question":"Qual é a derivada da função h(x) = 2^x·x^2?", 
-	"option1":"(2^x)·x(ln2+2)", 
-	"option2":"(2^x)·x(xln2+2)", 
-	"option3":"(2^x)·x(xlnx+2)", 
-	"option4":"(2^x)·x(lnx+2)", 
+	"question":"Qual é a derivada da função h(x) = 2ˣ·x²?", 
+	"option1":"(2ˣ)·x(ln2+2)", 
+	"option2":"(2ˣ)·x(xln2+2)", 
+	"option3":"(2ˣ)·x(xlnx+2)", 
+	"option4":"(2ˣ)·x(lnx+2)", 
 	"answer":"2",
 	"category":"Matemática"
 },{
@@ -2928,10 +3040,10 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"Sendo f(x)=e^2, em que “e” é o número de Neper, o yalor de f′(1) é:", 
+	"question":"Sendo f(x)=e², em que “e” é o número de Neper, o yalor de f′(1) é:", 
 	"option1":"2e", 
 	"option2":"0", 
-	"option3":"e^2", 
+	"option3":"e²", 
 	"option4":"1", 
 	"answer":"2",
 	"category":"Matemática"
@@ -2945,10 +3057,10 @@ let questions = [{
 	"category":"Matemática"
 },{
 	"question":"O domínio de existência da função f(x)=ln(|x-1|-4) é:", 
-	"option1":"∀x ∈ R", 
+	"option1":"∀x ∈ IR", 
 	"option2":"x∈ ]−3;+∞[", 
-	"option3":"x∈ R\{-3;5}", 
-	"option4":"x∈]−∞; −3[U]5;+∞[", 
+	"option3":"x∈ IR\\{-3;5}", 
+	"option4":"x∈ ]−∞; −3[U]5;+∞[", 
 	"answer":"4",
 	"category":"Matemática"
 },{
@@ -2968,15 +3080,15 @@ let questions = [{
 	"answer":"2",
 	"category":"Matemática"
 },{
-	"question":"A negação da proposição ∀x∈R,|x|>1 é:", 
-	"option1":"∀x∈R,|x|≤1", 
-	"option2":"∀x∈R,|x|<1", 
-	"option3":"∀x∈R,|x|≠1", 
-	"option4":"∃x∈R,|x|≤1", 
+	"question":"A negação da proposição ∀x ∈ IR,|x|>1 é:", 
+	"option1":"∀x ∈ IR,|x|≤1", 
+	"option2":"∀x ∈ IR,|x|<1", 
+	"option3":"∀x ∈ IR,|x|≠1", 
+	"option4":"∃x ∈ IR,|x|≤1", 
 	"answer":"4",
 	"category":"Matemática"
 },{
-	"question":"O declive da recta tangente à uma curva da função f(x) num ponto (a, f(a)) é igual à 1,5 . Então neste ponto a função dada:", 
+	"question":"O declive da recta tangente à uma curva da função f(x) num ponto (a,f(a)) é igual à 1,5 . Então neste ponto a função dada:", 
 	"option1":"Tem um mínimo", 
 	"option2":"Tem um máximo", 
 	"option3":"É crescente", 
@@ -2991,6 +3103,110 @@ let questions = [{
 	"option4":"simétrico em relação á origem do sistema de coordenadas", 
 	"answer":"2",
 	"category":"Matemática"
+},{
+	"question":"Hâ 18 anos Hélio tinha precisamente três vezes a idade de seu filho. Agora tem o dobro da idade desse filho. Hélio e seu filho têm agora, respectivamente:", 
+	"option1":"72anos e 36 anos", 
+	"option2":"40 anos e 20 anos", 
+	"option3":"36 anos e 18 anos", 
+	"option4":"50 anos e 25 anos", 
+	"answer":"1",
+	"category":"Matemática"
+},{
+	"question":"Considere os conjuntos A=]−∞;2π[ e B=[√5,8[. Qual é o maior número inteiro pertencente ao conjunto AꓵB ?", 
+	"option1":"3", 
+	"option2":"4", 
+	"option3":"5", 
+	"option4":"6", 
+	"answer":"4",
+	"category":"Matemática"
+},{
+	"question":"Quais das funções f(x)=x²+5 e g(x)=2x³−x são par ou ímpar?", 
+	"option1":"f(x) é par e g(x) é par", 
+	"option2":"f(x) é ímpar e g(x) é par", 
+	"option3":"f(x) é par e g(x) é ímpar", 
+	"option4":"f(x) é ímpar e g(x) é ímpar", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"A taxa de imposto sobre vendas de roupas em certa Cidade d de 6,75%. O preço total de uma camisa inciuindo o imposto nesta Cidade d de i4,93 euros. Quai é o preço (arredondado para duas casas decimais) da camisa excluindo o imposto?", 
+	"option1":"8,91", 
+	"option2":"12,93", 
+	"option3":"13,99", 
+	"option4":"15,94", 
+	"answer":"3",
+	"category":"Matemática"
+},{
+	"question":"Um pesquisador que ordena uma lista de cidades segundo o ritmo de vida, do mais lento para o mais acelerado, está operando no nível de medida:", 
+	"option1":"Nominal", 
+	"option2":"Ordinal", 
+	"option3":"Intervalar", 
+	"option4":"Sequencial", 
+	"answer":"2",
+	"category":"Matemática"
+},{
+	"question":"Um móvel se desloca segundo a equação x=(2t-2)² (SI). Qual é, em m/s a sua velocidade no instante t=2s?", 
+	"option1":"4", 
+	"option2":"5", 
+	"option3":"6", 
+	"option4":"8", 
+	"answer":"4",
+	"category":"Física"
+},{
+	"question":"Um soldador elétrico de baixa potência, de especificações 26W-127V, está ligado a uma rede elétrica de 127V. Qual é, em KJ, a energia dissipada em 5 minutos de operação?", 
+	"option1":"3,5", 
+	"option2":"7,8", 
+	"option3":"10,8", 
+	"option4":"12,2", 
+	"answer":"2",
+	"category":"Física"
+},{
+	"question":"Um condutor elétrico de 5m é atravessado por uma corrente elétrica de 2A. Perpendicularmente a esse condutor existe um campo magnético de intensidade de 5T. Qual é, em N, a força magnética que age sobre o condutor?", 
+	"option1":"0", 
+	"option2":"10", 
+	"option3":"12", 
+	"option4":"50", 
+	"answer":"4",
+	"category":"Física"
+},{
+	"question":"Uma força de 5000N é aplicada a um corpo de forma indefinida, produzindo um impulso de módulo 1000N.s Qual é, em segundos, o tempo de contato da força sobre o corpo?", 
+	"option1":"0,1", 
+	"option2":"0,2", 
+	"option3":"0,3", 
+	"option4":"0,4", 
+	"answer":"2",
+	"category":"Física"
+},{
+	"question":"Um ponto material de massa m=10kg desloca-se sobre uma superfície lisa de acordo com a seguinte equação horária: x(t)=5t²+5t+1 (SI). Qual é, em N, a força resultante que atua sobre ele?", 
+	"option1":"40", 
+	"option2":"70", 
+	"option3":"100", 
+	"option4":"120", 
+	"answer":"3",
+	"category":"Física"
+},{
+	"question":"Um homem empurra um caixote de 10kg com a velocidade constante de 2m/s, durante 6s. Sabendo que o coeficiente de atrito entre a caixa e o soalho é µ = 0,1, qual é, em Joules, o trabalho realizado pelo homem?", 
+	"option1":"40", 
+	"option2":"60", 
+	"option3":"80", 
+	"option4":"120", 
+	"answer":"4",
+	"category":"Física"
+},{
+	"question":"Um corpo largado de uma certa altura em queda livre atinge o solo com a velocidade de 49 m/s. Qual é, em segundos, o seu tempo de queda? (g =9,8m/s²)", 
+	"option1":"4", 
+	"option2":"5", 
+	"option3":"10", 
+	"option4":"12",
+	"answer":"2",
+	"category":"Física"
+},{
+	"question":"Um automóvel viaja a 30km/h durante 1h, em seguida, a 60km/h durante 1/2h. Qual foi, em km/h, a velocidade média no percurso?", 
+	"option1":"40", 
+	"option2":"60", 
+	"option3":"70", 
+	"option4":"90", 
+	"answer":"1",
+	"category":"Física"
 },{
 	"question":"A velocidade de propagação das ondas eletromagnéticas no vácuo é…", 
 	"option1":"diferente", 
@@ -3179,15 +3395,9 @@ for (let index = 0; index < questions.length; index++) {
 	}
 }
 /*
+1498
+
 ,{
-	"question":"Uma briófita e uma pteridófita apresentam em comum apenas…", 
-	"option1":"Presença de tecidos de condução", 
-	"option2":"Dependência de agua para fecundação", 
-	"option3":"Presença de raízes verdadeiras", 
-	"option4":"Fase esporofitica predominante", 
-	"answer":"1",
-	"category":"Biologia"
-},{
 	"question":"", 
 	"option1":"", 
 	"option2":"", 
@@ -3195,17 +3405,22 @@ for (let index = 0; index < questions.length; index++) {
 	"option4":"", 
 	"answer":"1",
 	"category":"Português"
-},{
+}
+≥ ≠ ≤ “ ” « » ° º x³ – 5x² ꓵ ꓴ ₃ π º ∩ √
+⁻¹²³⁴⁵⁶⁷⁸⁹⁰ˣⁿ ₀₁₂₃₄₅₆₇₈₉ ℮ Ω α
+,{
 	"question":"", 
 	"option1":"", 
 	"option2":"", 
 	"option3":"", 
 	"option4":"", 
-	"answer":"1",
+	"answer":"2",
 	"category":"Matemática"
 }
-≥ ≠ ≤ “ ” « » ° º
 
+
+Seja f uma função domínio IR definida por f(x) =x²-3x. Qual deverá ser a expressão analítica da função g de modo que (go f )(1) = 5 ?
+a) g(x)=-3x-3 b) g(x)=3x-1 c) g(x)=2x+3 d) g(x)=-2x+1
 
 7. (FATEC–SP) Três corpos encostados entre si estão em equilíbrio térmico. Portanto: 
 a) Os corpos apresentam-se no estado físico; b) A temperatura dos três corpos é a mesma; c) O calor contido em cada um deles é o mesmo; d) O corpo de maior massa tem mais calor que os outros dois;
@@ -3231,10 +3446,7 @@ b) Q(x) é um polinómio de grau 2 e R(x) é um polinómio de grau 1.
 c) Q(x) é um polinómio de grau 2 e R(x) é um polinómio de grau inferior a 3.
 d) Q(x) é um polinómio de grau 1 e R(x) é um polinómio nulo.
 
-A taxa de imposto sobre vendas de roupas em certa Cidade d de 6,75%. O preço total de uma camisa inciuindo
-o imposto nesta Cidade d de i4,93 euros. Quai é o preço (arredondado para duas casas decimais) da camisa
-excluindo o imposto?
-a) 8,91 b) 12,93 c) 13,99 d) 15,94
+A divisão de polinômios estrutura-se em um algoritmo, podemos enuncia-lo como sendo: A divisão de um polinômio D(x) por um polinômio não nulo E(x), de modo a obter os polinômios Q(x) e R(x). Determine o quociente da divisão de P(x) = x³ – 5x² +16x – 6 por Q(x) = x – 3 é:
 
 Os vetores u =(2,0,-4) 6 v = (6,-4,a} são perpendiculares. Qual é o valor de a?
 a)3 b)2 c)-2 d) -3
@@ -3245,33 +3457,11 @@ O valor de n que torna a sequencia 2+3n, -5n, 1-4n uma Progressão Aritmética p
 [0;1]
 [2;3]
 
-Num relógio digital, que marca de 0:00 até 23:59, o número de vezes, por dia, que o
-mostrador apresenta todos os algarismos iguais é:
-A) l0; B) 8; C) 6; D) 7.
-
-Hâ 18 anos Hélio tinha precisamente três vezes a idade de seu filho. Agora tem o dobro
-da idade desse filho. Hélio e seu filho têm agora, respectivamente:
-A) 7}anos e 36 anos; C) 40 anos e 20 anos;
-B) 36 anos e 18 anos; D) 50 anos e 25 anos.
-
-A quantidade de os números inteiros de 2 algarismos que são iguais ao dobro do
-produto de seus algarismos é:
-A) 0; B) 1; C) 2; D) 3.
-
-Em um ano, o número máximo de meses, que têm cinco domingos é:
-A) 3; B) 4; C) 5; D) 6.
-
 A solução da inequação log₂(x+5)-log₂(x+2)≥1 é:
 x∈]−∞; −5[U[-2;+∞[
 x∈]−∞; −2]
 x∈[−2; 1]
 x∈]−2; +∞]
-
-Quais das funções f(x) = x^2 + 5 e g(x) = 2x^3 − x são par ou ímpar?
-A. f(x) é par e g(x) é par
-B. f(x) é ímpar e g(x) é par
-C. f(x) é par e g(x) é ímpar
-D. f(x) é ímpar e g(x) é ímpar
 
 Qual das funções é bijectiva?
 Função coseno
@@ -3279,21 +3469,11 @@ Função quadrática
 *Função exponencial de base 2
 Função cúbica
 
-,{
-	"question":"Qual das funções é bijectiva?", 
-	"option1":"Função tangente", 
-	"option2":"Função logarítmica de base 10", 
-	"option3":"Função exponencial de base 2", 
-	"option4":"Função quadrática", 
-	"answer":"2",
-	"category":"Matemática"
-}
-
 Marque a alternativa incorreta:
 Se f ′(a) = 0 e f ′(x) passa em x = a de negativa a positiva, a função f (x) tem para x = a um mínimo extremo.
 Se f ′(a) = 0 e f ′(x) passa em x = a de positiva a negativa, a função f (x) tem para x = a um máximo extremo.
 g(x) > f (x) significa o intervalo de x em que o gráfico da função y = g(x) está em cima do gráfico da função y = f (x).
-Se o gráfico de uma função y = f (x) passa pelo ponto, então y1 = f (x1).
+Se o gráfico de uma função y = f (x) passa pelo ponto, então y₁ = f (x₁).
 O declive da equação da recta tangente ao gráfico de uma função y = f (x) em x = a é igual a f ′(a).
 Se h é a posição de um ponto P que se move verticamente na hora t e apresentada por h = f (t), então a velocidade v e aceleração a do ponto P na hora t são dadas por v = f ′(t) e a = f ′′(t), respectivamente.
 Uma função é derivável num ponto x = a se e só se é derivável à esquerda e à direita do mesmo ponto e as derivadas laterais são iguais: f ′(a+) = f ′(a−)
