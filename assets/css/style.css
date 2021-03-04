@@ -221,3 +221,11 @@ a:hover{
 .login-head{
     position: relative;
 }
+.nav-game a, caption{
+    color: #02442a;
+}
+.nav-game .active, .hrTable{
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 1px solid #02442a;
+}

@@ -32,9 +32,9 @@ let questions = [{
 	"category":"Cultura-Geral"
 },{
 	"question":"A 25 de Setembro de 1964, teve início a luta armada. Onde foi?", 
-	"option1":"Gaza, majacazi", 
+	"option1":"Gaza, Majacazi", 
 	"option2":"Moeda, Cabo Delgado", 
-	"option3":"posto administrativo de Chia", 
+	"option3":"Posto administrativo de Chia", 
 	"option4":"Manica Chimoio", 
 	"answer":"3",
 	"category":"Cultura-Geral"
@@ -215,7 +215,7 @@ let questions = [{
 	"answer":"1",
 	"category":"Cultura-Geral"
 },{
-	"question":"O PIB é um dos mais importantes indicadores macroeconômicos e tem por objetivo mensurar a atividade econômica de uma região.Considere um Moçambicano que a trabalhar em Portugal. ele pertence:", 
+	"question":"O PIB é um dos mais importantes indicadores macroeconômicos e tem por objetivo mensurar a atividade econômica de uma região.\n Considere um Moçambicano que a trabalhar em Portugal. ele pertence:", 
 	"option1":"PIB de Portugal e PIB de Moçambique", 
 	"option2":"PIB de Portugal", 
 	"option3":"PIB de Moçambique", 
@@ -223,7 +223,7 @@ let questions = [{
 	"answer":"2",
 	"category":"Cultura-Geral"
 },{
-	"question":"Um paciente da língua Inglesa relata ao telefone uma temperatura de 104° F. Relembrando a física elementar, o médico Moçambicano registra em suas anotações uma temperatura e ° C de:", 
+	"question":"Um paciente da língua Inglesa relata ao telefone uma temperatura de 104° F. Relembrando a física elementar, o médico Moçambicano registra em suas anotações uma temperatura em ° C de:", 
 	"option1":"-169", 
 	"option2":"377", 
 	"option3":"40", 
@@ -256,14 +256,14 @@ let questions = [{
 	"category":"Cultura-Geral"
 },{
 	"question":"Num relógio digital, que marca de 0:00 até 23:59, o número de vezes, por dia, que o mostrador apresenta todos os algarismos iguais é:", 
-	"option1":"l0", 
+	"option1":"10", 
 	"option2":"8", 
 	"option3":"6", 
 	"option4":"7", 
 	"answer":"2",
 	"category":"Cultura-Geral"
 },{
-	"question":"A quantidade de os números inteiros de 2 algarismos que são iguais ao dobro do produto de seus algarismos é:", 
+	"question":"A quantidade de números inteiros de 2 algarismos que são iguais ao dobro do produto de seus algarismos é:", 
 	"option1":"0", 
 	"option2":"1", 
 	"option3":"2", 
@@ -279,7 +279,7 @@ let questions = [{
 	"answer":"3",
 	"category":"Cultura-Geral"
 },{
-	"question":"Uma parte retirada da população para analisa-la denomina-se:", 
+	"question":"Uma parte retirada da população para analisá-la denomina-se:", 
 	"option1":"Universo", 
 	"option2":"Parte", 
 	"option3":"Amostra", 
@@ -318,6 +318,54 @@ let questions = [{
 	"option4":"Tétano", 
 	"answer":"4",
 	"category":"Cultura-Geral"
+},{
+	"question":"Escolha a opção correcta: As culturas africanas …", 
+	"option1":"Baseiam-se numa civilização científica.", 
+	"option2":"Enraizaram a sua cultura na escrita.", 
+	"option3":"Estão ligadas à civilização mitológica.", 
+	"option4":"São primariamente escritas.", 
+	"answer":"3",
+	"category":"Cultura-Geral"
+},{
+	"question":"A Conferência das Nações Unidas sobre o ambiente Humano foi em 1972. O ano em causa a que século se refere?", 
+	"option1":"XIX", 
+	"option2":"XX", 
+	"option3":"XXI", 
+	"option4":"XVII", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"Qual das afirmações se refere à procuração?", 
+	"option1":"Documento de carácter administrativo em que se expõe um problema", 
+	"option2":"Documento em que uma pessoa concede poderes a outra", 
+	"option3":"Texto que consiste na expressão de opinião mediante uma reflexão", 
+	"option4":"Texto que estabelece normas ou instruções a serem cumpridas", 
+	"answer":"2",
+	"category":"Cultura-Geral"
+},{
+	"question":"“E fazes-me tua mina, Patrão! O pronome «tua» é…", 
+	"option1":"demonstrativo.", 
+	"option2":"oblíquo.", 
+	"option3":"pessoal.", 
+	"option4":"possessivo.", 
+	"answer":"4",
+	"category":"Cultura-Geral"
+},{
+	"question":"Uma palavra é polissémica quando…", 
+	"option1":"é ambígua.", 
+	"option2":"é exdrúxula.", 
+	"option3":"tem várias sílabas.", 
+	"option4":"tem vários significados.", 
+	"answer":"4",
+	"category":"Cultura-Geral"
+},{
+	"question":"A Negritude ficou conhecida como…", 
+	"option1":"nascimento negro.", 
+	"option2":"nascimento de Moçambique.", 
+	"option3":"renascimento negro.", 
+	"option4":"renascimento negro de África.", 
+	"answer":"3",
+	"category":"Português"
 },{
 	"question":"Qual das afirmações abaixo relacionadas com as regras de nomenclatura biológica é INCORRECTA?", 
 	"option1":"A designação dos grupos superiores à espécie é binominal", 
@@ -735,7 +783,7 @@ let questions = [{
 	"answer":"3",
 	"category":"Biologia"
 },{
-	"question":"Dois seres vivos pertecentes a mesma ordem são necessariamente:…", 
+	"question":"Dois seres vivos pertecentes a mesma ordem são necessariamente:", 
 	"option1":"Da mesma classe", 
 	"option2":"Do mesmo genero", 
 	"option3":"Da mesma especie", 
@@ -1728,6 +1776,326 @@ let questions = [{
 	"answer":"2",
 	"category":"Português"
 },{
+	"question":"“As lágrimas saltam dos olhos, correm pelos lençóis.” Que recurso estilístico está patente na frase?", 
+	"option1":"Animismo", 
+	"option2":"Eufemismo", 
+	"option3":"Hipérbole", 
+	"option4":"Metáfora", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"“Ah! O enxoval para crianças.” Como se classifica morfologicamente a palavra sublinhada na frase?", 
+	"option1":"Adjectivo", 
+	"option2":"Atributo", 
+	"option3":"Conjunção", 
+	"option4":"Interjeição", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"Na passagem, “Um mar de suor…” está patente uma…", 
+	"option1":"antítese.", 
+	"option2":"comparação.", 
+	"option3":"hipérbole.", 
+	"option4":"personificação.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"“- Nada, João. ”Que função sintáctica desempenha a palavra “João” na frase?", 
+	"option1":"Nome", 
+	"option2":"Pronome", 
+	"option3":"Sujeito", 
+	"option4":"Vocativo", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"Qual das opções caracteriza o texto expositivo-explicativo?", 
+	"option1":"Apresentação de argumentos", 
+	"option2":"Apresentação de teses e argumentos", 
+	"option3":"Conquista da simpatia do destinatário", 
+	"option4":"Emprego do presente com valor genérico", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"O texto poético é aquele que...", 
+	"option1":"exprime sentimentos.", 
+	"option2":"conta histórias.", 
+	"option3":"narra acontecimentos.", 
+	"option4":"transmite conhecimentos.", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"O artigo de fundo e de opinião enquadram-se nos textos…", 
+	"option1":"didácticos ou científicos.", 
+	"option2":"dramáticos.", 
+	"option3":"jornalísticos", 
+	"option4":"normativos.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Qual das opções corresponde aos textos administrativos?", 
+	"option1":"Curriculum", 
+	"option2":"Lei", 
+	"option3":"Procuração", 
+	"option4":"Resumo", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Qual é o objectivo dos textos administrativos?", 
+	"option1":"Emitir uma opinião", 
+	"option2":"Fazer um pedido", 
+	"option3":"Formalizar uma situação", 
+	"option4":"Vender um serviço", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Nos textos multiusos, o uso dos conectores discursivos é inevitável, pois eles têm a função de…", 
+	"option1":"aumentar a dimensão do texto.", 
+	"option2":"estabelecer a ligação entre as ideias do texto.", 
+	"option3":"fornecer pormenores importantes sobre o texto original.", 
+	"option4":"tornar o texto compreensível.", 
+	"answer":"2",
+	"category":"Português"
+},{
+	"question":"O que é necessário para que a procuração seja válida?", 
+	"option1":"A assinatura do mandante", 
+	"option2":"A identificação do representado", 
+	"option3":"O reconhecimento dos intervenientes", 
+	"option4":"O reconhecimento do notário", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"“…apesar de a cooperação não ser a panaceia…”. \n Como se classifica morfologicamente a palavra “não”?", 
+	"option1":"Advérbio de negação", 
+	"option2":"Locução adverbial", 
+	"option3":"Preposição", 
+	"option4":"Verbo", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"“…as terras empobrecidas; os rio…” \n quanto à formação a palavra «empobrecidas» é…", 
+	"option1":"Composta por aglutinação.", 
+	"option2":"Composta por justaposição.", 
+	"option3":"Derivada por sufixação e por prefixação.", 
+	"option4":"Derivada por prefixação e por sufixação", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"Que representa desenlace no texto dramático?", 
+	"option1":"Apresentação das personagens", 
+	"option2":"Conjunto dos actos que fazem a acção dramática progredir", 
+	"option3":"Conjunto dos actos que fazem a acção dramática regredir", 
+	"option4":"Desfecho da acção dramática", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"Uma das características da ficha de citação é apresentar…", 
+	"option1":"as frases entre aspas e conclusões alcançadas.", 
+	"option2":"as frases entre aspas e transcrevê-las textualmente.", 
+	"option3":"as frases entre aspas sem incluir os erros.", 
+	"option4":"as frases entre aspas. e o resumo das principais ideias do texto.", 
+	"answer":"2",
+	"category":"Português"
+},{
+	"question":"Uma das principais funções da ficha de leitura é…", 
+	"option1":"identificar o autor da ficha de leitura.", 
+	"option2":"identificar os erros existentes no texto.", 
+	"option3":"referenciar os elementos do texto para o seu posterior uso.", 
+	"option4":"referenciar os elementos do texto para evitar repetição.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"As sequências do artigo de opinião são apresentação do tema, exposição do/das…", 
+	"option1":"consequências e tomada de posição.", 
+	"option2":"consequências, tomada de posição e conclusão.", 
+	"option3":"problema e conclusão.", 
+	"option4":"problema, tomada de posição e conclusão", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"As opções apresentadas referem-se ao cronista, EXCEPTO…", 
+	"option1":"escreve textos narrativos sem desfecho.", 
+	"option2":"escreve textos relacionados com o nosso quotidiano.", 
+	"option3":"imagina e escreve textos narrativos e dramáticos.", 
+	"option4":"observa, critica fenómenos e factos apresentados.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Qual das opções define a procuração?", 
+	"option1":"Apresentação de tudo o que se refere a um problema", 
+	"option2":"Documento em que se confere um poder para julgar e condenar", 
+	"option3":"Documento em que se delega alguém com um manadato", 
+	"option4":"Exposição escrita relativa a um assunto referente a alguém", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Qual das opções caracteriza um bom resumo?", 
+	"option1":"Conter citações textuais e informações que não são do texto original.", 
+	"option2":"Possuir informações que não existam no texto original.", 
+	"option3":"Ser breve, conter as ideias nucleares e prescindir do acessório.", 
+	"option4":"Ser composto por uma série de frases e enumerações de ideias.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Todas as opções se referem ao resumo, EXCEPTO…", 
+	"option1":"a linguagem deve ser simples e clara.", 
+	"option2":"deve-se substituir as palavras cultas por expressões correntes.", 
+	"option3":"é alongá-lo sem emitir juízos sobre as ideias do texto original.", 
+	"option4":"é reduzi-lo sem emitir juízos sobre as ideias fundamentais do texto.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Todas as opções são critérios da literatura oral, EXCEPTO os textos que…", 
+	"option1":"não se alteram ao longo do tempo e são incorruptíveis.", 
+	"option2":"são conservados na memória dos indivíduos.", 
+	"option3":"são transmitidos de geração a geração e de umas pessoas às outras.", 
+	"option4":"têm uma realização oral e conservados na memória.", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"Em que grau se encontra o adjectivo profundíssimo?", 
+	"option1":"Superlativo Relativo de Inferioridade", 
+	"option2":"Superlativo absoluto analítico", 
+	"option3":"Superlativo absoluto sintético", 
+	"option4":"Superlativo relativo de superioridade", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Qual é o objectivo comunicativo do texto expositivo – argumentativo?", 
+	"option1":"Convencer o alocutário", 
+	"option2":"Expressar sentimentos", 
+	"option3":"Expor acontecimentos", 
+	"option4":"Transmitir informações", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"Quanto à formação a palavra “enriquecer” é…", 
+	"option1":"composta por aglutinação.", 
+	"option2":"composta por justaposição.", 
+	"option3":"derivada por parassíntese.", 
+	"option4":"derivada por sufixação.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"“…há sempre uma medida possível…” o verbo sublinhado classifica-se como…", 
+	"option1":"de movimento.", 
+	"option2":"de separação.", 
+	"option3":"impessoal.", 
+	"option4":"meteorológico.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"“…há sempre uma medida possível…”. \n Que tipo de sujeito ocorre na frase?", 
+	"option1":"Indeterminado", 
+	"option2":"Inexistente", 
+	"option3":"Simples", 
+	"option4":"Subentendido", 
+	"answer":"2",
+	"category":"Português"
+},{
+	"question":"Qual das opções distingue a Reportagem da Notícia?", 
+	"option1":"Brevidade", 
+	"option2":"Elaboração", 
+	"option3":"Objectividade", 
+	"option4":"Veracidade", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"O que se apresenta para a identificação de uma obra?", 
+	"option1":"Bibliografia", 
+	"option2":"Biografia", 
+	"option3":"Citação Bibliográfica", 
+	"option4":"Referência bibliográfica", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"Todas as alternativas apresentam uma sequência de géneros da narrativa, EXCEPTO…", 
+	"option1":"mito, novela, romance", 
+	"option2":"novela, lenda, mito", 
+	"option3":"romance, conto, fábula", 
+	"option4":"romance, fábula, artigo de opinião", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"A diversidade da língua portuguesa dá lugar a variedades dialetais. Dialecto é a …", 
+	"option1":"língua materna de um indivíduo.", 
+	"option2":"língua não oficializada de um país.", 
+	"option3":"uniformização regional da realização de uma língua.", 
+	"option4":"variação regional da realização de uma língua.", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"“Eu sou carvão” Que figura de estilo está presente neste verso?", 
+	"option1":"Anáfora", 
+	"option2":"Comparação", 
+	"option3":"Metáfora", 
+	"option4":"Pleonasmo", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Eu sou carvão! \n Tenho que arder \n E queimar tudo com o fogo da minha \n Combustão. \n Na estrofe, ocorre uma rima…", 
+	"option1":"cruzada.", 
+	"option2":"emparelhada.", 
+	"option3":"interpolada.", 
+	"option4":"solta ou branca.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"“Tenho que arder na exploração” O presente do conjuntivo, da forma verbal «Tenho» é…", 
+	"option1":"tenha.", 
+	"option2":"teria.", 
+	"option3":"tido.", 
+	"option4":"tivesse.", 
+	"answer":"1",
+	"category":"Português"
+},{
+	"question":"“Sim!” Morfologicamente, a palavra transcrita é…", 
+	"option1":"advérbio de aceitação.", 
+	"option2":"advérbio de afirmação.", 
+	"option3":"advérbio de negação.", 
+	"option4":"advérbio de dúvida.", 
+	"answer":"2",
+	"category":"Português"
+},{
+	"question":"“Eu sou carvão”. Que função sintáctica desempenha a palavra sublinhada?", 
+	"option1":"Aposto", 
+	"option2":"Atributo", 
+	"option3":"Predicativo do sujeito", 
+	"option4":"Vocativo", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"O texto lírico tem origem na(s) /no(s) …", 
+	"option1":"cancioneiros.", 
+	"option2":"classicismo.", 
+	"option3":"poesia moçambicana.", 
+	"option4":"poesia trovadoresca.", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"Eu sou o carvão mais ardente da mina. \n As palavras «mais e ardente» são respectivamente…", 
+	"option1":"adjectivo, advérbio.", 
+	"option2":"adjectivo, substantivo.", 
+	"option3":"advérbio, adjectivo.", 
+	"option4":"substantivo, verbo.", 
+	"answer":"3",
+	"category":"Português"
+},{
+	"question":"Eu sou o carvão mais ardente da mina. \n Em que grau se encontra o adjectivo «mais ardente» da frase?", 
+	"option1":"Comparativo de igualdade", 
+	"option2":"normal", 
+	"option3":"superlativo relativo de inferioridade", 
+	"option4":"superlativo relativo de superioridade", 
+	"answer":"4",
+	"category":"Português"
+},{
+	"question":"Os termos chapa (de zinco) / e chapa ( meio de transporte), são exemplos de evolução…", 
+	"option1":"fonética.", 
+	"option2":"morfológica.", 
+	"option3":"semântica.", 
+	"option4":"sintáctica.", 
+	"answer":"3",
+	"category":"Português"
+},{
 	"question":"Em que ano foi fundada a união nacional para Moçambique independente?", 
 	"option1":"2003", 
 	"option2":"1975", 
@@ -1944,10 +2312,10 @@ let questions = [{
 	"answer":"2",
 	"category":"História"
 },{
-	"question":"Bronsted- Lowry definem ácido como sendo a…", 
-	"option1":"espécie que cede protão H+ a uma base.", 
+	"question":"Bronsted-Lowry definem ácido como sendo a…", 
+	"option1":"espécie que cede protão H⁺ a uma base.", 
 	"option2":"substância que recebe um par de electrões.", 
-	"option3":"substância que em solução aquosa produz iões H+.", 
+	"option3":"substância que em solução aquosa produz iões H⁺.", 
 	"option4":"espécie que cede um par de electrões.", 
 	"answer":"1",
 	"category":"Química"
@@ -1961,10 +2329,10 @@ let questions = [{
 	"category":"Química"
 },{
 	"question":"O produto da reacção entre 3-Cloropenteno-2 e Cloreto de hidrogénio é…", 
-	"option1":"1,2- dicloropentano.", 
-	"option2":"2,2- dicloropentano.", 
-	"option3":"2,3- dicloropentano.", 
-	"option4":"3,3- dicloropentano.", 
+	"option1":"1,2-dicloropentano.", 
+	"option2":"2,2-dicloropentano.", 
+	"option3":"2,3-dicloropentano.", 
+	"option4":"3,3-dicloropentano.", 
 	"answer":"4",
 	"category":"Química"
 },{
@@ -1976,7 +2344,7 @@ let questions = [{
 	"answer":"4",
 	"category":"Química"
 },{
-	"question":"Qual é o pH  de uma solução cujo [H+] é igual a 0.3 mol/l?", 
+	"question":"Qual é o pH  de uma solução cujo [H⁺] é igual a 0.3 mol/l?", 
 	"option1":"pH = 11,4", 
 	"option2":"pH = 2,6", 
 	"option3":"pH = 4,7", 
@@ -1984,11 +2352,11 @@ let questions = [{
 	"answer":"4",
 	"category":"Química"
 },{
-	"question":"O ácido HCOOH é mais forte que o CH₃COOH. qual é  a conclusão que se tira sobre a força relativa das suas bases conjugadas HCOO e CH₃COO?", 
-	"option1":"HCOO base forte", 
-	"option2":"HCOO base fraca", 
-	"option3":"CH₃C00 ácido fraco", 
-	"option4":"CH₃COO base fraca", 
+	"question":"O ácido HCOOH é mais forte que o CH₃COOH. qual é  a conclusão que se tira sobre a força relativa das suas bases conjugadas HCOO⁻ e CH₃COO⁻ ?", 
+	"option1":"HCOO⁻ base forte", 
+	"option2":"HCOO⁻ base fraca", 
+	"option3":"CH₃C00⁻ ácido fraco", 
+	"option4":"CH₃COO⁻ base fraca", 
 	"answer":"2",
 	"category":"Química"
 },{
@@ -2024,7 +2392,7 @@ let questions = [{
 	"answer":"3",
 	"category":"Química"
 },{
-	"question":"Numa mistura formada por coca – cola e gelo, nota-se a libertação de vapor de água. Esse sistema é…", 
+	"question":"Numa mistura formada por coca–cola e gelo, nota-se a libertação de vapor de água. Esse sistema é…", 
 	"option1":"heterogénio, constituído por duas fases", 
 	"option2":"heterogénio, constituído por três fases", 
 	"option3":"homogénio, constituído por duas fases", 
@@ -2037,6 +2405,126 @@ let questions = [{
 	"option2":"ácido fraco", 
 	"option3":"base forte", 
 	"option4":"base fraca", 
+	"answer":"4",
+	"category":"Química"
+},{
+	"question":"O mecanismo de uma reacção química indica…", 
+	"option1":"o balanço do sistema da reacção", 
+	"option2":"o modo como a velocidade varia durante a reacção", 
+	"option3":"a ordem da reacção química", 
+	"option4":"vários passos pelos quais os reagentes se transformam em produtos", 
+	"answer":"4",
+	"category":"Química"
+},{
+	"question":"Uma reacção química só pode atingir o estado de equilíbrio se ocorrer num sistema…", 
+	"option1":"aberto", 
+	"option2":"aberto e fechado", 
+	"option3":"fechado", 
+	"option4":"semi-fechado", 
+	"answer":"3",
+	"category":"Química"
+},{
+	"question":"A ligação química existente na molécula de HI é…", 
+	"option1":"covalente.", 
+	"option2":"dativa.", 
+	"option3":"iónica.", 
+	"option4":"metálica.", 
+	"answer":"1",
+	"category":"Química"
+},{
+	"question":"Considere um elemento cujo Z= 56. \n O grupo, o período e a valência deste elemento são respectivamente iguais a…", 
+	"option1":"IIA, 6º, II.", 
+	"option2":"IIB, 6º, II.", 
+	"option3":"IVA, 4º, I.", 
+	"option4":"VIB, 2º, III.", 
+	"answer":"1",
+	"category":"Química"
+},{
+	"question":"De acordo com a regra de Hund, a estrutura electrónica do átomo de carbono, no estado fundamental, é representada por…", 
+	"option1":"1s² 2s² 3p².", 
+	"option2":"1s² 2s² 2p².", 
+	"option3":"1s² 2s² 2p¹x 2p¹y.", 
+	"option4":"1s² 2s² 2p¹x 2p¹y 2p¹₂.", 
+	"answer":"3",
+	"category":"Química"
+},{
+	"question":"A geometria espacial das moléculas: BF₃; H₂S; PH₃; NH₄⁺ e N₂ são respectivamente...", 
+	"option1":"linear, angular, tetraédrica, piramidal, triangular plana.", 
+	"option2":"piramidal, angular, tetraédrica, triangular, linear.", 
+	"option3":"tetraédrica, angular, piramidal, linear, triangular.", 
+	"option4":"triangular, angular, piramidal, tetraédrica, linear.", 
+	"answer":"4",
+	"category":"Química"
+},{
+	"question":"A velocidade da reacção altera-se quando se modifica a temperatura do sistema. Qual dos factores abaixo NÃO é alterado pela variação da temperatura?", 
+	"option1":"A Eficiência das colisões", 
+	"option2":"aumentará quatro vezes", 
+	"option3":"diminuirá duas vezes", 
+	"option4":"diminuirá quatro vezes", 
+	"answer":"1",
+	"category":"Química"
+},{
+	"question":"Durante a oxidação do iodo do ácido iodídrico (HI) até ácido periódico (HIO₄) transferem-se…", 
+	"option1":"5e⁻.", 
+	"option2":"6e⁻", 
+	"option3":"7e⁻", 
+	"option4":"8e⁻", 
+	"answer":"4",
+	"category":"Química"
+},{
+	"question":"Qual dos pares dos reagentes conduz a uma reacção de saponificação?", 
+	"option1":"CH₃COOC₂H₅ + NaOH", 
+	"option2":"HCOOH + C₂H₅OH", 
+	"option3":"CH₃OC₂H₅ + NaOH", 
+	"option4":"CH₃COOH + C₆H₅OH", 
+	"answer":"1",
+	"category":"Química"
+},{
+	"question":"Qual é o valor do pH de uma solução de HCN a 0,04M? (Ka= 4,9.10⁻¹⁰ M)", 
+	"option1":"1,5", 
+	"option2":"3,15", 
+	"option3":"4,25", 
+	"option4":"5,35", 
+	"answer":"4",
+	"category":"Química"
+},{
+	"question":"CaO₍s₎ + CO₂₍g₎ → CaCO₃₍g₎ \n Qual é a expressão da lei de velocidade?", 
+	"option1":"V=k.[CaO][CO₂]", 
+	"option2":"V=k.[CO₂]", 
+	"option3":"V=k.[CaO]", 
+	"option4":"V=k.[CaO][CO₂]²", 
+	"answer":"2",
+	"category":"Química"
+},{
+	"question":"Os seguintes compostos são orgânicos, EXEPTO…", 
+	"option1":"C₂H₅OH", 
+	"option2":"C₈H₁₈", 
+	"option3":"CO₂", 
+	"option4":"CH₃NH₂", 
+	"answer":"3",
+	"category":"Química"
+},{
+	"question":"Qual é o composto mais simples da função Cetona?", 
+	"option1":"Metanona", 
+	"option2":"Butanona", 
+	"option3":"Propanona", 
+	"option4":"Pentanona", 
+	"answer":"3",
+	"category":"Química"
+},{
+	"question":"O buteno-1 e buteno-2, que isómeros são", 
+	"option1":"Cadeia", 
+	"option2":"Função", 
+	"option3":"Geométricos", 
+	"option4":"Posição", 
+	"answer":"4",
+	"category":"Química"
+},{
+	"question":"Qual é o isómeros do ciclo pentano", 
+	"option1":"Dimetil propano", 
+	"option2":"3-metilbutino", 
+	"option3":"Pentano", 
+	"option4":"Penteno-2", 
 	"answer":"4",
 	"category":"Química"
 },{
@@ -2054,22 +2542,6 @@ let questions = [{
 	"option3":"fundiu", 
 	"option4":"gaseificou", 
 	"answer":"2",
-	"category":"Química"
-},{
-	"question":"O mecanismo de uma reacção química indica…", 
-	"option1":"o balanço do sistema da reacção", 
-	"option2":"o modo como a velocidade varia durante a reacção", 
-	"option3":"a ordem da reacção química", 
-	"option4":"vários passos pelos quais os reagentes se transformam em produtos", 
-	"answer":"4",
-	"category":"Química"
-},{
-	"question":"Uma reacção química só pode atingir o estado de equilíbrio se ocorrer num sistema…", 
-	"option1":"aberto", 
-	"option2":"aberto e fechado", 
-	"option3":"fechado", 
-	"option4":"semi-fechado", 
-	"answer":"3",
 	"category":"Química"
 },{
 	"question":"Qual é o domínio de existência da expressão Cos(1-X) + lg(X+1)?", 
@@ -2417,10 +2889,10 @@ let questions = [{
 	"category":"Matemática"
 },{
 	"question":"Um corpo move-se ao longo de um eixo horizontal orientado positivamente da esquerda para direita de acordo com a equação r(t) = −t³ − 9t² + 24t + 1. Qual é a aceleração no instante t = 1s ?", 
-	"option1":"−24m/s2", 
-	"option2":"−12m/s2", 
-	"option3":"−10m/s2", 
-	"option4":"−9m/s2", 
+	"option1":"−24m/s²", 
+	"option2":"−12m/s²", 
+	"option3":"−10m/s²", 
+	"option4":"−9m/s²", 
 	"answer":"1",
 	"category":"Matemática"
 },{
@@ -3025,10 +3497,10 @@ let questions = [{
 	"category":"Matemática"
 },{
 	"question":"A segunda derivada da função g(x) = sen2x - cos3x :", 
-	"option1":"g′′(x) = 4sen2x - 9cos3x", 
-	"option2":"g′′(x) = 2cos2x + 3sen3x", 
-	"option3":"g′′(x) = 2cos2x - 3sen3x", 
-	"option4":"g′′(x) = 9cos3x - 4sen2x", 
+	"option1":"g′′(x) = 4sen(2x) - 9cos(3x)", 
+	"option2":"g′′(x) = 2cos(2x) + 3sen(3x)", 
+	"option3":"g′′(x) = 2cos(2x) - 3sen(3x)", 
+	"option4":"g′′(x) = 9cos(3x) - 4sen(2x)", 
 	"answer":"4",
 	"category":"Matemática"
 },{
@@ -3384,30 +3856,67 @@ let questions = [{
 	"answer":"2",
 	"category":"Física"
 }];
-
 let pergunta = new Array();
-let category = sessionStorage.getItem('disciplina');
-let pos = 0;
-for (let index = 0; index < questions.length; index++) {
-	if(questions[index].category === category){
-		pergunta[pos] = questions[index];
-		pos++;
+function questionsCategory() {
+	
+	let category = sessionStorage.getItem('disciplina');
+	let nQuestion = 0;
+	for (let index = 0; index < questions.length; index++) {
+		if(questions[index].category === category){
+			pergunta[nQuestion] = questions[index];
+			nQuestion++;
+		}
 	}
+	return pergunta;
 }
 /*
 1498
 
 ,{
+	"question":"Qual é a fórmula geral dos alcinos?", 
+	"option1":"CnH2n", 
+	"option2":"CnH2n", 
+	"option3":"CnH2n", 
+	"option4":"CnH2n", 
+	"answer":"2",
+	"category":"Química"
+},{
 	"question":"", 
 	"option1":"", 
 	"option2":"", 
 	"option3":"", 
 	"option4":"", 
-	"answer":"1",
-	"category":"Português"
+	"answer":"2",
+	"category":"Química"
+},{
+	"question":"", 
+	"option1":"", 
+	"option2":"", 
+	"option3":"", 
+	"option4":"", 
+	"answer":"2",
+	"category":"Química"
+},{
+	"question":"", 
+	"option1":"", 
+	"option2":"", 
+	"option3":"", 
+	"option4":"", 
+	"answer":"2",
+	"category":"Química"
+},{
+	"question":"", 
+	"option1":"", 
+	"option2":"", 
+	"option3":"", 
+	"option4":"", 
+	"answer":"2",
+	"category":"Química"
 }
+
+
 ≥ ≠ ≤ “ ” « » ° º x³ – 5x² ꓵ ꓴ ₃ π º ∩ √
-⁻¹²³⁴⁵⁶⁷⁸⁹⁰ˣⁿ ₀₁₂₃₄₅₆₇₈₉ ℮ Ω α
+⁻¹²³⁴⁵⁶⁷⁸⁹⁰ˣⁿ⁺ ₀₁₂₃₄₅₆₇₈₉ ℮ Ω α ₍₎ 
 ,{
 	"question":"", 
 	"option1":"", 
@@ -3437,7 +3946,7 @@ A*. objecto indirecto B. objecto directo C. sujeito D. adjunto E. oblíquo
 
 “Atualmente «existem» cerca de 7 mil milhões de pessoas no mundo.” Como se classifica o verbo desta frase?
 A. Impessoal B. Transitivo indirecto C. Copulativo
-D. Intransitivo E. Transitivo directo
+D*. Intransitivo E. Transitivo directo
 
 Sejam D(x) um polinómio de grau 3 e P(x) um polinómio de grau 5. Sejam Q(x) e R(x) dois polinómios
 tais que P(x) = D(x) x Q(x) + R(x) . Qual das seguintes afirmações é necessariamente verdadeira?
