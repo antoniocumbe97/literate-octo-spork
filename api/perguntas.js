@@ -2458,10 +2458,10 @@ let questions = [{
 },{
 	"question":"A velocidade da reacção altera-se quando se modifica a temperatura do sistema. Qual dos factores abaixo NÃO é alterado pela variação da temperatura?", 
 	"option1":"A Eficiência das colisões", 
-	"option2":"aumentará quatro vezes", 
-	"option3":"diminuirá duas vezes", 
-	"option4":"diminuirá quatro vezes", 
-	"answer":"1",
+	"option2":"Energia de activação", 
+	"option3":"Energia de activação e número de colisões", 
+	"option4":"Número e eficiência das colisões", 
+	"answer":"2",
 	"category":"Química"
 },{
 	"question":"Durante a oxidação do iodo do ácido iodídrico (HI) até ácido periódico (HIO₄) transferem-se…", 
