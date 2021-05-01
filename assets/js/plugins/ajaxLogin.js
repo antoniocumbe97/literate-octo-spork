@@ -30,7 +30,7 @@ BtnLogin.onclick = function(event){
         messageBox.innerText = message;
         messageBox.style.display = "block";
     }else{
-        sessionStorage.setItem('username', username.value);
+        localStorage.setItem('username', username.value);
         window.location.href = "menu.html";
     }
 }
