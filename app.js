@@ -144,7 +144,7 @@ function newGame(){
     Quiz.countCorrect = 0;
 	Quiz.countIncorrect = 0;
 	Quiz.subject = sessionStorage.getItem('disciplina');
-	Quiz.username = sessionStorage.getItem('username');
+	Quiz.username = localStorage.getItem('username');
 	subject.innerText = Quiz.subject; 
 	username.innerText = Quiz.username;
 	/* create new session's for Game, thats prevent lose the data even the page reload */
