@@ -26,7 +26,7 @@ let messageBox = document.getElementById('messageBox');
 let msgTitle = document.getElementById('messageTitle');
 let BtnStart = document.getElementById('BtnStart');
 const message = "Selecione uma disciplina";
-
+document.getElementById('username').innerText = localStorage.getItem('username');
 $(function(){
     let selectDisciplinas;
     selectDisciplinas += `<option selected value=''>Escolher...</option>`;
@@ -49,7 +49,6 @@ $('#menuSelect').change(function(){
         msgTitle.style.display = "none";
         BtnStart.disabled = true;
     }
-    console.log(disciplina.value);
 });
 
 BtnStart.onclick = function(event){

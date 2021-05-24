@@ -11,13 +11,11 @@ function eVazio(){
     }
 }
 function foco(){
-    console.log("Entrou");
     messageBox.style.display = "none";
     BtnLogin.disabled = false;
 }
 function desfoco(){
     if(this.eVazio()){
-        console.log("Saiu");
         messageBox.innerText = message;
         messageBox.style.display = "block";
         BtnLogin.disabled = true;

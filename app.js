@@ -47,6 +47,13 @@ const Levels =[{
 	"questionBG":"#e2e3e5",
 	"questionBorder":"1px solid #d6d8db",
 	"questionColor":"#383d41",
+},{
+	"level":"6",
+	"optionBG":"#820053",
+	"optionColor":"#f5f5f5",
+	"questionBG":"#5e003c",
+	"questionBorder":"1px solid #d6d8db",
+	"questionColor":"#ffffff",
 }];
 
 const Question = {
@@ -124,8 +131,9 @@ function randomQuestions(){
 
 function newGame(){
 
-	score.innerText = 0;  //
-	Timer.segundos = 0; Timer.minutos = 0;
+	score.innerText = 0;
+	Timer.secunds = 0;
+	Timer.minutes = 0;
 
 	Question.all = questionsCategory();
 	Question.sequence = randomQuestions();
@@ -154,7 +162,7 @@ function newGame(){
 	
 	/* call to first question */
 	showQuestion(Question.show());
-	//setTimeout(setInterval(timeCounter, 1000), 1500);
+	setTimeout(setInterval(timeCounter, 1000), 1500);
 
 }
 
@@ -171,6 +179,13 @@ function checkAnswer(answer){
 		options[Question.all[Question.sequence[Question.current]].answer-1].style.backgroundColor = '#28a745';
 	}
 	Quiz.countTotal++;
+	const GameState = {
+		"subject": Quiz.subject,
+		"score": Quiz.currentScore,
+		"time": `${Timer.minutes}:${Timer.secunds}`
+	}
+	console.log(GameState)
+	this.setRanking(GameState);
 	setTimeout(update, 1500);
 }
 
@@ -215,7 +230,6 @@ function endGameOption(option){
 		//window.location.href = "../views/game.html";
 		/*
 		Quiz = JSON.parse(sessionStorage.getItem('statusLevel'));
-		console.log(Quiz);
 		Quiz.progress = 100;
 		Quiz.countIncorrect = 0;
 		Quiz.attrStatus = 'playing';
@@ -223,8 +237,6 @@ function endGameOption(option){
 		playing.style.display = 'block';
 		*/
 		setTimeout(window.location.href = "../views/menu.html", 2000);
-    }else if(option === 'ranking'){
-		window.location.href = "./ranking.html";
     }else if(option === 'quit'){
 		window.location.href = "./menu.html";
 	}else if(option === 'next'){
@@ -242,7 +254,7 @@ function endGame(){
 	playing.style.display = 'none';
 	result.style.display = 'block';
 	document.getElementById('countCorrect').innerText = Quiz.countCorrect;
-	document.getElementById('countIncorrect').innerText = Quiz.countIncorrect;
+	document.getElementById('countIncorrect').innerText = Quiz.countTotal - Quiz.countCorrect;
 	document.getElementById('countTotal').innerText = Quiz.countTotal;
 }
 
@@ -280,74 +292,62 @@ function showQuestion(q){
 
 function saveStatus(){
 	let t = JSON.parse(sessionStorage.getItem('statusLevel'));
-	console.log('countIncorrect :'+Quiz.countIncorrect)
 	if((Quiz.countIncorrect > t.countIncorrect) && (Quiz.level === t.level))
 	{
 		Atual = Quiz.countIncorrect;
-		console.log(`Atual Recebeu countIncorrect ${Quiz.countIncorrect} e ficou ${Atual}`)
-		console.log('countIncorrect guardado no sesstionStorage :'+t.countIncorrect)
 		let Acumulado = t.countIncorrect+Quiz.countIncorrect;
-		console.log(`Acumulado recebeu countIncorrect guardado no sesstionStorage ${t.countIncorrect} somou com countIncorrect ${Quiz.countIncorrect} e ficou ${Acumulado}`);
 		Quiz.countIncorrect = Acumulado;
-		console.log(`countIncorrect recebeu Acumulado ${Acumulado} e ficou ${Quiz.countIncorrect}`);
 		sessionStorage.setItem('statusLevel',JSON.stringify(Quiz));
 		Quiz.countIncorrect = Atual;
-		console.log('countIncorrect  recebeu Atual: '+Quiz.countIncorrect);
 	}else{
 		sessionStorage.setItem('statusLevel',JSON.stringify(Quiz));		
 	}
-	console.log('Gravou countIncorrect no sesstionStorage '+Quiz.countIncorrect);
-	console.log(JSON.parse(sessionStorage.getItem('statusLevel')));
-	console.log(JSON.parse(sessionStorage.getItem('allQuestion')));
-	console.log(JSON.parse(sessionStorage.getItem('sequenceQuestion')));
-	console.log(sessionStorage.getItem('currentQuestion'));
-	console.log('')
 }
 
+function setRanking(GameState){
+	const arrayFiltro = JSON.parse(localStorage.getItem('ranking')) || [];
+	if(Number(arrayFiltro) === 0){
+		arrayFiltro.push(GameState);
+	}else{
+		let notFound = true;
+		arrayFiltro.forEach((item)=>{
+			if(item.subject === GameState.subject){
+				notFound = false;
+				if(item.score < GameState.score){
+					item.score = GameState.score;
+					item.time = GameState.time;
+				}
+			}
+		});
+		if(notFound){
+			arrayFiltro.push(GameState);
+		}
+		localStorage.removeItem('ranking');
+	}
+	localStorage.setItem('ranking',JSON.stringify(arrayFiltro));
+}
+function timeCounter(){
+	if((Quiz.attrStatus == 'playing')){
+		Timer.secunds++;
+	}
+	//time.innerHTML = Timer.minutes+":"+Timer.secunds;
+    if(Timer.secunds === 59){
+        Timer.minutes++;
+        Timer.secunds = 0;
+	}
+}
 
 newGame();
 /*
-function saveScore(){
-	sessionStorage.setItem('lastscore',certas);
-	sessionStorage.setItem('time',time.textContent);
-
-	const highScores = JSON.parse(localStorage.getItem('highScores')) || [];
-	const score = {
-		score:   sessionStorage.getItem('lastscore'),
-		time:    sessionStorage.getItem('time'),
-		subject: sessionStorage.getItem('disciplina')
-	}
-	highScores.push(score);
-	highScores.sort((a,b)=>{
-		return b.score - a.score;
-	});
-	highScores.splice(5);
-	localStorage.setItem('highScores',JSON.stringify(highScores));
-	sessionStorage.clear('lastscore');
-	sessionStorage.clear('time');
-	
-	console.log('Gravou');
-}
-function timeCounter(){
-	if((status)){
-		segundos++;
-	}
-	time.innerHTML = minutos+":"+segundos;
-    if(segundos === 59){
-        minutos++;
-        segundos = 0;
-	}
-}
-
 BtnPausePlay.addEventListener('click', e =>{ 
 	if(e.target.textContent === 'Pausar'){
-		status = false;
+		Quiz.attrStatus = 'stop';
 		pause = true;
 		e.target.textContent = 'Continuar';
 	}else{
 		pause = false;
-		status = true;
+		Quiz.attrStatus = 'playing'
 		e.target.textContent = 'Pausar';
 	}
-});
+})
 */

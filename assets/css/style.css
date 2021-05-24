@@ -229,3 +229,41 @@ a:hover{
     font-weight: bold;
     border-bottom: 1px solid #02442a;
 }
+
+.home-header, .home-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    width: min(1200px, 100%);
+    margin: 0px auto;
+    align-items: center;
+    background-color: #02442a;
+}
+.navBrand{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.navBrand > img{
+    width: 40px;
+}
+.navBrand > h5{
+    color: white;
+    font-size: 16px;
+}
+.navUser{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10px;
+}
+.navUser > a{
+    color: white;
+    margin-right: 5px;
+    text-align: right;
+}
+.navUser > img{
+    width: 40px;
+    height: 40px;
+}
