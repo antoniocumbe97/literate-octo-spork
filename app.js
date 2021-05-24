@@ -184,7 +184,6 @@ function checkAnswer(answer){
 		"score": Quiz.currentScore,
 		"time": `${Timer.minutes}:${Timer.secunds}`
 	}
-	console.log(GameState)
 	this.setRanking(GameState);
 	setTimeout(update, 1500);
 }
