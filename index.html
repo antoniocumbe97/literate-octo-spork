@@ -13,7 +13,12 @@
   <body>
     <script>
       window.onload = function(){
-        window.location.href ="http://solotov.herokuapp.com/";
+        if(localStorage.getItem('username') === null){
+          window.location.href ="/login";
+        }else{
+          window.location.href ="/menu";
+        }
+        //window.location.href ="http://solotov.herokuapp.com/";
       }
     </script>
     
